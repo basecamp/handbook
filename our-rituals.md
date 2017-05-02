@@ -22,6 +22,6 @@ Once every month or two, everyone in the company is called upon to do a Support 
 ## 5x12s
 Every month, Andrea randomly selects 5 people to chat on a call with Jason and David. The call has no agenda nor is there any preparation needed (besides putting on pants — please put on pants). The participants join a Google Hangout and chat about anything other than work. 
 
-Some interesting topics that have been covered in the past: Jamie’s $1000 toilet, Noah’s intense longing for a dog, Wailin’s Ted Cruz sighting, and petty juvenile delinquency stories from an alarming number of employees. 5x12s happen on the first Wednesday of every month at 10AM Chicago time. Andrea transcribes the call and posts the transcription in Basecamp for everyone to read afterwards. 
+Some interesting topics that have been covered in the past: Jamie’s $1,000 toilet, Noah’s intense longing for a dog, Wailin’s Ted Cruz sighting, and petty juvenile delinquency stories from an alarming number of employees. 5x12s happen on the first Wednesday of every month at 10AM Chicago time. Andrea transcribes the call and posts the transcription in Basecamp for everyone to read afterwards.
 
 We have a strict policy of not sharing anything that’s said in a 5x12 in a public forum, so you can talk freely. These calls are supposed to be fun, so please try to have a good time with them!
