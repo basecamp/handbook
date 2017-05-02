@@ -14,7 +14,7 @@ Key values:
 
 * **Generosity.** Generosity is a wonderful virtue. Being generous is surprising someone on the other end with goodwill and asking for nothing in return. It could be time, attention, or treasure - we give what we're expected to, and then some.
 
-* **Independence.** This one's a bit of a contradiction. After speaking about shared values, here's one that breaks away: Indepenence. We encourage independent thought and original thinking. Since day one, we've always done things our way. We don't look to the industry or our competitors for the way forward. We see things with our own eyes, make our own calls, and offer thoughts, perspectives, ideas, and products that *we* think are right, not that *they* think are right.
+* **Independence.** This one's a bit of a contradiction. After speaking about shared values, here's one that breaks away: Independence. We encourage independent thought and original thinking. Since day one, we've always done things our way. We don't look to the industry or our competitors for the way forward. We see things with our own eyes, make our own calls, and offer thoughts, perspectives, ideas, and products that *we* think are right, not that *they* think are right.
 
 ## Helping small businesses deal with growth
 
