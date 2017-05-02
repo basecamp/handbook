@@ -44,7 +44,7 @@ Every three years, employees are eligible to take a one-month-long paid sabbatic
 
 ### Parental Leave
 
-When you welcome a new child (birthed or adopted), Basecamp encourages you to take up to 16 weeks leave for primary caregivers and up to 6 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid. Note that this does not guarantee your employment. We're simply keeping your job open for an additional 8 weeks, unless your position becomes redundant.
+When you welcome a new child (birthed or adopted), Basecamp encourages you to take up to 16 weeks leave for primary caregivers and up to 6 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid.
 
 ### 401K Retirement Plan
 
