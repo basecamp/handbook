@@ -47,7 +47,7 @@ We'll work with you through this process. Start early, as soon as we have dates 
 
 ### Trusted Traveler Programs
 
-Border screening is slow and stressful every time. "Trusted traveler" programs expedite and bypass some screening. Citizens of some countries are eligible for [Global Entry](https://help.cbp.gov/app/answers/detail/a_id/1035/~/global-entry-program---who-can-apply) and Canadians are eligible for [NEXUS](https://www.cbp.gov/travel/trusted-traveler-programs/nexus/eligibility). These programs are completely optional but may make life a little easier, at the cost of onerous biometric scans like fingerprinting (for Global Entry and NEXUS) and iris scanning (for NEXUS).
+Border screening is slow and stressful every time. "Trusted traveler" programs expedite and bypass some screening. Citizens of some countries are eligible for [Global Entry](https://help.cbp.gov/app/answers/detail/a_id/1035/~/global-entry-program---who-can-apply) and Canadians are eligible for [NEXUS](https://www.cbp.gov/travel/trusted-traveler-programs/nexus/nexus-eligibility). These programs are completely optional but may make life a little easier, at the cost of onerous biometric scans like fingerprinting (for Global Entry and NEXUS) and iris scanning (for NEXUS).
 
 Note: An ESTA is still required for travel; these programs just speed up entry.
 
