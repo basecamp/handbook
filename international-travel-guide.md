@@ -99,7 +99,7 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
   * Log out of Dropbox and disconnect.
 * Touch ID (optional)
   * Unlocking your device can be compelled at US border crossings, but other countries may be less intrusive, so it may make sense to make your device a little harder to unlock.
-  * Disable Touch ID on your phone, tablet, and laptop. Require a passcode/password to unlock.
+  * Enable Touch ID on your phone, tablet, and laptop. Require a passcode/password to unlock.
 
 ## Checklist: At Customs
 
