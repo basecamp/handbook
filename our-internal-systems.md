@@ -28,15 +28,9 @@ We track programming exceptions on Sentry. When a customer hits a "Oops, somethi
 
 https://getsentry.com/
 
-### Skylight
-
-We track performance metrics for Basecamp 3 on Skylight. This is a place for programmers and operations to investigate whether there a deeper performance trends we need to deal with and dive into the reasons why.
-
-https://www.skylight.io
-
 ### Customer.IO
 
-All drip campaigns, welcome emails, and other email marketing campaigns for Basecamp 3 are run through Customer.IO. This allows Mercedes and the marketing team to independently tweak and measure the campaigns.
+All drip campaigns, welcome emails, and other email marketing campaigns for Basecamp 3 are run through Customer.IO. This allows the marketing team independently tweak and measure the campaigns.
 
 https://customer.io
 
