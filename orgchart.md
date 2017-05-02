@@ -4,7 +4,7 @@ Figuring out who to bring a particular issue or question to shouldn’t be a gue
 
 ### Executive
 
-Jason Fried is our CEO and runs design. He’s principally responsible for setting the overall direction of the company. That means deciding when to embark on a new version of Basecamp or experiment with a side project (Basecamp-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Jason also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. He was one of the original four people who started 37signals, the design firm that lead to Basecamp, back in 1999. 
+Jason Fried is our CEO and runs design. He’s principally responsible for setting the overall direction of the company. That means deciding when to embark on a new version of Basecamp or experiment with a side project (Basecamp-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Jason also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. He was one of the original four people who started 37signals, the design firm that led to Basecamp, back in 1999. 
 
 David Heinemeier Hansson is our CTO and runs technology. He’s responsible for setting the technical direction of our products. He originally created Ruby on Rails, the web framework that we’ve built all our products on top. David also spends a lot of time sharing what we’ve learned to the world. He has been working with Jason since 2001 and became a partner at the company when 37signals, the design company, transitioned to do products instead of working for clients in 2004. 
 
