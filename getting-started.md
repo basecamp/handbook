@@ -8,7 +8,7 @@ Usually when you start a new job in an office, it's clear who does what. Chris s
 
 ## Setting Up Your Machine
 Your buddy helps you with day-to-day questions you might have, but someone on our Ops team will help you set up all the accounts you need to work at Basecamp. Before you start, Andrea will order you a new laptop with the specs you request and any accessories you need, like an external keyboard, mouse, or monitor. Your manager will set up a Basecamp dedicated to your onboarding called "Welcome, [your name]!". When you start, you'll have access to that Basecamp. In it, you'll see to-dos linking to accounts or services that you need to set up -- an external hard drive, 2FA for various accounts, Dropbox, and private wi-fi to name a few. You'll also see things that your Ops buddy or manager need to set up -- Basecamp (obvi),
-Jabber, Github, and Queenbee, among a whole list of other things. Don't worry if you don't know what some of these services are. Your Ops buddy or your Basecamp buddy can help you through it. 
+Jabber, GitHub, and Queenbee, among a whole list of other things. Don't worry if you don't know what some of these services are. Your Ops buddy or your Basecamp buddy can help you through it. 
 
 If you have a specific training schedule or training milestones to complete, that will go into your Welcome Basecamp too. 
 
