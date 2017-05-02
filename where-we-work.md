@@ -8,7 +8,7 @@ Anyone is welcome to visit Chicago and work from the office at any time.
 
 ## From home
 
-The most of people at Basecamp work from home most of the time. You can spend up to $1,000 every three years outfitting your home office. Getting the basics right will make a big difference: a good chair and a good desk.
+Most people at Basecamp work from home most of the time. You can spend up to $1,000 every three years outfitting your home office. Getting the basics right will make a big difference: a good chair and a good desk.
 
 ## From coffee shops
 
