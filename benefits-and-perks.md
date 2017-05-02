@@ -36,7 +36,7 @@ Basecamp offers 3 weeks of paid vacation, a few extra personal days to use at yo
 
 ### Summer Hours
 
-During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in effect from May 1 through August 31 each year.  (An employee who've just been hired may have to complete a training program per their team lead to be eligible).
+During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in effect from May 1 through August 31 each year.  (An employee who has just been hired may have to complete a training program per their team lead to be eligible).
 
 ### Sabbatical
 
