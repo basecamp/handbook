@@ -51,7 +51,7 @@ Kristin Aardsma is the head of the customer support team. She's responsible for 
 
 ### QA
 
-When Basecampers want to ship a new feature, Michael Berger and Ann Goliak are our resident bug squashers. They run rolling tests all web and mobile versions of Basecamp for quality control.
+When Basecampers want to ship a new feature, Michael Berger and Ann Goliak are our resident bug squashers. They run rolling tests on all web and mobile versions of Basecamp for quality control.
 
 ### The Distance
 
