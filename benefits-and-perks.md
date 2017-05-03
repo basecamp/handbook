@@ -54,6 +54,14 @@ Our 401K is through Vanguard. Basecamp matches dollar-for-dollar up to 6% of you
 
 If Basecamp is ever sold or part of an IPO, tenured employees will be eligible to receive a portion of 5% of the value of the company. That 5% would be divided into units, based on the number of employees we have at the time. People who were Basecampers for less than 1 year would receive 0 units, someone employed 1 year would receive 1 unit, and so on, until you're fully vested at 5 years for 5 units. 
 
+### Profit Sharing
+
+In 2017, Basecamp began offering [profit sharing](https://3.basecamp.com/2914079/buckets/34/messages/309043568#__recording_310376356) to employees. The system is based on two questions at the end of every year...
+  1. Was this year our most profitable year ever?
+  2. If yes, then how much better did we do than the previous best year? 25% of that profit will be split amongst employees.
+  
+If you've been working here for 2-5 years, you get 1 cut of the profit share, and if you've been working here for 5+ years, you get 2 cuts of the share. So, the more people who work at Basecamp for 2+ years, the more pieces of pie there are to distribute. 
+
 ## Perks
 
 ### Fitness Allowance
