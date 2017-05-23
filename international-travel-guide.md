@@ -82,8 +82,8 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
   * If you're detained or encounter some other serious customs headache, contact our attorney directly: Jennifer Pflanz (get phone number from Andrea). Customs and Border Protection (CBP) is not required to allow you to contact an attorney, but Jennifer is your first call if possible.
 * 1Password
   * Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the Basecamp team vault instead. You have a personal vault inside the Basecamp team which is perfect for those logins.
-  * Ask in SIP for someone to remove you from the Basecamp team for 1Password so you no longer have access to Basecamp logins and passwords. Let them know when to reenable your access.
-  * If you don't get this arranged with SIP in time for travel, remove the Basecamp team from your 1Password apps on your phone, tablet, and laptop so you no longer have access to Basecamp logins and passwords.
+  * Turn on Travel Mode. Go to https://basecamp.1password.com/profile and click Enable Travel Mode.
+  * Open 1Password on each device you're traveling with (laptop, phone, iPad, etc) so it can wipe its data while it's in Travel Mode.
 * Email apps
   * If you use an email app rather than Gmail in your browser, remove the @basecamp.com account.
 * Clear browser cookies, logging you out of all work sites.
@@ -117,7 +117,7 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 * Touch ID: Reenable on your phone, tablet, and laptop.
 * Dropbox: Log in and reconnect, but only if needed during travel.
 * Basecamp app: Reinstall on your phone, tablet, and laptop.
-* 1Password: Add the Basecamp team back to your apps. Holler in SIP and we'll add you back to the Basecamp team.
+* 1Password: Turn off Travel Mode. Go to https://basecamp.1password.com/profile and click Disable Travel Mode. Next time you open 1Password, you'll have full access again.
 * Email apps: Add your @basecamp.com account again.
 * Basecamp source code: Download and restore the archive of your Basecamp git repos, but only if needed during travel.
 * Other sensitive documents: Download and restore, but only if needed during travel.
