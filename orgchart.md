@@ -47,7 +47,7 @@ Team Data consists of team lead Noah Lorang and Justin White. They test and anal
 
 ### Support (we call them TEAM OMG)
 
-Kristin Aardsma is the head of the customer support team. She's responsible for the entire customer support team which uses [Help Scout](https://www.helpscout.net) to respond to customer tickets. Her team consists of Ashley Bowe (US), Sylvia Chong (Hong Kong), Chase Clemons (US), Merissa Dawson (US), Tony Giang (Australia), Elizabeth Gramm (US), Chris Joyce (United Kingdom), James Glazebrook (Germany), Jayne Ogilvie (United Kingdom), Janice Burch (US), Joan Stewart (US), and Shanae Dykes (US).
+Kristin Aardsma is the head of the customer support team. She's responsible for the entire customer support team which uses [Help Scout](https://www.helpscout.net) to respond to customer tickets. Her team consists of Jabari Allen (US), Ashley Bowe (US), Sylvia Chong (Hong Kong), Chase Clemons (US), Merissa Dawson (US), Tony Giang (Australia), Elizabeth Gramm (US), Chris Joyce (United Kingdom), Lexi Kent-Monning (US), James Glazebrook (Germany), Jayne Ogilvie (United Kingdom), Janice Burch (US), Joan Stewart (US), and Shanae Dykes (US).
 
 ### QA
 
