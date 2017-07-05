@@ -96,7 +96,7 @@ Since you work remotely, we want to make sure your home office is comfortable. Y
 
 ### Coworking Space Stipend
 
-Basecamp will pay up to $100/month for you to use towards renting coworking space in your city.  Please make sure you're using a true coworking space that's meant solely for working, not a club or social space.
+Basecamp will pay up to $200/month for you to use towards renting coworking space in your city.  Please make sure you're using a true coworking space that's meant solely for working, not a club or social space.
 
 ### Expense Account
 
