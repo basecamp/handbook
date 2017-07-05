@@ -36,7 +36,7 @@ Basecamp offers 3 weeks of paid vacation, a few extra personal days to use at yo
 
 ### Summer Hours
 
-During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in effect from May 1 through August 31 each year.  (An employee who has just been hired may have to complete a training program per their team lead to be eligible).
+During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in effect from May 1 through August 31 each year.  (An employee who has just been hired may have to complete a training program per their team lead to be eligible). Summer weeks are 4-day work weeks, so when a holiday occurs over summer, you can take the holiday off *or* your normal summer day off. Any additional days off would count as vacation days.
 
 ### Sabbatical
 
@@ -74,7 +74,7 @@ Every month, you can expense up to $100 towards a massage, as part of Basecamp's
 
 ### Community Supported Agriculture (CSA) Allowance
 
-Fresh, organic, local fruits and vegetables are great to have on-hand, so we'd also like to offer a CSA membership to you. Finding a local provider will be up to you, but you can expense the cost of a seasonal or annual CSA share as an employee benefit, up to $1,000/year.
+Fresh, organic, local fruits and vegetables are great to have on-hand, so we'd also like to offer a CSA membership to you. Finding a local provider will be up to you, but you can expense the cost of a seasonal or annual CSA share as an employee benefit, up to $1,000/year. If there aren't any CSA shares nearby, feel free to use your stipend on farmers market foods or even fresh fruit and veg at your favorite grocery store.
 
 ### Continuing Education Allowance
 
