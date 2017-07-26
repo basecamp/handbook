@@ -2,7 +2,7 @@
 
 We use the following heuristics to assess the level and title of programmers of Basecamp. These heuristics aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression at Basecamp.
 
-In addition to the heuristics, there's the consideration that as Basecamp pays in the top 5% of the industry for our comparables, programmers working here should also be at or neat the top 5% of a certain title within the industry. A lot of the heuristics are centered around the scope of work that someone is capable of tackling independently, but within that scope of work, we expect that the execution is at, near, or on a clear trajectory towards that top 5% bar.
+In addition to the heuristics, there's the consideration that as Basecamp pays in the top 5% of the industry for our comparables, programmers working here should also be at or near the top 5% of a certain title within the industry. A lot of the heuristics are centered around the scope of work that someone is capable of tackling independently, but within that scope of work, we expect that the execution is at, near, or on a clear trajectory towards that top 5% bar.
 
 ## Junior Programmer
 
