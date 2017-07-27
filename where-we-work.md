@@ -16,4 +16,4 @@ Working from home all the time isn't everyone's cup of coffee. Thus, lots of us 
 
 ## From a coworking space
 
-If working for home or from a coffee shop doesn't suit you, then trying a coworking space might just do the trick. Basecamp offers a $100/month stipend towards a desk in such a place.
+If working from home or from a coffee shop doesn't suit you, then trying a coworking space might just do the trick. Basecamp offers a $100/month stipend towards a desk in such a place.
