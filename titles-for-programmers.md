@@ -1,8 +1,8 @@
 # Titles for programmers
 
-We use the following criteria to assess the level and title of programmers of Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression at Basecamp.
+We use the following criteria to assess the level and title of programmers of Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression.
 
-It should also be noted that these criteria chiefly examine the scope and breadth of work someone is capable of tackling independently. In addition to that assessment, we also look at the quality of the execution itself. Basecamp pays in the top 5% of the industry (based on Chicago rates), so the quality of the work itself should be consummate with that target.
+It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the quality of the execution itself. Basecamp pays in the top 5% of the industry (based on Chicago rates), so the quality of the work itself should be consummate with that target.
 
 ## Junior Programmer
 
@@ -38,7 +38,7 @@ It should also be noted that these criteria chiefly examine the scope and breadt
 * Capable of executing projects across multiple domains (say, native app that needs API backend).
 * Usually at least 8-12 years of experience being a professional programmer in the specific domain.
 
-Examples: Javan, Pratik.
+_Examples: Javan, Pratik_
 
 ## Principal Programmer
 
@@ -49,4 +49,4 @@ Examples: Javan, Pratik.
 * Invents new concepts, pushes the whole organization forward regularly.
 * Usually at least 12-15+ years of experience being a professional programmer in the specific domain.
 
-Examples: Jeremy, Sam, Jeff.
+_Examples: Jeremy, Sam, Jeff_
