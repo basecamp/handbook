@@ -53,6 +53,6 @@ Kristin Aardsma is the head of the customer support team. She's responsible for 
 
 When Basecampers want to ship a new feature, Michael Berger and Ann Goliak are our resident bug squashers. They run rolling tests on all web and mobile versions of Basecamp for quality control.
 
-### The Distance
+### The Rework Podcast
 
-The Distance is a Basecamp-sponsored publication that showcases small businesses that have been in business for over 25 years. Wailin Wong is team lead and the reporter for The Distance, and Shaun Hildner is the producer. Shaun is also our resident filmmaker and makes marketing videos for basecamp.com.
+[Rework](https://rework.fm) is a Basecamp-produced podcast based on the 2010 book by Jason and David. Wailin Wong and Shaun Hildner co-produce and co-host the show. They previously co-produced [The Distance](https://thedistance.com), a podcast that ran for two years and showcased small businesses that have been operating for at least 25 years. Shaun is also our resident filmmaker and makes marketing and customer support videos.
