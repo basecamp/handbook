@@ -24,7 +24,7 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * Can run point on small batch projects, taking them from concept to shipping as the sole designer (alongside a programmer).
 * Can occasionally run point on large batch projects, sometimes with assistance.
 * Usually at least 5-8 years of experience being a professional designer.
-* WEB: Fully capable of writing modern HTML/CSS and basic proficency in Javascript.
+* WEB: Fully capable of writing modern HTML/CSS and basic proficiency in Javascript.
 * MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
 
 ## Lead Designer
@@ -52,6 +52,6 @@ _Examples: JZ, Jamie_
 * WEB: Fully capable of writing their own HTML/CSS/JS + the ability to make significant progress in Rails.
 * WEB: Can spin up new Rails apps from scratch, and make initial progress without outside help.
 * MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
-* MOBILE: Can work in native environments and put togther their own app from scratch.
+* MOBILE: Can work in native environments and put together their own app from scratch.
 
 _Examples: Scott, Jonas_
