@@ -78,7 +78,7 @@ Before we ship a new feature, **Michael Berger** and **Ann Goliak** are our resi
 
 ### The REWORK Podcast
 
-[REWORK](https://rework.fm) is a Basecamp-produced podcast based on the 2010 book by Jason and David. **Wailin Wong** and **Shaun Hildner** co-produce and co-host the show. They previously co-produced [The Distance](https://thedistance.com), a podcast that ran for two years and showcased small businesses that have been operating for at least 25 years.
+[REWORK](https://rework.fm) is a Basecamp-produced podcast based on the 2010 book by Jason and David. **Wailin Wong** and **Shaun Hildner** co-produce and co-host the show. They previously co-produced [The Distance](https://thedistance.com), a podcast that ran for three years and showcased small businesses that have been operating for at least 25 years.
 
 ### Technical Operations
 
