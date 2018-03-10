@@ -72,10 +72,6 @@ Our [rich text editor Trix](https://trix-editor.org) and our [front-end framewor
 
 SIP is our instant-response team whenever something goes wrong, is about to go wrong, or is expected soon to go wrong! Our galaxy defenders, if you will. They are the primary programming team working together with Operations to ensure that our applications are always safe, secure, and fast. **Jeremy Daer** is the team lead and works with George Claghorn and Rosa Gutiérrez.
 
-### Technical Operations
-
-Basecamp operates across three physical data centers and a smattering of cloud. The long-term plan is to go all cloud. Keeping the lights on with great reliability is the foremost mission of the Technical Operations team, and they’re op-fully amazing at doing it. **Taylor Weibley** is team lead and works with Nathan Anderson, Matthew Kent, Eron Nicholson, Colin O'Keeffe, Matthew Vincent, and John Williams. Blake Stoddard works part-time.
-
 ### QA
 
 Before we ship a new feature, **Michael Berger** and **Ann Goliak** are our resident bug squashers. Their job is to break things so we know what needs fixing. They run rolling tests on all web and mobile versions of Basecamp for quality control. Few things ship without their stamp of quality approval.
@@ -83,3 +79,7 @@ Before we ship a new feature, **Michael Berger** and **Ann Goliak** are our resi
 ### The REWORK Podcast
 
 [REWORK](https://rework.fm) is a Basecamp-produced podcast based on the 2010 book by Jason and David. **Wailin Wong** and **Shaun Hildner** co-produce and co-host the show. They previously co-produced [The Distance](https://thedistance.com), a podcast that ran for two years and showcased small businesses that have been operating for at least 25 years.
+
+### Technical Operations
+
+Basecamp operates across three physical data centers and a smattering of cloud. The long-term plan is to go all cloud. Keeping the lights on with great reliability is the foremost mission of the Technical Operations team, and they’re op-fully amazing at doing it. **Taylor Weibley** is team lead and works with Nathan Anderson, Matthew Kent, Eron Nicholson, Colin O'Keeffe, Matthew Vincent, and John Williams. Blake Stoddard works part-time.
