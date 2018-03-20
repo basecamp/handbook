@@ -9,3 +9,7 @@ Most problems can be solved in a thousand different ways. One way might take 100
 ## Scope Hammering
 
 It's a rare case when our initial aspirations for a feature don't meet the boundaries of our cycle budgets. When that happens, our go-to tool for shipping is scope hammering. This basically just means shrinking the scope, removing features or configuration or fidelity, until the work is doable within the time left. It's the opposite tactic to working longer days or weekends or to postpone the project into another cycle. Almost every project can be scope hammered, especially if you invite someone in to assist with the analysis who isn't afraid to kill other people's darlings. You'll get better at doing that yourself after a few rounds too.
+
+## PDI
+
+"Please do investigate". Seen most often on to-do lists at Basecamp to indicate uncertainty. It helps everyone on the project understand that we're going to look into it but it may or may not be feasible, practical, or possible.  
