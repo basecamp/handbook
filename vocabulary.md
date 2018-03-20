@@ -12,4 +12,4 @@ It's a rare case when our initial aspirations for a feature don't meet the bound
 
 ## PDI
 
-"Please do investigate". Seen most often on to-do lists at Basecamp to indicate uncertainty. It helps everyone on the project understand that we're going to look into it but it may or may not be feasible, practial, or possible.  
+"Please do investigate". Seen most often on to-do lists at Basecamp to indicate uncertainty. It helps everyone on the project understand that we're going to look into it but it may or may not be feasible, practical, or possible.  
