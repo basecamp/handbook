@@ -54,11 +54,9 @@ Note: An ESTA is still required for travel; these programs just speed up entry.
 
 ## Invitation Letter
 
-To substantiate the purpose of your travel, we provide an invitation letter that states that you're traveling to the US for a business meeting and not to do work.
+To substantiate the purpose of your travel, we can provide an unofficial invitation letter that states that you're traveling to the US for a business meeting and not to do work.
 
 "Doing business"—e.g. attending a business meeting or conference—is allowed under the business visitor visa (and visa waiver), but "doing work" is not. That'd require a temporary work visa.
-
-You'll need a new letter each time you travel. Contact Andrea to get one drafted.
 
 ## Company Security at the Border
 
@@ -74,8 +72,7 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 ## Checklist: Before You Travel
 
 * Let us know! Share your travel plans and when you expect to arrive in the US.
-* Request an invitation letter from Andrea. She'll draft a letter specific to your visit.
-* Update your ESTA online with your travel info and the hotel address: Crowne Plaza Chicago West Loop, 733 West Madison, Chicago IL 60661.
+* Update your ESTA online with your travel info and the hotel address: Ace Hotel, 311 N Morgan St., Chicago, IL 60607.
 * Ensure you have your passport, ESTA, invitation letter, and travel details all in order.
 * Put Andrea and our attorney on speed dial.
   * If you run into general travel issues or have any questions, contact Andrea LaRowe.
@@ -108,7 +105,7 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 * Common questions:
   * Purpose of your visit? Here for a business meeting in Chicago.
   * Here to do work? Nope! Here on business, meeting with Basecamp.
-  * Where are you staying? Crowne Plaza Chicago West Loop. 733 West Madison, Chicago IL 60661. Front desk: +1 312 829 5000.
+  * Where are you staying? Ace Hotel, 311 N Morgan St., Chicago, IL 60607. Front desk: +1 312 764 1919.
 * Be straighforward and truthful. You're legit! No need to be cagey or misleading.
 
 ## Checklist: When You Arrive
