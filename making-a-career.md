@@ -19,7 +19,7 @@ But these titles make it clear to everyone where someone is in their career prog
 
 Day to day, though, these titles aren't really much of a factor. It's not like they're printed on your HELLO MY NAME IS sticker at the meetups (not that we have those anyway!). But they do give newcomers another way of orienting themselves at the company and it gives everyone a clear way of tracking their personal career progression at Basecamp.
 
-You can see the specific titles and profiencies expected for: [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md).
+You can see the specific titles and profiencies expected for: [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md).
 
 ## Pay & Promotions
 
