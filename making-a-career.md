@@ -23,7 +23,7 @@ You can see the specific titles and profiencies expected for: [Programmers](http
 
 ## Pay & Promotions
 
-Basecamp pays at the top 5% for our industry at Chicago salary levels, regardless of where an employee lives. The comparison data is provided by a company called Radford that polls compensation data from all the major companies in our industry and plenty of our smaller peers as well. Because we don't pay bonuses, we match our base compensation to the base + bonus of our peer group.
+Basecamp pays at the top 5% for our industry at San Francisco salary levels, regardless of where an employee lives. The comparison data is provided by a company called Radford that polls compensation data from all the major companies in our industry and plenty of our smaller peers as well. Because we don't pay bonuses, we match our base compensation to the base + bonus of our peer group.
 
 The Radford data is reviewed once per year at the end of November. If it's warranted, that is if the market rates in the top 5% have gone up, we'll increase pay on January 1st to follow suit. We don't decrease pay, even if the market rates may have dropped. If that happens, we'll hold them steady until they come up again.
 
