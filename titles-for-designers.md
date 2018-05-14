@@ -2,7 +2,7 @@
 
 We use the following criteria to assess the level and title of designers at Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. We use the criteria as a guide for having individualized discussions about career progression.
 
-These criteria chiefly examine the scope of work someone is capable of tackling independently on a series of projects over an extended period of time (doing something well once isn't enough to justify advancement). In addition to that assessment, we also look at the quality of the execution itself. Basecamp pays in the top 5% of the industry (based on Chicago rates), so the quality of the work itself should be commensurate with that target.
+These criteria chiefly examine the scope of work someone is capable of tackling independently on a series of projects over an extended period of time (doing something well once isn't enough to justify advancement). In addition to that assessment, we also look at the quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
 
 ## Junior Designer
 * Work is thoroughly reviewed with substantial back-and-forth.
