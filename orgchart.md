@@ -62,7 +62,7 @@ Core Product works on new features for Basecamp together with the product design
 
 #### Mobile
 
-Basecamp 3 was the first version of Basecamp that launched with two complete, awesome native applications for Android and iOS on day one. That was only possible because we dedicated stable teams to both efforts. Dan Kim and **Jay Ohms** work on Basecamp's native Android app. Dylan Ginsburg and **Zach Waugh** and develop our Basecamp iOS app.
+Basecamp 3 was the first version of Basecamp that launched with two complete, awesome native applications for Android and iOS on day one. That was only possible because we dedicated stable teams to both efforts. Dan Kim and **Jay Ohms** work on Basecamp's native Android app. Dylan Ginsburg and **Zach Waugh** develop our Basecamp iOS app.
 
 #### Research & Fidelity (RF)
 
