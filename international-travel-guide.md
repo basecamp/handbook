@@ -16,7 +16,9 @@ We have answers!
 
 We'll focus on traveling to the US since attending company meetups is our primary reason for international business travel.
 
-Here's what you need:
+Keep in mind, if you're traveling more than 10 hours in the air (not including layovers), Basecamp will cover the cost of a business class ticket, up to $5000, twice a year.
+
+When you travel for Basecamp business, here's what you need:
 
 1. A passport! Apply for one now if you don't have one already. Renew now if your passport expires in the next six months.
 2. A travel visa or waiver.
