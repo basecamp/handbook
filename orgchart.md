@@ -6,7 +6,9 @@ Below you'll find a list of the major groups and teams within the company. They'
 
 ### Admin
 
-**Andrea LaRowe** is Basecamp's administrative assistant and the only person on this team. Andrea assists with day-to-day operations of the company, human resources, benefits & payroll administration, and event planning. She's also primarily in charge of coordinating details for our meetups. Andrea is often the best person to tap first, when you don't know who to talk to about a problem.
+**Andrea LaRowe** is Basecamp's Head of People Ops. Andrea works with Jason and David to make working at Basecamp an excellent experience for its employees. She manages the day-to-day operations of the company, human resources, benefits & payroll administration, and event planning. Andrea is often the best person to tap first, when you don't know who to talk to about a problem.
+
+Navid Afshar is Basecamp's admin assistant. He assists Andrea with all administrative operations, and he's primarily reponsible for coordinating the details for our meetups. Navid is another great person to ping if you don't know where to go with a question.
 
 ### Customer Support (aka Team OMG)
 
@@ -38,11 +40,11 @@ The design group is lead by **Jason Fried** and consists of four teams:
 
 #### Mobile
 
-**Jamie Dihiansan** is our lead Android designer, and the only designer on Android. The iOS design team consists of Tara Mann and team lead **Jason Zimdars**.
+**Jamie Dihiansan** is our Android designer, and **Conor Muirhead** designs for the iOS team.
 
 #### Web/Desktop
 
-**Jonas Downey**, Conor Muirhead, and **Scott Upton** are responsible for any Basecamp product design on the web or the native desktop app.
+**Jonas Downey**, **Jason Zimdars**, and **Scott Upton** are responsible for any Basecamp product design on the web or the native desktop app.
 
 #### Video/motion
 
