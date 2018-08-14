@@ -72,9 +72,9 @@ If you've been working here for 2-5 years, you get 1 cut of the profit share, an
 
 Basecamp will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it's not organized fitness, that's okay, too. You can use your stipend to pay for race registrations or even new outdoor running shoes. The only catch is that you can't "save up" your stipend. Sorry, but no saving 9 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote regular activity for you. 
 
-### Massage Allowance
+### Wellness Allowance
 
-Every month, you can expense up to $100 towards a massage, as part of Basecamp's health and wellness benefits package.  
+Every month, you can expense up to $100 towards a service or experience that enhances your overall mental well-being. For some people that might mean a monthly massage. For others, that could be alternative medical treatments like acupuncture or reiki. You could also use the stipend to defray your existing talk therapy co-pays, go on a wellness retreat, take a meditation class, attend a religiously-affiliated retreat, or book a service at a spa that is more relaxing *to you* than a massage like a pedicure or facial. Basecamp does not want to limit what is healing to you, so get creative with your self-care! If you have questions about what qualifies here, feel free to ping Andrea.
 
 ### Community Supported Agriculture (CSA) Allowance
 
