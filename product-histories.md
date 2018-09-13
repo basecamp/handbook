@@ -14,7 +14,7 @@ Fast forward to 2014. We'd been feeling pulled in too many directions for too lo
 
 ## Highrise
 
-When 37signals became Basecamp in 2014, we decided to spin off or sell our other (very successful!) applications. One of those was Highrise, our customer relationship management (CRM) tool. Highrise was by far the most popular of our non-Basecamp apps, so when we announced we were selling it, the offers poured in. After many long, lawyer-filled months, we were finally able to pass the company along to Nathan Kontny. Highrise is a subsidiary of Basecamp until it becomes fully funded by customer subscriptions, but it's been flourishing since Nate took over. Highrise is entirely separate from Basecamp now, in terms of its staff, board, and revenue.
+When 37signals became Basecamp in 2014, we decided to spin off or sell our other (very successful!) applications. One of those was Highrise, our customer relationship management (CRM) tool. Highrise became a subsidiary of Basecamp run by its own board, executive, and staff. In 2018, we took back control of Highrise, disbanded the separate company, and turned off new signups. Highrise is now, as Basecamp Classic, Basecamp 2, Backpack, and Campfire, part of our until-the-end-of-the-internet legacy. Maintained for existing customers, but no longer developed for new features or new customers.
 
 ## Campfire
 
