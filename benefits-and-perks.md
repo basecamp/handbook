@@ -28,7 +28,7 @@ Health insurance is provided in the US via Blue Cross Blue Shield PPO. The compa
 
 #### Flexible Spending Account (FSA)
 
-The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $2,400/year.  There is a separate type of FSA for dependent care (child or elder care), and the max for that plan is $5,000/year. This is an entirely optional program; if you don't think you'll use it, you need not sign up.  
+The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $2,650/year.  There is a separate type of FSA for dependent care (child or elder care), and the max for that plan is $5,000/year. This is an entirely optional program; if you don't think you'll use it, you need not sign up.  
 
 ### Paid Time Off
 
@@ -37,6 +37,10 @@ Basecamp offers 3 weeks of paid vacation, a few extra personal days to use at yo
 We don't track sick days either. If you're under the weather, take the time you need to feel better. Basecamp recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health day every now and again when you're feeling overwhelmed or mentally fatigued. If a day or two won't cut it, we'll work with you to find a way to reduce the burden of your work at Basecamp on your overall mental health. We really do want your work at Basecamp to be the best work you do in your life, and we appreciate that that's not possible if you're uncertain about your health. 
 
 Your outlets at Basecamp if you're feeling your mental or physical health is taking a toll on your work? So many to choose from! We have Carecamp, a project in Basecamp dedicated to discussing all aspects of self-care. You can go to your manager at any time or during one of your regular 1:1 meetings. You can go to Andrea at any time, who with your permission can work with your manager to help you. Additionally, your manager should check in with *you*, proactively, to periodically make sure you're doing okay.
+
+### Short-term Disability
+
+On top of Paid Time Off, Basecamp offers a self-funded short-term disability (STD) plan to all its employees. If you fall ill or injure yourself and are unable to work because of it, let us know and you can take 30 days off at 100% pay. If after that, you're still unable to work, Basecamp's STD policy kicks in and you'll continue to earn 60% of your pay until you're better, up to 3 months off. These days are an emergency reserve, in addition to your vacation/sick time described above. If after this period of time, you still cannot work, talk to your manager, Jason, David, or Andrea, and we will discuss what comes next on a case-by-case basis.
 
 ### Summer Hours
 
