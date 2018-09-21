@@ -4,7 +4,7 @@ Besides the customer-facing applications, like the different versions of Basecam
 
 ### Dash
 
-Dash is the main hub for everything that has to do with logging (like finding why a request is slow or whether an email has been delivered), reporting (everything from number of support cases handled to split of devices used to access Basecamp), application health (response times, job queue exceptions etc). The chieftain in charge of the overall system is Noah.
+Dash is the main hub for everything that has to do with logging (like finding why a request is slow or whether an email has been delivered), reporting (everything from number of support cases handled to split of devices used to access Basecamp), application health (response times, job queue exceptions etc). Justin is managing this hub.
 
 https://dash.37signals.com/
 
