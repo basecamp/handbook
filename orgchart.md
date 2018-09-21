@@ -28,7 +28,7 @@ We have two C-level executives at Basecamp.
 
 ### Data
 
-Team Data consists of team lead **Noah Lorang** and Justin White. They test and analyze all sorts of Basecamp data -- conversion rates, pricing models, back-end operational performance, user experience, and oh-so-much more. If you have questions about Basecamp metrics (or woodworking), Noah is the guy to tap.
+We're currently [searching for a new data analyst](https://m.signalvnoise.com/basecamp-is-hiring-a-data-analyst-f15fbfc153ba). They'll be responsible for testing and analyzing all sorts of Basecamp data -- conversion rates, pricing models, back-end operational performance, user experience, and oh-so-much more. They'll work with Justin White on SIP to maintain our data pipeline.
 
 ### Design
 
@@ -72,7 +72,7 @@ Our [rich text editor Trix](https://trix-editor.org) and our [front-end framewor
 
 #### Security, Infrastructure & Performance (SIP)
 
-SIP is our instant-response team whenever something goes wrong, is about to go wrong, or is expected soon to go wrong! Our galaxy defenders, if you will. They are the primary programming team working together with Operations to ensure that our applications are always safe, secure, and fast. **Jeremy Daer** is the team lead and works with George Claghorn and Rosa Gutiérrez.
+SIP is our instant-response team whenever something goes wrong, is about to go wrong, or is expected soon to go wrong! Our galaxy defenders, if you will. They are the primary programming team working together with Operations to ensure that our applications are always safe, secure, and fast. **Jeremy Daer** is the team lead and works with George Claghorn, Rosa Gutiérrez, and Justin White.
 
 ### QA
 
