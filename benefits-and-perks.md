@@ -54,9 +54,11 @@ Every three years, employees are eligible to take a one-month-long paid sabbatic
 
 When you welcome a new child (birthed or adopted), Basecamp encourages you to take up to 16 weeks leave for primary caregivers and up to 6 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid.
 
-### 401K Retirement Plan
+### Retirement Plan
 
-Our 401K is through Vanguard. Basecamp matches dollar-for-dollar up to 6% of your salary that you contribute to the plan.  For instance, an employee who earns $100,000 can contribute any amount towards the 401K, however Basecamp will only match the first 6% or $6,000/year of those contributions. You are eligible to enroll in the 401K plan with your first paycheck.
+Our 401K for US employees is through Vanguard. Basecamp matches dollar-for-dollar up to 6% of your salary that you contribute to the plan.  For instance, an employee who earns $100,000 can contribute any amount towards the 401K, however Basecamp will only match the first 6% or $6,000/year of those contributions. You are eligible to enroll in the 401K plan with your first paycheck.
+
+For international employees, Basecamp will also match 6% of your salary. In this case, Basecamp will pay the employee directly via invoice. It's up to the employee to invest the money properly and maintain administration of the retirement account and its taxes. Basecamp will begin funding international employee retirement accounts on January 1, 2019.
 
 ### Employee Liquidity Pool
 
