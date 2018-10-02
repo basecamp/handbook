@@ -10,7 +10,7 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * Follows existing design patterns, works within our existing look and feel.
 * Usually less than 2 years of experience being a professional designer.
 * WEB: Can write basic HTML/CSS with guidance.
-* MOBILE: Can can prototypes w/ static screens.
+* MOBILE: Can create prototypes w/ static screens.
 
 ## Designer
 * Work is reviewed with the occasional need for material direction or implementation changes.
