@@ -13,6 +13,13 @@ Most people leave on Friday during the work day. You should come to every meet-u
 
 [Here are some tips from Basecamp teammates about Meetups](https://3.basecamp.com/2914079/buckets/34/messages/185772672)
 
+## Mini Meetups
+Once a year, you can get together with a small group of your coworkers on a mini meet-up at a destination of your choosing. Mini meet-ups should have a work focus. They're not meant to be social trips, and you're not doing just your day-to-day work in the same room as your coworkers. You should be collaborating on something meaningful. It certainly doesn't have to be big and you don't have to produce something by the end of the meet-up. Pick something you'd love to have a week to discuss in person and have fun with it.
+
+Keep in mind: your mini-meet-up team does not have to be your formal team like Ops, Support, Mobile, etc. Colleagues who are working cross-team who have a project to get together on can meet-up too! Limit yourself to 1 mini-meet-up per year though, whether that's with your dedicated team or with an offshoot team.
+
+Budget guidelines for mini meet-ups can be found [in Basecamp.](https://3.basecamp.com/2914079/buckets/34/messages/1400415368#__recording_1400437120)
+
 ## Wooden Spheres Of Recognition
 One of the sessions that we do schedule every meet-up is the recognition awards presentation. It's a favorite among employees. A few months before a meet-up, Andrea asks for nominations for Basecampers who have gone above and beyond their job duties to make Basecamp a better place to work. Nominations range from professional excellence, like when Sam got an award for his work on Pow, to the personal, like when Jamie got an award for being Basecamp's heart and soul. About 5 people get an award each meet-up, and the person(s) who nominated the award winner does the presenting at the meet-up. We have a woodturner who's created our wooden sphere awards since 2011; they're all handmade from salvaged wood from Arizona and New Mexico, and each meet-up features a different wood. We also give spheres made of ironwood when an employee reaches 5, 10, 15 years at Basecamp. A list of past recipients is in [Basecamp](https://3.basecamp.com/2914079/buckets/34/documents/16145).
 
