@@ -9,7 +9,7 @@ We use the following criteria to assess the level and title of our Support team 
 * Uses HelpScout effectively.
 * Prefers email support over phone, as is not yet comfortable speaking adlib about product.
 * Works on routine emails or calls. Sometimes assigns emails to others versus finding the answers themselves, is new to Basecamp’s products
-* >2 yrs support experience
+* less than 2 yrs support experience
 
 ## Customer Support Representative, level 2
 
