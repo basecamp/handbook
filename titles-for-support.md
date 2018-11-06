@@ -24,6 +24,7 @@ We use the following criteria to assess the level and title of our Support team 
 * Work beyond customer support tickets is self-directed and doesn't necessarily need to be reviewed, occasionally needs help with choosing items that are impactful.  Understands when to initiate on-call workflow without guidance from peers. Complete and deep expertise with all versions of Basecamp. Can handle any inquiry.
 * Has predictable and high throughput, exceeds CS values, while also maintaining a high level of customer satisfaction. Generates new ideas and systems in order to deliver better customer support. Is creative and customer-centric. Works independently.
 * Can provide material feedback on the work of Level 1-2 customer support and still maintain productivity. Can work very effectively with difficult or upset customers. Initiates training, publishes to SvN is seen as a leader, "go-to" person on the team.
+* Tests on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations.
 * Can single-handedly handle a crisis either by taking control over reporting and channels, or delegating tasks to others.
 * Pattern recognition fully developed in order to contribute significantly to product features/enhancements.
 * Usually at least 5-8 years of experience being a customer support professional.
@@ -32,11 +33,9 @@ We use the following criteria to assess the level and title of our Support team 
 
 * Work happens completely autonomously with no regular need for review. 
 * Understands when to initiate on-call workflow without guidance from peers. Uses console access to resolve cases that require pre-written scripts or other basic code touches to fix common issues.
-* Tier 2/QA/UX skills developing:
+* Tier 2/UX skills developing:
     * Has console experience, including bug investigation via On Call work while maintaining regular customer conversations.
     * AND/OR 
-    * Demonstrates product dedication via testing on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations.
-    * AND/OR
     * Demonstrates product dedication via User Experience work while maintaining regular customer conversations.
 * Fully capable of owning and resolving any type of ticket. Clearly articulates new issues for software development engineers, suggests changes to website. Authors help desk, contributes original content to knowledge base. Designs new programs that have high customer impact.
 * Helps set and maintain professional standards for the entire organization. Is highly regarded and respected by others on the team.
@@ -49,12 +48,11 @@ We use the following criteria to assess the level and title of our Support team 
 
 * Work happens completely autonomously with no regular need for review. 
 * Uses console access to resolve cases that require pre-written scripts or other basic code touches to fix common issues.
-* Tier 2/QA/UX skills developed:
+* Tier 2/UX skills developed:
     * Trains others on console and performs significant amount of On Call work while maintaining regular customer conversations. 
     * OR 
-    * Demonstrates significant product expertise via testing on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations. Can introduce others/train others in this pathway.
-    * OR
     * Demonstrates significant product expertise via User Experience work while maintaining regular customer conversations. Can introduce others/train others in this pathway.
+* Demonstrates significant product expertise via testing on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations. Can introduce others/train others in this pathway.
 * Expert within technology beyond Basecamp, like browsers, both OS, and many third-party API extensions. Excels at getting to root causes of issues and then writing them up in a way that can be acted upon by software development. Does not necessarily need help from developers, marketing, or design for input.
 * Authors help desk, contributes original content to knowledge base. Designs new programs that have high customer impact. Writes new classes and delegates/trains others on them.
 * Helps set and maintain professional standards for the entire organization. Is highly regarded and respected by others on the team.
