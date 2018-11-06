@@ -37,6 +37,7 @@ We use the following criteria to assess the level and title of our Support team 
     * Has console experience, including bug investigation via On Call work while maintaining regular customer conversations.
     * AND/OR 
     * Demonstrates product dedication via User Experience work while maintaining regular customer conversations.
+* Demonstrates product dedication via testing on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations.
 * Fully capable of owning and resolving any type of ticket. Clearly articulates new issues for software development engineers, suggests changes to website. Authors help desk, contributes original content to knowledge base. Designs new programs that have high customer impact.
 * Helps set and maintain professional standards for the entire organization. Is highly regarded and respected by others on the team.
 * Deep, substantial expertise in multiple environments (all versions of Basecamp, other products, our apps, security, sign on, email logs, Dash and trollcop, sign on, trace routes, network issues, desktop issues—Macs, PCs and a variety of handhelds, etc.)
