@@ -92,7 +92,7 @@ If you're interested in taking classes that you feel improve you professionally 
 
 ### Matching Charitable Gifts
 
-When you donate money to a qualified charity, Basecamp will make a matching gift to that charity on your behalf. Basecamp will match up to $2,000 per year, per employee.  If you donate to more than one organization annually, that's okay!  For example, if I give $1,000/year to the Red Cross and $1,000/year to NPR, Basecamp will match both donations, dollar for dollar.  If you donate more than $2,000/year, you are officially awesome, but Basecamp will only match $2,000 of your awesomeness.
+When you donate money to a 501(c)(3) charity, Basecamp will make a matching gift to that charity on your behalf. Basecamp will match up to $2,000 per year, per employee.  If you donate to more than one organization annually, that's okay!  For example, if I give $1,000/year to the Red Cross and $1,000/year to NPR, Basecamp will match both donations, dollar for dollar.  If you donate more than $2,000/year, you are officially awesome, but Basecamp will only match $2,000 of your awesomeness.
 
 ### Basecamp Holiday Gift
 
