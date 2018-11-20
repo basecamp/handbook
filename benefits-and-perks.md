@@ -6,29 +6,45 @@ Since the majority of Basecamp employees work in the US, this section is written
 
 ### Health Insurance
 
-Health insurance is provided in the US via Blue Cross Blue Shield PPO. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year.  Marriages and domestic partnerships are covered equally.
+#### Medical Insurance
 
-#### Employee-portion of medical insurance premium per pay period
+Medical insurance is provided in the US via Blue Cross Blue Shield PPO. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally.
 
-* Employee-only medical coverage: $52.99
-* Employee-partner medical coverage: $122.43
-* Employee-child(ren) medical coverage: $118.47
-* Employee-family medical coverage: $187.90
+Employee-portion of medical insurance premium per pay period
 
-#### Employee-portion of dental insurance premium per pay period
+* Employee-only medical coverage: $50.43
+* Employee-partner medical coverage: $112.14
+* Employee-child(ren) medical coverage: $118.37
+* Employee-family medical coverage: $180.08
 
-* Employee-only dental coverage: $5.95
-* Employee-partner dental coverage: $12.58
-* Employee-child(ren) dental coverage: $15.08
-* Employee-family dental coverage: $23.40
+#### Dental Insurance
+Dental insurance is provided in the US via MetLife. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally.
 
-#### Vision
+Employee-portion of dental insurance premium per pay period
 
-* Basecamp doesn't offer vision insurance, but our medical insurance plan gives us discounts on eye exams, glasses, and contact lenses. 
+* Employee-only dental coverage: $4.72
+* Employee-partner dental coverage: $9.62
+* Employee-child(ren) dental coverage: $11.29
+* Employee-family dental coverage: $17.42
 
-#### Flexible Spending Account (FSA)
+#### Vision Insurance
 
-The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $2,650/year.  There is a separate type of FSA for dependent care (child or elder care), and the max for that plan is $5,000/year. This is an entirely optional program; if you don't think you'll use it, you need not sign up.  
+Vision insurance is provided in the US via MetLife. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally. 
+
+Employee-portion of vision insurance premium per pay period.
+
+* Employee-only vision coverage: $1.01
+* Employee-partner vision coverage: $2.03
+* Employee-child(ren) vision coverage: $1.71
+* Employee-family vision coverage: $2.83
+
+#### Life Insurance
+
+Basecamp offers a $400,000 life insurance/AD+D policy to all employees through MetLife. It's fully funded by Basecamp, so you pay nothing! The policy is effective on Day 1 of employment, and it's terminated on your final day of employment. Open enrollment is in November every year, but employees are auto-enrolled during that time.
+
+### Flexible Spending Account (FSA)
+
+The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $2,650/year.  There is a separate type of FSA for dependent care (child or elder care), and the max for that plan is $5,000/year. This is an entirely optional program; if you don't think you'll use it, you need not sign up. Open enrollment is in December every year, with new coverage beginning January 1.
 
 ### Paid Time Off
 
@@ -41,6 +57,12 @@ Your outlets at Basecamp if you're feeling your mental or physical health is tak
 ### Short-term Disability
 
 On top of Paid Time Off, Basecamp offers a self-funded short-term disability (STD) plan to all its employees. If you fall ill or injure yourself and are unable to work because of it, let us know and you can take 30 days off at 100% pay. If after that, you're still unable to work, Basecamp's STD policy kicks in and you'll continue to earn 60% of your pay until you're better, up to 3 months off. These days are an emergency reserve, in addition to your vacation/sick time described above. If after this period of time, you still cannot work, talk to your manager, Jason, David, or Andrea, and we will discuss what comes next on a case-by-case basis.
+
+### Employee Assistance Program (EAP)
+Basecamp's EAP is through ComPsych, and it provides a confidential avenue for you to get assistance with issues regarding behavioral and emotional health, family, legal, financial, wellness or other personal matters. When you call or email our provider, you'll be connected to a certified clinician who can help you one-on-one at that time, or who can refer you to someone in your area for longer-term help. Services range from immediate or crisis mental health care to phone-help on your 401k investments to a referral to a lawyer in your area to help with your estate planning. Because we use the EAP, you also receive discounts on those referrals to professionals. 
+
+### Pet Insurance
+For your fur babies! Basecamp doesn't contribute to this plan at all, but everyone gets a 10% discount on this insurance you might otherwise buy. There are no set rates, but you can visit Basecamp's portal on Figo's website to get your quote and sign up. There's no open enrollment period to sign up for pet insurance.
 
 ### Summer Hours
 
