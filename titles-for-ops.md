@@ -1,6 +1,6 @@
 # Titles for Ops
 
-We use the following criteria to assess the level and title of ops at Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. The criteria outline the minimum shape, of what it is work a given level on the Ops team at Basecamp.
+We use the following criteria to assess the level and title of ops at Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. The criteria outline the shape of what work at a given level on the Ops team at Basecamp looks like.
 
 It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the consistency and quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
 
@@ -42,14 +42,14 @@ _Examples: Colin, Matthew V._
 * Elevates the standards through new tooling, processes, procedures and effective communication.  Able to carry out research, testing, implementation and improvement for new systems.
 * Leads high risk maintenance with limited to no customer impact.
 * Significant technical contributor to problem resolution; demonstrates consistent maturity in communication and demeanor under stress.
-* Performans more complex work like capacity planning, load testing, security improvements, etc.
+* Performs more complex work like capacity planning, load testing, security improvements, etc.
 * Sets new professional standards for the team.
 * Usually at least 8-12 years of experience being a professional sysadmin.
 
 _Examples: Eron, John, Nathan, Matthew K._
 
 ## Principal Systems Admin
-* Can run large, complex, Ops projects independently.
+* Can run large and complex Ops projects independently.
 * Carries significant responsibility for many domains of infrastructure.
 * Multiple areas of expertise: configuration management, containers, continuous integration / development, debugging, orchestration, optimization, networking, performance, reliability, security.
 * Makes what is new normal; what is old reliable; evangelizes what is next.
@@ -58,6 +58,6 @@ _Examples: Eron, John, Nathan, Matthew K._
 * Work is almost always free of mistakes; often helps others improve the quality of their work.
 * Completely comfortable working with all teams at Basecamp; frequently coordinates work across teams to solve complex problems.
 * When a site is down, something is broken, or work is crazy, this person is ready to save the day and lead us to a successful resolution.
-* Effectively delegates work to others; acts as a leader who has earned the respect of his/her peers.
+* Effectively delegates work to others; acts as a leader who has earned the respect of their peers.
 * Capable of coordinating company wide response to major issues and leading problem resolution via emergency procedures.
 * Usually 12-15 years of experience being a professional sysadmin.
