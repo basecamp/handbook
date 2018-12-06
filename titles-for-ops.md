@@ -17,7 +17,7 @@ _Examples: Blake when he was an intern; Anton when he started._
 ## Systems Admin
 * Work is reviewed with the occasional need for material direction or implementation changes.
 * Works on single system / variable problems.
-* Can handle on call with the backing of a more senior team member. 
+* Can handle on call with the backing of a more senior team member.
 * Can perform work on production systems by following existing procedures.
 * Shows strength in some areas of specialization, but lacks the balance of experience in all areas.
 * Lacks institutional knowledge about our systems. Not completely familiar with documentation or procedures.
@@ -30,7 +30,7 @@ _Examples: Colin, Matthew V._
 * Can work independently on smaller projects and be a reliable contributor to larger projects.
 * Fully participates in on call rotation.
 * Subject matter expert in at least one major system.
-* Plans and performs lower risk maintenance independently. Participates in higher risk maintenances. 
+* Plans and performs lower risk maintenance independently. Participates in higher risk maintenances.
 * Contributes to resolving major problems.
 * Improves existing professional standards for the team.
 * Usually at least 6-10 years of experience being a professional sysadmin or network engineer; typically 5 years experience at Basecamp internalizing how we work.
