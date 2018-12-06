@@ -118,7 +118,7 @@ When you donate money to a 501(c)(3) charity, Basecamp will make a matching gift
 
 ## Basecamp Holiday Gift
 
-Every year, at the end of the year, Basecamp generally gives a thank-you gift to the employees. Employees who have been at Basecamp for one year or less get one gift (last year: a night on the town in his/her hometown), and longer tenured employees get a more elaborate gift (last year: a paid vacation). We switch up the delivery of these every year, so you're always in for a nice surprise.
+Every year, at the end of the year, Basecamp generally gives a thank-you gift to the employees. Employees who have been at Basecamp for one year or less get one gift (last year: a night on the town in their hometown), and longer tenured employees get a more elaborate gift (last year: a paid vacation). We switch up the delivery of these every year, so you're always in for a nice surprise.
 
 # Practical assistance
 
