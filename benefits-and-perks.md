@@ -76,7 +76,7 @@ Every three years, employees are eligible to take a one-month-long paid sabbatic
 
 When you welcome a new child (birthed, adopted, or fostered), Basecamp encourages you to take up to 16 weeks leave for primary caregivers and up to 6 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid.
 
-If you're an [eligible secondary caregiver] (https://www.nysenate.gov/legislation/laws/WKC/201) in the state of New York, you may be able to take up to 10 weeks leave. 
+If you're an [eligible secondary caregiver](https://www.nysenate.gov/legislation/laws/WKC/201) in the state of New York, you may be able to take up to 10 weeks leave. 
 
 ## Retirement Plan
 
