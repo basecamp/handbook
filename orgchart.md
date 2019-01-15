@@ -28,7 +28,7 @@ We have two C-level executives at Basecamp.
 
 ### Data
 
-We’re currently [searching for a new data analyst](https://m.signalvnoise.com/basecamp-is-hiring-a-data-analyst-f15fbfc153ba). They’ll be responsible for testing and analyzing all sorts of Basecamp data -- conversion rates, pricing models, back-end operational performance, user experience, and oh-so-much more. They’ll work with Justin White on SIP to maintain our data pipeline.
+Our data analyst is Jane Yang. She is responsible for testing and analyzing all sorts of Basecamp data -- conversion rates, pricing models, back-end operational performance, user experience, and oh-so-much more. She works with Justin White on SIP to maintain our data pipeline.
 
 ### Design
 
