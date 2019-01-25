@@ -84,4 +84,4 @@ Before we ship a new feature, **Michael Berger** and **Ann Goliak** are our resi
 
 ### Technical Operations
 
-Basecamp operates across three physical data centers and a smattering of cloud. The long-term plan is to go all cloud. Keeping the lights on with great reliability is the foremost mission of the Technical Operations team, and they’re op-fully amazing at doing it. **Taylor Weibley** is team lead and works with Nathan Anderson, Matthew Kent, Eron Nicholson, Colin O'Keeffe, Matthew Vincent, John Williams, and Blake Stoddard.
+Basecamp operates across three physical data centers and a smattering of cloud. The long-term plan is to go all cloud. Keeping the lights on with great reliability is the foremost mission of the Technical Operations team, and they’re op-fully amazing at doing it. **Taylor Weibley** is team lead and works with Nathan Anderson, Matthew Kent, Eron Nicholson, Colin O'Keeffe, Matthew Vincent, and John Williams. Blake Stoddard works part-time.
