@@ -68,3 +68,9 @@ When we need to use the staging database, that should be self-service too. Have 
 None of this means we can’t talk together or ask experts with more experience or expertise for their advice. It just means it shouldn’t be a required, necessary step to make Basecamp better.
 
 As soon as organizational bottlenecks form, like a slew of features waiting for “the mobile integration”, we’re dragged towards more micro and detailed schedule management. It becomes a critical path with dependencies and making sure team Z is available just at the right moment for team A, such that nobody is blocked. That’s a poor fit for our organizational aspirations, so we have to work to counter that.
+
+## With managers of one
+
+Managing at Basecamp is [part-time occupation](https://m.signalvnoise.com/moonlighting-managers-aint-got-no-time-for-bullshit/), next to being involved with doing the work itself. This means we rely on everyone at Basecamp to do a lot of self-management. People who do this well qualify as [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one), and we strive for everyone senior or above to embody this principle fully.
+
+That means setting your own direction when one isn't given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There's also more work to be done, always more initiatives to kick off, always more improvement to be had.
