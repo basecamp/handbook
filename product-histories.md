@@ -35,6 +35,7 @@ A tool called Writeboards lives in Basecamp Classic and Backpack. A Writeboard f
 In 2006, we built Campfire to help businesses communicate better. It’s a simple, real-time web-based group chat tool that lets people set up password-protected chat rooms super quickly. At the very beginning it didn’t integrate with Basecamp, but when it did it took off. Signups for Campfire were closed in February 2017.
 
 ## 37signals Suite
+
 The 37signals Suite was a bundle of Basecamp Classic, Highrise, Backpack, and Campfire that allowed businesses to get big savings across the apps, simplify billing, and unify users across the apps. We retired the 37signals Suite offering after BCX was launched.
 
 ## Breeze
@@ -50,6 +51,7 @@ Basecamp has run a job board since 2006, helping connect small businesses with g
 In 2014, Basecamp revamped our job board and launched We Work Remotely. After Jason and David published their book REMOTE, we realized we wanted to be on the forefront of promoting remote work. So, we created and hosted WeWorkRemotely.com, which contains job postings for programmers, designers, marketing professionals, customer service representatives, writers, and more -- all remote work positions. To post a job, a company needs to fill out a form on our site with information about the job, pay Basecamp $200 for a 30 day posting, and then verify that they are in fact offering a remote job. We've posted over 3,500 jobs over the last few years. In Spring 2017, we sold We Work Remotely to Metalab, to cut down on manual labor taken to run the board and focus more on our core business - Basecamp!
 
 ## Sortfolio.com
+
 In 2009, Basecamp launched Sortfolio (previously named Haystack) to help clients find the right web designer in a more efficient way. Clients are able to filter by city and typical budget range and then peruse the results in a more visual way. We ended up selling Sortfolio in 2013 to be able to focus more on Basecamp and allow another company to give Sortfolio the love and attention it deserves.
 
 ## Know Your Company
