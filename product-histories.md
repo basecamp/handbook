@@ -34,9 +34,8 @@ A tool called Writeboards lives in Basecamp Classic and Backpack. A Writeboard f
 
 In 2006, we built Campfire to help businesses communicate better. It’s a simple, real-time web-based group chat tool that lets people set up password-protected chat rooms super quickly. At the very beginning it didn’t integrate with Basecamp, but when it did it took off. Signups for Campfire were closed in February 2017.
 
-## Know Your Company
-
-In 2013, Basecamp created a software tool that allows managers to ask questions to gain insight into what their employees think about work, the culture, the direction of the company, what people are working on, or even something personal like their favorite recent movie. We created KYC because when the Basecamp team grew to about 30 people, Jason realized he didn't know the company or its people as well as he should have. So, KYC was created initially as an internal tool that eventually became a product that we sold to customers. In 2014, we [sold Know Your Company](https://knowyourcompany.com/story) to Claire Lew, and she's been running it ever since!
+## 37signals Suite
+The 37signals Suite was a bundle of Basecamp Classic, Highrise, Backpack, and Campfire that allowed businesses to get big savings across the apps, simplify billing, and unify users across the apps. We retired the 37signals Suite offering after BCX was launched.
 
 ## Breeze
 
@@ -46,4 +45,13 @@ Unlike our other retired products, we refunded our customers' money and closed t
 
 ## WeWorkRemotely.com
 
-In 2014, Basecamp launched We Work Remotely. After Jason and David published their book REMOTE, we realized we wanted to be on the forefront of promoting remote work. So, we created and hosted WeWorkRemotely.com, which contains job postings for programmers, designers, marketing professionals, customer service representatives, writers, and more -- all remote work positions. To post a job, a company needs to fill out a form on our site with information about the job, pay Basecamp $200 for a 30 day posting, and then verify that they are in fact offering a remote job. We've posted over 3,500 jobs over the last few years. In Spring 2017, we sold We Work Remotely to Metalab, to cut down on manual labor taken to run the board and focus more on our core business - Basecamp!
+Basecamp has run a job board since 2006, helping connect small businesses with good designers and programmers for full-time jobs, freelance gigs, and internships.
+
+In 2014, Basecamp revamped our job board and launched We Work Remotely. After Jason and David published their book REMOTE, we realized we wanted to be on the forefront of promoting remote work. So, we created and hosted WeWorkRemotely.com, which contains job postings for programmers, designers, marketing professionals, customer service representatives, writers, and more -- all remote work positions. To post a job, a company needs to fill out a form on our site with information about the job, pay Basecamp $200 for a 30 day posting, and then verify that they are in fact offering a remote job. We've posted over 3,500 jobs over the last few years. In Spring 2017, we sold We Work Remotely to Metalab, to cut down on manual labor taken to run the board and focus more on our core business - Basecamp!
+
+## Sortfolio.com
+In 2009, Basecamp launched Sortfolio (previously named Haystack) to help clients find the right web designer in a more efficient way. Clients are able to filter by city and typical budget range and then peruse the results in a more visual way. We ended up selling Sortfolio in 2013 to be able to focus more on Basecamp and allow another company to give Sortfolio the love and attention it deserves.
+
+## Know Your Company
+
+In 2013, Basecamp created a software tool that allows managers to ask questions to gain insight into what their employees think about work, the culture, the direction of the company, what people are working on, or even something personal like their favorite recent movie. We created KYC because when the Basecamp team grew to about 30 people, Jason realized he didn't know the company or its people as well as he should have. So, KYC was created initially as an internal tool that eventually became a product that we sold to customers. In 2014, we [sold Know Your Company](https://knowyourcompany.com/story) to Claire Lew, and she's been running it ever since!
