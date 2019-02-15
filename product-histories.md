@@ -1,7 +1,5 @@
 # Product Histories
 
-For a concise summary of this section, see the tabular data of our products, when they were launched, and when they "retired" [here](https://github.com/basecamp/data_scratchpad/blob/master/miscellany/data/product_dates.csv).
-
 ## Basecamp
 
 Basecamp. We love it so much, we named our company after it in 2014. On our website, we say _Basecamp is a private, secure space online where people working together can organize and discuss everything they need to get a project done. See it, track it, discuss it, act on it. Tasks, discussions, deadlines, and files - everything’s predictably organized in Basecamp_. But we want it to be more than that. In mid-2016, we decided to focus on helping small business owners manage their businesses and help alleviate growth and organizational pains they're facing. Project management was our bread and butter for over 15 years. But we were inspired by how we, internally, have used Basecamp to run Basecamp, and we want to extend that philosophy to our current customers and scores of brand-new customers.
