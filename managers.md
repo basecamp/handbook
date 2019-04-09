@@ -28,7 +28,7 @@ Basecamp has three tiers of responsibility within our job functions: Executive, 
    * creating and tracking performance improvement plans for team as needed
 * people management: personal
    * continually identifying and addressing potential performance problems in team
-   * maintaining general cohesion of team (via 1:1s, group hangs, etc)
+   * maintaining general cohesion of team (via 1:1s, group hangs, etc.)
    * anticipating and addressing morale issues
    * keeping the pulse of the emotional well-being of team including workload, attachment to work, on the lookout for fatigue or burnout, team advocate
 
