@@ -1,11 +1,12 @@
 # Making a Career
 
-The average tenure of employees working at many technology companies today is shockingly low. At both Amazon and Google, it's [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Basecamp, it's just around five years as of late 2016. That's something to be proud of and something to ensure endures. When you work at Basecamp, it should absolutely be feasible to think about this as the place for making a life-long career. 
+The average tenure of employees working at many technology companies today is shockingly low. At both Amazon and Google, it's [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Basecamp, it's over five years as of 2019. That's something to be proud of and something to ensure endures. When you work at Basecamp, it should absolutely be feasible to think about this as the place for making a life-long career. 
+
 ## Mastery & Titles
 
-Advancing your career at Basecamp doesn't mean giving up on your craft and moving into "management". Whether you work in programming, design, ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important since we're a relatively small company with just two layers of managerial cake: executives and team heads. And both the executives and heads still spend the majority of their time doing actual work themselves as well.
+Advancing your career at Basecamp doesn't mean giving up on your craft. Whether you work in programming, design, ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important since we're a relatively small company with just two layers of managerial cake: executives and team managers. And both the [executives and managers](https://github.com/basecamp/handbook/blob/master/managers.md#executive-manager-and-individual-responsibilities) still spend the majority of their time doing actual product work! 
 
-We've mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different. Here's an example of the titles for programming:
+Within each of our job functions, we've mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different. Here's an example of the titles for programming:
 
 * Junior Programmer
 * Programmer
