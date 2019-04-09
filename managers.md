@@ -31,7 +31,7 @@ Basecamp has three tiers of responsibility within our job functions: Executive, 
    * maintaining general cohesion of team (via 1:1s, group hangs, etc.)
    * anticipating and addressing morale issues
    * keeping the pulse of the emotional well-being of team including workload, attachment to work, on the lookout for fatigue or burnout, team advocate
-   * constructively translating team feedback on overall company direction and morale to Executives
+   * translating team feedback on overall company direction and morale to Executives
 
 ## Individual Responsibilities
 * product work and communication
@@ -40,7 +40,7 @@ Basecamp has three tiers of responsibility within our job functions: Executive, 
    * interpretation of daily work from the cycle strategy devised by Manager
 * people management: personal
    * self-promotion and self-advocacy to Managers
-   * constructively communicating feedback to Managers on overall team or company direction and morale
+   * communicating feedback to Managers on overall team or company direction and morale
 
 *A note about our Managers*. We encourage Managers to be "moonlight managers". To us that means they focus mostly on product strategy, work, and communication, and they allow the individuals on their teams to self-direct.
 
