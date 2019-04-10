@@ -54,9 +54,9 @@ We don't track sick days either. If you're under the weather, take the time you 
 
 Your outlets at Basecamp if you're feeling your mental or physical health is taking a toll on your work? So many to choose from! We have Carecamp, a project in Basecamp dedicated to discussing all aspects of self-care. You can go to your manager at any time or during one of your regular 1:1 meetings. You can go to Andrea at any time, who with your permission can work with your manager to help you. Additionally, your manager should check in with *you*, proactively, to periodically make sure you're doing okay.
 
-## Short-term Disability
+## Personal Leave
 
-On top of Paid Time Off, Basecamp offers a self-funded short-term disability (STD) plan to all its employees. If you fall ill or injure yourself and are unable to work because of it, let us know and you can take 30 days off at 100% pay. If after that, you're still unable to work, Basecamp's STD policy kicks in and you'll continue to earn 60% of your pay until you're better, up to 3 months off. These days are an emergency reserve, in addition to your vacation/sick time described above. If after this period of time, you still cannot work, talk to your manager, Jason, David, or Andrea, and we will discuss what comes next on a case-by-case basis.
+If you are under treatment or recovery for a serious medical condition and are unable to work because of it, let us know and you can take four weeks off at 100% pay. If after that, you're still unable to work, Basecamp will continue to pay you 70% of your pay until you're better, up to twelve weeks off. These days are an emergency reserve, separate from your vacation/sick time described above. If after this period of time, you still cannot work, talk to your manager, Jason, David, or Andrea, and we will discuss what comes next on a case-by-case basis.
 
 ## Employee Assistance Program (EAP)
 Basecamp's EAP is through ComPsych, and it provides a confidential avenue for you to get assistance with issues regarding behavioral and emotional health, family, legal, financial, wellness or other personal matters. When you call or email our provider, you'll be connected to a certified clinician who can help you one-on-one at that time, or who can refer you to someone in your area for longer-term help. Services range from immediate or crisis mental health care to phone-help on your 401k investments to a referral to a lawyer in your area to help with your estate planning. Because we use the EAP, you also receive discounts on those referrals to professionals. 
@@ -72,11 +72,11 @@ During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in
 
 Every three years, employees are eligible to take a one-month-long paid sabbatical. Just give a heads-up preferably three months in advance, so we can coordinate the work-load accordingly.
 
-## Parental Leave
+## Family Leave
 
-When you welcome a new child (birthed, adopted, or fostered), Basecamp encourages you to take up to 16 weeks leave for primary caregivers and up to 6 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid.
+If you are the primary caregiver of a new child, you can take up to 16 weeks leave at 100% paid salary. If you are the secondary caregiver of a new child, you can take up to 6 weeks leave at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid as the primary or secondary caregiver. This time is meant for bonding with the new child and should commence from the date of birth or placement.
 
-If you're an [eligible secondary caregiver](https://www.nysenate.gov/legislation/laws/WKC/201) in the state of New York, you may be able to take up to 10 weeks leave. 
+Some states require us to provide additional benefits.
 
 ## Retirement Plan
 
