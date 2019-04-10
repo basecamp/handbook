@@ -34,10 +34,12 @@ When someone gets a promotion, that is goes from one level to the next, they'll 
 
 ## May & November Reviews
 
-We perform bi-yearly reviews in May and November. Everyone who has been with the company at least 90 days gets a review.  The primary purpose of these reviews is to give feedback on career path advancement and recognize accomplishments. We wrap up our November reviews in time to make promotion related pay adjustments effective January 1st. We follow a simple process:
+Managers perform bi-yearly performance reviews in May and November. Everyone who has been with the company at least 90 days gets a review.  The primary purpose of these reviews is to give feedback on career path advancement and recognize accomplishments. We wrap up our November reviews in time to make promotion related pay adjustments effective January 1st. We follow a simple process:
 
 * Everyone writes up a 1-2 page summary and sends it to the head of their team.
 * The head of your team reviews your summary and prepares their own thoughts.
 * The head of your team will schedule a one-hour meeting to discuss.
 
 The head of your team will reach out to you when it's time for you to write up your review. Of course you can (and should) ask for feedback as often as you'd like it.
+
+If you have a performance problem that needs to be addressed, [we have a process for that](https://github.com/basecamp/handbook/blob/master/performance-plans.md#performance-plan-process)! Your manager should bring up performance problems throughout the year, not just at bi-yearly review time.
