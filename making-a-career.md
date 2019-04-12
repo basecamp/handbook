@@ -32,14 +32,32 @@ Everyone in the same role at the same level is paid the same at Basecamp.
 
 When someone gets a promotion, that is goes from one level to the next, they'll get a corresponding pay raise January 1st as well.
 
-## May & November Reviews
+## Performance Feedback
 
-Managers perform bi-yearly performance reviews in May and November. Everyone who has been with the company at least 90 days gets a review.  The primary purpose of these reviews is to give feedback on career path advancement and recognize accomplishments. We wrap up our November reviews in time to make promotion related pay adjustments effective January 1st. We follow a simple process:
+Twice a year, Basecamp employees receive formal feedback on their work performance. 
 
-* Everyone writes up a 1-2 page summary and sends it to the head of their team.
-* The head of your team reviews your summary and prepares their own thoughts.
-* The head of your team will schedule a one-hour meeting to discuss.
+### Spring 1:1s
+In April-May, you’ll meet with your manager for a 1:1 session. It's up to each manager to determine how best to approach that meeting, but we ask that whatever process they use, they use the same process for every team member. Managers should be asking you for feedback about:
+- your daily work content and load
+- your overall work satisfaction
+- your relationships with your team, manager, and company
+- your thoughts about personal growth and how those impact your work at Basecamp
 
-The head of your team will reach out to you when it's time for you to write up your review. Of course you can (and should) ask for feedback as often as you'd like it.
+Managers will document your 1:1s along with any action items with deadlines that come out of the meeting.
 
-If you have a performance problem that needs to be addressed, [we have a process for that](https://github.com/basecamp/handbook/blob/master/performance-plans.md#performance-plan-process)! Your manager should bring up performance problems throughout the year, not just at bi-yearly review time.
+### Annual 360 Surveys
+During the month of your anniversary, you'll participate in a 360 review process. We stagger these surveys by anniversary month to cut down on the administrative workload that would happen if we did them all at one time. 
+
+You'll receive a request during your anniversary month asking you for the names of some peers you want to receive feedback from. Those people will receive a short surveys (<10 questions) which asks them about various aspects of working with you. You'll also receive feedback from your manager. If you have any direct reports, they'll be asked to complete a survey too, reviewing your management practices. Finally you'll complete a self-evaluation which asks about your overall feelings about your day-to-day work, your long-term goals, and your satisfaction with how the company is being run.
+
+Once all your surveys have been completed, the results will be compiled in an easy-to-read report. You'll receive that report which consists of verbatim feedback from each source, lifted directly from the surveys for clarity. Your manager will also receive a copy of your report. Then your manager will meet 1:1 with you to review the report. If your survey results suggest you need to do something differently, your manager will raise that during your 1:1 and help you take steps with deadlines to address it.
+
+When you're asked to complete a survey for one of your coworkers, please try to do so within a week. They shouldn't take more than 30 minutes. You won't be asked to do more than 5 peer surveys in a year, so please take care with the ones you are asked to complete!
+
+All 360 surveys consist of open-ended questions, as opposed to a 1 - 5 scoring scale. Answering this way takes more thought and time, but it results in a much more useful form of feedback! Your answers as a feedback-giver are *never anonymous*, however we offer an emergency confidential-to-Andrea option if you’re truly uncomfortable sharing your thoughts directly with the person you’re reviewing.
+
+### Performance Plans
+If your feedback relationship with your manager and your team is where it should be, nothing too surprising should be coming out of either your Spring 1:1 or your Annual 360! Managers should be addressing performance successes and problems in the moment, throughout the year, not waiting for one of these opportunities. If some unforeseen negative feedback does come out during your Spring 1:1 or your Annual 360, your manager could decide to initiate our formal [performance plan process](https://github.com/basecamp/handbook/blob/master/performance-plans.md#performance-plan-process). 
+
+### Feedback on Feedback
+Both processes described above are constantly evolving (or at least they should be!). Great feedback opportunities can only be designed so much — it takes continual feedback on the process from everyone to keep it useful. If you think any aspect of the process described here could be more efficient, more practical, and result in better actionable feedback for you, please let Andrea know!
