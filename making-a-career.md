@@ -36,15 +36,6 @@ When someone gets a promotion, that is goes from one level to the next, they'll 
 
 Twice a year, Basecamp employees receive formal feedback on their work performance. 
 
-### Spring 1:1s
-In April-May, you’ll meet with your manager for a 1:1 session. It's up to each manager to determine how best to approach that meeting, but we ask that whatever process they use, they use the same process for every team member. Managers should be asking you for feedback about:
-- your daily work content and load
-- your overall work satisfaction
-- your relationships with your team, manager, and company
-- your thoughts about personal growth and how those impact your work at Basecamp
-
-Managers will document your 1:1s along with any action items with deadlines that come out of the meeting.
-
 ### Annual 360 Surveys
 During the month of your anniversary, you'll participate in a 360 review process. We stagger these surveys by anniversary month to cut down on the administrative workload that would happen if we did them all at one time. 
 
@@ -56,8 +47,17 @@ When you're asked to complete a survey for one of your coworkers, please try to 
 
 All 360 surveys consist of open-ended questions, as opposed to a 1 - 5 scoring scale. Answering this way takes more thought and time, but it results in a much more useful form of feedback! Your answers as a feedback-giver are *never anonymous*, however we offer an emergency confidential-to-Andrea option if you’re truly uncomfortable sharing your thoughts directly with the person you’re reviewing.
 
+### Manager 1:1s
+Once a year, you’ll meet with your manager for a 1:1 session. It's up to each manager to determine how best to approach that meeting, but we ask that whatever process they use, they use the same process for every team member. Managers should have a conversation with you about:
+- your daily work content and load
+- your overall work satisfaction
+- your relationships with your team, manager, and company
+- your thoughts about personal growth and how those impact your work at Basecamp
+
+This is a two-way street! You should be offering your thoughts on these topics to your manager, and your manager should be giving you feedback about your performance in these areas. Managers will document your 1:1s along with any action items with deadlines that come out of the meeting. Your Manager 1:1 takes place 6 months after your Annual 360.
+
 ### Performance Plans
-If your feedback relationship with your manager and your team is where it should be, nothing too surprising should be coming out of either your Spring 1:1 or your Annual 360! Managers should be addressing performance successes and problems in the moment, throughout the year, not waiting for one of these opportunities. If some unforeseen negative feedback does come out during your Spring 1:1 or your Annual 360, your manager could decide to initiate our formal [performance plan process](https://github.com/basecamp/handbook/blob/master/performance-plans.md#performance-plan-process). 
+If your feedback relationship with your manager and your team is where it should be, nothing too surprising should be coming out of either your Annual 360 or your Annual 1:1! Managers should be addressing performance successes and problems in the moment, throughout the year, not waiting for one of these opportunities. If some unforeseen negative feedback does come out during your 360 or 1:1, your manager could decide to initiate our formal [performance plan process](https://github.com/basecamp/handbook/blob/master/performance-plans.md#performance-plan-process). 
 
 ### Feedback on Feedback
 Both processes described above are constantly evolving (or at least they should be!). Great feedback opportunities can only be designed so much — it takes continual feedback on the process from everyone to keep it useful. If you think any aspect of the process described here could be more efficient, more practical, and result in better actionable feedback for you, please let Andrea know!
