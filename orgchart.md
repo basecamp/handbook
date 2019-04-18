@@ -20,7 +20,7 @@ We have two C-level executives at Basecamp.
 
 #### CEO
 
-**Jason Fried** is our CEO and also runs design. He’s principally responsible for setting the overall direction of the company. That means deciding when to embark on a new version of Basecamp or experiment with a side project (Basecamp-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Jason also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. He was one of the original three founders who started 37signals, the design firm that led to Basecamp, back in 1999. 
+**Jason Fried** is our CEO and runs design. He’s principally responsible for setting the overall direction of the company. That means deciding when to embark on a new version of Basecamp or experiment with a side project (Basecamp-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Jason also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. He was one of the original three founders who started 37signals, the design firm that led to Basecamp, back in 1999. 
 
 #### CTO
 
@@ -32,7 +32,7 @@ Our data analyst is **Jane Yang**. She is responsible for testing and analyzing 
 
 ### Design
 
-The design group is lead by **Jason Fried** and consists of four teams:
+The design group is led by **Jonas Downey** and consists of four teams:
 
 #### Marketing
 
@@ -44,7 +44,7 @@ The design group is lead by **Jason Fried** and consists of four teams:
 
 #### Web/Desktop
 
-**Jonas Downey**, **Jason Zimdars**, and **Scott Upton** are responsible for any Basecamp product design on the web or the native desktop app.
+**Jonas Downey**, Scott Upton, and Jason Zimdars are responsible for any Basecamp product design on the web or the native desktop app.
 
 #### Video/motion
 
