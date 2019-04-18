@@ -3,7 +3,7 @@
 We don't want any of our employees to feel unclear on where they stand, should they find themselves in need of improving their performance. So below are the steps we commit to taking at Basecamp when your manager identifies a problem with your performance that must be addressed. 
 
 ## STEP ONE: Identify the problem (ALERT)
-Your manager will identify a productivity or disciplinary problem as soon as possible after it occurs. Your bi-yearly performance reviews may be helpful in identifying a problem, but managers shouldn't wait for those reviews to raise a problem with you. 
+Your manager will identify a productivity or disciplinary problem as soon as possible after it occurs. Your semiannual performance reviews may be helpful in identifying a problem, but managers shouldn't wait for those reviews to raise a problem with you. 
 
 Your manager will have a conversation with you first. The idea is for you and your manager to openly and honestly address what went wrong and why. Your manager will approach the conversation with curiosity, not frustration! This is the first time something's gone wrong, so you and your manager should work together to address it and move past it. Your manager's complaint may be detailed or a general sense of something being off. During this initial conversation, you and your manager should make a plan for how you can course correct and show your work towards that end. 
 
