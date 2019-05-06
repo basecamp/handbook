@@ -13,7 +13,7 @@ If you want to learn the Basecamp view of the world, it helps to know the influe
 ## People
 
 * [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck)
-* [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer))
 * [Kathy Sierra](https://en.wikipedia.org/wiki/Kathy_Sierra)
 * [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander)
 * [Bob Moesta](https://blog.intercom.com/podcast-bob-moesta-on-jobs-to-be-done/)
