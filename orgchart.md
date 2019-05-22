@@ -20,7 +20,7 @@ We have two C-level executives at Basecamp.
 
 #### CEO
 
-**Jason Fried** is our CEO and runs design. He’s principally responsible for setting the overall direction of the company. That means deciding when to embark on a new version of Basecamp or experiment with a side project (Basecamp-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Jason also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. He was one of the original three founders who started 37signals, the design firm that led to Basecamp, back in 1999. 
+**Jason Fried** is our CEO and runs design. He’s principally responsible for setting the overall direction of the company. That means deciding when to embark on a new version of Basecamp or experiment with a side project (Basecamp-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Jason also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. He was one of the original three founders who started 37signals, the design firm that led to Basecamp, back in 1999.
 
 #### CTO
 
@@ -52,7 +52,7 @@ The design group is led by **Jonas Downey** and consists of four teams:
 
 ### Product Strategy
 
-**Ryan Singer** heads up product strategy and is the only person on this team. Ryan looks for insights into customer behavior using a variety of methods, and plays a key role in helping inform product direction and how we work. Ryan was part of the original group of four people at the company when Basecamp-the-product was first launched in 2004. 
+**Ryan Singer** heads up product strategy and is the only person on this team. Ryan looks for insights into customer behavior using a variety of methods, and plays a key role in helping inform product direction and how we work. Ryan was part of the original group of four people at the company when Basecamp-the-product was first launched in 2004.
 
 ### Programming
 
@@ -84,4 +84,12 @@ Before we ship a new feature, **Michael Berger** and **Ann Goliak** are our resi
 
 ### Technical Operations
 
-Basecamp operates across three physical data centers and a smattering of cloud. The long-term plan is to go all cloud. Keeping the lights on with great reliability is the foremost mission of the Technical Operations team, and they’re op-fully amazing at doing it. **Taylor Weibley** is team lead and works with Nathan Anderson, Matthew Kent, Eron Nicholson, Colin O'Keeffe, Matthew Vincent, John Williams, and Blake Stoddard.
+The technical operations group is lead by **[TBD (we're hiring!)](https://basecamp.workable.com/jobs/1025288)** and consists of two teams:
+
+#### Datacenter
+
+Our Datacenter team is focused on keeping the applications that we run on our own equipment in Chicago, IL and Ashburn, VA in top shape. Basecamp 3 even runs out of both sites simultaneously! **Eron Nicholson** is the team lead and works with John Williams, Matthew Vincent and Colin O'Keeffe.
+
+#### Cloud
+
+The Cloud team works on newer approaches to running our applications on Amazon Web Services and the Google Cloud Platform. They maintain our suite of legacy apps with an eye on the future. **Matthew Kent** is the lead here and works with Nathan Anderson and Blake Stoddard.
