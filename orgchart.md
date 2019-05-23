@@ -20,7 +20,7 @@ We have two C-level executives at Basecamp.
 
 #### CEO
 
-**Jason Fried** is our CEO and runs design. He’s principally responsible for setting the overall direction of the company. That means deciding when to embark on a new version of Basecamp or experiment with a side project (Basecamp-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Jason also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. He was one of the original three founders who started 37signals, the design firm that led to Basecamp, back in 1999. 
+**Jason Fried** is our CEO and runs design. He’s principally responsible for setting the overall direction of the company. That means deciding when to embark on a new version of Basecamp or experiment with a side project (Basecamp-spinoff [Know Your Company](http://knowyourcompany.com) is one example). Jason also spends a lot of time writing and speaking about what we’ve learned about business, design, and organizations. He was one of the original three founders who started 37signals, the design firm that led to Basecamp, back in 1999.
 
 #### CTO
 
@@ -52,7 +52,7 @@ The design group is led by **Jonas Downey** and consists of four teams:
 
 ### Product Strategy
 
-**Ryan Singer** heads up product strategy and is the only person on this team. Ryan looks for insights into customer behavior using a variety of methods, and plays a key role in helping inform product direction and how we work. Ryan was part of the original group of four people at the company when Basecamp-the-product was first launched in 2004. 
+**Ryan Singer** heads up product strategy and is the only person on this team. Ryan looks for insights into customer behavior using a variety of methods, and plays a key role in helping inform product direction and how we work. Ryan was part of the original group of four people at the company when Basecamp-the-product was first launched in 2004.
 
 ### Programming
 
@@ -76,7 +76,7 @@ SIP is our instant-response team whenever something goes wrong, is about to go w
 
 ### QA
 
-Before we ship a new feature, **Michael Berger** and **Ann Goliak** are our resident bug squashers. Their job is to break things so we know what needs fixing. They run rolling tests on all web and mobile versions of Basecamp for quality control. Few things ship without their stamp of quality approval.
+Before we ship a new feature, **Michael Berger** is our resident bug squasher. His job is to break things so we know what needs fixing. He runs rolling tests on all web and mobile versions of Basecamp for quality control. Few things ship without his stamp of quality approval.
 
 ### The REWORK Podcast
 
