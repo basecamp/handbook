@@ -84,4 +84,12 @@ Before we ship a new feature, **Michael Berger** is our resident bug squasher. H
 
 ### Technical Operations
 
-Basecamp operates across three physical data centers and a smattering of cloud. The long-term plan is to go all cloud. Keeping the lights on with great reliability is the foremost mission of the Technical Operations team, and they’re op-fully amazing at doing it. **Taylor Weibley** is team lead and works with Nathan Anderson, Matthew Kent, Eron Nicholson, Colin O'Keeffe, Matthew Vincent, John Williams, and Blake Stoddard.
+The technical operations group is lead by **[TBD (we're hiring!)](https://basecamp.workable.com/jobs/1025288)** and consists of two teams:
+
+#### Datacenter
+
+Our Datacenter team is focused on keeping the applications that we run on our own equipment in Chicago, IL and Ashburn, VA in top shape. Basecamp 3 even runs out of both sites simultaneously! **Eron Nicholson** is the team lead and works with John Williams, Matthew Vincent and Colin O'Keeffe.
+
+#### Cloud
+
+The Cloud team works on newer approaches to running our applications on Amazon Web Services and the Google Cloud Platform. They maintain our suite of legacy apps with an eye on the future. **Matthew Kent** is the lead here and works with Nathan Anderson and Blake Stoddard.
