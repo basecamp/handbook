@@ -24,7 +24,7 @@ Growth makes a lot of things more difficult - people don't know each other as we
 
 At some point, growing small businesses need a system, something to stay organized, something to grow with so they don't lose control of themselves along the way. Company-wide communication, team-based communication, and project work needs a home.
 
-Most companies cobble together a laticework of separate tools as they grow, but the weight of disorganization and lack of order collapses and eventually catches up to them. Email doesn't cut it anymore. More meetings aren't going to solve the problem. And increasingly, incessant chatting creates exponentially more communication without the necessary structure and context to make it useful.
+Most companies cobble together a latticework of separate tools as they grow, but the weight of disorganization and lack of order collapses and eventually catches up to them. Email doesn't cut it anymore. More meetings aren't going to solve the problem. And increasingly, incessant chatting creates exponentially more communication without the necessary structure and context to make it useful.
 
 This is where Basecamp comes in.
 
