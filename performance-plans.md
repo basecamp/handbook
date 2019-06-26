@@ -44,7 +44,9 @@ If your manager feels your performance is not where it should be, this final con
 ## STEP SIX: Document
 At this final stage, your manager will add more notes about your most recent talk, and they'll detail why they were or were not convinced of your progress. If you've been terminated, that will be noted in the documentation. 
 
-If you haven't been terminated and your manager is happy with your progress, they still may add a contingency plan to the documentation (e.g. "I'm happy with Employee's progress at the moment, but if something similar happens again in the next 12 months, they move immediately to STEP THREE"). You the employee will again be made aware of what your manager is documenting. 
+If you haven't been terminated and your manager is happy with your progress, they still may add a contingency plan to the documentation (e.g. "I'm happy with Employee's progress at the moment, but if something similar happens again in the next 12 months, they move immediately to STEP THREE"). You the employee will again be made aware of what your manager is documenting.
+
+If you are terminated, we try our best to prevent that from creating a crisis. Basecamp offers a severance package that pays out immediately upon your termination: one month's pay for every year you've worked at Basecamp (up to 4 months). That severance package also includes medical and dental insurance for you and your dependents if you've been on our policies. And when you begin looking for work, your manager and the company will provide references or recommendations when possible. 
 
 Whatever the final outcome of your case, your entire final Google Doc outlining your progress will be moved into Basecamp as part of your employee record. 
 
