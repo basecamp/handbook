@@ -60,7 +60,7 @@ The programming group is lead by **David Heinemeier Hansson** and consists of fo
 
 #### Core Product
 
-Core Product works on new features for Basecamp together with the product designers. They're also responsible for the user-facing backend systems such as Queenbee, 37id, and the API. **Jeff Hardy** is the team lead and works with Pratik Naik, Flora Saramago, Tom Ward.
+Core Product works on new features for Basecamp together with the product designers. They're also responsible for the user-facing backend systems such as Queenbee, 37id, and the API. **Jeff Hardy** is the team lead and works with Kasper Timm Hansen, Pratik Naik, and Flora Saramago.
 
 #### Mobile
 
