@@ -84,7 +84,7 @@ Before we ship a new feature, **Michael Berger** is our resident bug squasher. H
 
 ### Technical Operations
 
-The technical operations group is lead by **[TBD (we're hiring!)](https://basecamp.workable.com/jobs/1025288)** and consists of two teams:
+The technical operations group is lead by **[TBD]** and consists of two teams:
 
 #### Datacenter
 
