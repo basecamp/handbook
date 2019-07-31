@@ -78,7 +78,7 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 * Ensure you have your passport, ESTA, invitation letter, and travel details all in order.
 * Put Andrea and our attorney on speed dial.
   * If you run into general travel issues or have any questions, contact Andrea LaRowe.
-  * If you're detained or encounter some other serious customs headache, contact our attorney directly: Jennifer Pflanz (get phone number from Andrea). Customs and Border Protection (CBP) is not required to allow you to contact an attorney, but Jennifer is your first call if possible.
+  * If you're detained or encounter some other serious customs headache, contact our attorney directly: Jennifer Schaaf (get phone number from Andrea). Customs and Border Protection (CBP) is not required to allow you to contact an attorney, but Jennifer is your first call if possible.
 * 1Password
   * Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the Basecamp team vault instead. You have a personal vault inside the Basecamp team which is perfect for those logins.
   * Turn on Travel Mode. Go to https://basecamp.1password.com/profile and click Enable Travel Mode.
