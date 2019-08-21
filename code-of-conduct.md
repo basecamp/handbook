@@ -7,11 +7,13 @@ In the interest of fostering an inclusive and safe workplace, Basecamp pledges t
 ## Our Standards
 
 Examples of behavior that contributes to creating a healthy environment include:
+
 -Using welcoming and inclusive language
 -Being respectful and empathetic when it comes to differing viewpoints and experiences
 -Gracefully accepting and offering constructive criticism and feedback
 
 Examples of unacceptable behavior by employees include:
+
 -The use of any sexualized language or imagery and unwelcome sexual attention or advances
 -Insulting or derogatory comments
 -Discriminating on the basis of age, disability, ethnicity, gender identity or expression, nationality, neurotype, personal appearance, political affiliation, professional background, race, religion, or sexual identity or orientation.
