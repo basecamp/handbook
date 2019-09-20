@@ -84,7 +84,7 @@ Before we ship a new feature, **Michael Berger** is our resident bug squasher. H
 
 ### Technical Operations
 
-The technical operations group is lead by **[TBD]** and consists of two teams:
+The technical operations group is lead by **Troy Toman** and consists of two teams:
 
 #### Datacenter
 
