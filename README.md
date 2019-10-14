@@ -7,7 +7,7 @@ At Overgrad, we value openness and transparency. We also value radical candor, s
 If you are interested in giving super powers to school counselors, check out our job postings on AngelList.
 
 ## Sections
-* [Mission and Values](https://github.com/basecamp/handbook/blob/master/basecamp-is-you.md)
+* [What We Stand For](https://github.com/overgrad/handbook/blob/master/what-we-stand-for.md)
 * [What Influenced Us](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
 * [Product Histories](https://github.com/basecamp/handbook/blob/master/product-histories.md)
 * [Who Does What?](https://github.com/basecamp/handbook/blob/master/orgchart.md)
