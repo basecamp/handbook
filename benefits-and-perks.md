@@ -1,4 +1,4 @@
-# Benefits
+# Benefits and Perks
 
 ## Health Insurance
 
@@ -35,13 +35,9 @@ Every three years, employees are eligible to take a one-month-long paid sabbatic
 
 If you are the primary caregiver of a new child, you can take up to 12 weeks leave at 100% paid salary. If you are the secondary caregiver of a new child, you can take up to 6 weeks leave at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid as the primary or secondary caregiver. This time is meant for bonding with the new child and should commence from the date of birth or placement.
 
-# Perks
-
 ## Continuing Education Allowance
 
 If you're interested in taking classes that you feel improve you professionally, you have a $1,000 annual stipend to do so (annual = a 12 month period, not necessarily 2019 or 2020).
-
-# Practical assistance
 
 ## Expense Account
 
