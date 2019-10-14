@@ -74,7 +74,7 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 ## Checklist: Before You Travel
 
 * Let us know! Share your travel plans and when you expect to arrive in the US.
-* Update your ESTA online with your travel info and the hotel address: Ace Hotel, 311 N Morgan St., Chicago, IL 60607.
+* Update your ESTA online with your travel info and the hotel address: The Hoxton, 200 N Green St, Chicago, IL 60607.
 * Ensure you have your passport, ESTA, invitation letter, and travel details all in order.
 * Put Andrea and our attorney on speed dial.
   * If you run into general travel issues or have any questions, contact Andrea LaRowe.
