@@ -1,6 +1,6 @@
-# A Note About Moonlighting 
+# A Note About Moonlighting
 
-No, not the amazing 1980s sitcom starring Cybill Shepherd and whats-his-name from Hudson Hawk. Moonlighting means working other professional, paid jobs outside of your work at Basecamp. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavors outside of Basecamp don’t create conflicts of interest or affect your time, dedication, or performance at Basecamp. So it’s a delicate balance.
+No, not the amazing 1980s sitcom starring Cybill Shepherd and whats-his-name from Hudson Hawk. Moonlighting means working other professional, paid jobs outside of your work at Box Products. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavors outside of Box Products don’t create conflicts of interest or affect your time, dedication, or performance at Box Products. So it’s a delicate balance.
 
 With that in mind, here are some examples of what we’d consider OK and what we would consider a conflict of interest and not OK:
 
@@ -12,7 +12,7 @@ With that in mind, here are some examples of what we’d consider OK and what we
 
 3. A side business that’s different from your day job, as long as the commitment is only a few hours a week. If you come to work exhausted because you’re trying to start a full-time business on the side, it’s going to impact your performance here.
 
-4. Serve as an advisor for another company, or be on a board, as long as there’s no conflict of interest. The time commitment must be under a few hours a month. And if there’s a scheduling conflict, Basecamp gets priority.
+4. Serve as an advisor for another company, or be on a board, as long as there’s no conflict of interest. The time commitment must be under a few hours a month. And if there’s a scheduling conflict, Box Products gets priority.
 
 5. Do volunteer or occasional pro-bono work for a cause you’re actively involved with. A little work here and there is fine, but, for example, becoming an organization’s full-time web designer and being on the hook to work during your standard work day, etc, would not be OK.
 
@@ -22,7 +22,7 @@ With that in mind, here are some examples of what we’d consider OK and what we
 
 2. Go out on a regular speaking circuit tour which is going to require multiple days of travel multiple times a year. That’s too disruptive to our own work schedule and to your fellow teammates.
 
-3. Consult for other companies in our industry where there may be a conflict of interest (a competitor, a product tangentially related to Basecamp, etc).
+3. Consult for other companies in our industry where there may be a conflict of interest (a competitor, a product tangentially related to Box Products, etc).
 
 4. Be aggressive in marketing your availability for side work. If something comes to you through a friend or some connection, fine, but aggressively promoting something on the side will ultimately result in a conflict of interest here at work.
 
@@ -35,7 +35,7 @@ Here’s a few guiding principles about whether something could be a problem:
 * Is it competitive?
 * Does it occupy a disproportionate amount of your time?
 * Does it require you to be away during times when you’re needed at work?
-* Is it another paid gig that employs the same skills Basecamp is paying you for?
+* Is it another paid gig that employs the same skills Box Products is paying you for?
 
 In general we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
 

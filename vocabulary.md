@@ -1,6 +1,6 @@
 # Vocabulary
 
-Like most other organizations in the world, Basecamp has over time developed a vocabulary specific to our work and company. It's easy to overdo and it's even easier to do cringeworthily. We don't want to have a culture of Basecamperinos _CRUSHING IT_ to get to the _NEXT LEVEL_ with some super-duper _PEAK PERFORMANCE, BRUH_. The vast majority of the time, we can use the vocabulary shared with the rest of the English-speaking world, and we'll be better off. On the other hand...
+Like most other organizations in the world, Box Products has over time developed a vocabulary specific to our work and company. It's easy to overdo and it's even easier to do cringeworthily. We don't want to have a culture of Box Productserinos _CRUSHING IT_ to get to the _NEXT LEVEL_ with some super-duper _PEAK PERFORMANCE, BRUH_. The vast majority of the time, we can use the vocabulary shared with the rest of the English-speaking world, and we'll be better off. On the other hand...
 
 ## Judo
 
@@ -12,4 +12,4 @@ It's a rare case when our initial aspirations for a feature don't meet the bound
 
 ## PDI
 
-"Please do investigate". Seen most often on to-do lists at Basecamp to indicate uncertainty. It helps everyone on the project understand that we're going to look into it but it may or may not be feasible, practical, or possible.  
+"Please do investigate". Seen most often on to-do lists at Box Products to indicate uncertainty. It helps everyone on the project understand that we're going to look into it but it may or may not be feasible, practical, or possible.

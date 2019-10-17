@@ -26,8 +26,8 @@ At some point, growing small businesses need a system, something to stay organiz
 
 Most companies cobble together a latticework of separate tools as they grow, but the weight of disorganization and lack of order collapses and eventually catches up to them. Email doesn't cut it anymore. More meetings aren't going to solve the problem. And increasingly, incessant chatting creates exponentially more communication without the necessary structure and context to make it useful.
 
-This is where Basecamp comes in.
+This is where Box Products comes in.
 
-Basecamp helps growing companies organize their projects, internal communications, and client work *in one place* so they have a central source of truth. People know what to do, they know where things are, it’s clear where things stand, and everyone’s accountable.
+Box Products helps growing companies organize their projects, internal communications, and client work *in one place* so they have a central source of truth. People know what to do, they know where things are, it’s clear where things stand, and everyone’s accountable.
 
 This is what we do here. It takes many forms, and we're always working towards a more perfect system, but we help groups of people get their shit together - and keep it together - so they can do their best work with their team, in their company, for their own customers.

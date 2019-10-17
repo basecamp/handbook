@@ -1,6 +1,6 @@
 # Executive, Manager, and Individual Responsibilities
 
-Basecamp has three tiers of responsibility within our job functions: Executive, Manager, and Individual. Here's how we break down each level’s duties.
+Box Products has three tiers of responsibility within our job functions: Executive, Manager, and Individual. Here's how we break down each level’s duties.
 
 ## Executive Responsibilities
 * company and product strategy
@@ -46,4 +46,4 @@ Basecamp has three tiers of responsibility within our job functions: Executive, 
 
 At the same time, we ask our Managers to take on a lot of responsibility for their teams! We very much appreciate that that may result in Managers doing some emotional labor. That sort of work is usually invisible and hard to quantify in the way product work is, and that's okay! It's part of a Manager's tough job, and we see that.
 
-Managers who feel that their energy for product work is _consistently_ suffering as a result of people management means something is structurally failing at Basecamp. Those managers should raise the issue with Jason, David, or Andrea so we can all work on fixing the root problem. 
+Managers who feel that their energy for product work is _consistently_ suffering as a result of people management means something is structurally failing at Box Products. Those managers should raise the issue with Jason, David, or Andrea so we can all work on fixing the root problem. 

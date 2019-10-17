@@ -16,9 +16,9 @@ We have answers!
 
 We'll focus on traveling to the US since attending company meetups is our primary reason for international business travel.
 
-Keep in mind, if you're traveling more than 10 hours in the air (not including layovers), Basecamp will cover the cost of a business class ticket, up to $5000, twice a year.
+Keep in mind, if you're traveling more than 10 hours in the air (not including layovers), Box Products will cover the cost of a business class ticket, up to $5000, twice a year.
 
-When you travel for Basecamp business, here's what you need:
+When you travel for Box Products business, here's what you need:
 
 1. A passport! Apply for one now if you don't have one already. Renew now if your passport expires in the next six months.
 2. A travel visa or waiver.
@@ -64,7 +64,7 @@ To substantiate the purpose of your travel, we can provide an unofficial invitat
 
 When you enter the US, you may be asked to unlock your phone or laptop for search, possibly exposing sensitive company data like source code, passwords, and customer account data. Yikes! We need to take some precautionary measures to safeguard our data.
 
-(What's a work device? Anything you have company data on: your laptop where you work with Basecamp source code; your tablet where you read Basecamp email; your phone where you use the Basecamp app; etc.)
+(What's a work device? Anything you have company data on: your laptop where you work with Box Products source code; your tablet where you read Box Products email; your phone where you use the Box Products app; etc.)
 
 ### TL;DR: Don't Travel With Work Data
 
@@ -80,18 +80,18 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
   * If you run into general travel issues or have any questions, contact Andrea LaRowe.
   * If you're detained or encounter some other serious customs headache, contact our attorney directly: Jennifer Schaaf (get phone number from Andrea). Customs and Border Protection (CBP) is not required to allow you to contact an attorney, but Jennifer is your first call if possible.
 * 1Password
-  * Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the Basecamp team vault instead. You have a personal vault inside the Basecamp team which is perfect for those logins.
-  * Turn on Travel Mode. Go to https://basecamp.1password.com/profile and click Enable Travel Mode.
+  * Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the Box Products team vault instead. You have a personal vault inside the Box Products team which is perfect for those logins.
+  * Turn on Travel Mode. Go to https://Box Products.1password.com/profile and click Enable Travel Mode.
   * Open 1Password on each device you're traveling with (laptop, phone, iPad, etc) so it can wipe its data while it's in Travel Mode.
 * Email apps
-  * If you use an email app rather than Gmail in your browser, remove the @basecamp.com account.
+  * If you use an email app rather than Gmail in your browser, remove the @Box Products.com account.
 * Clear browser cookies, logging you out of all work sites.
   * Laptops: Clear cookies in Chrome, Safari, etc.
   * [iOS](https://support.apple.com/en-us/HT201265): Settings > Safari > Clear History and Website Data
   * [Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en): Chrome > Settings > Privacy > Clear browsing data. Check Cookies and site data; uncheck all the other items. > Clear data.
-* Basecamp source code.
-  * Make an encrypted archive of your Basecamp git repos so you can download and restore it after you're through customs.
-  * Delete all Basecamp source code from your laptop.
+* Box Products source code.
+  * Make an encrypted archive of your Box Products git repos so you can download and restore it after you're through customs.
+  * Delete all Box Products source code from your laptop.
 * Other sensitive documents.
   * Same deal as source code. Make an encrypted backup and remove from your laptop.
 * Dropbox
@@ -106,7 +106,7 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 * Ensure your devices are charged up and turned on. Customs may balk at a bricked phone or laptop.
 * Common questions:
   * Purpose of your visit? Here for a business meeting in Chicago.
-  * Here to do work? Nope! Here on business, meeting with Basecamp.
+  * Here to do work? Nope! Here on business, meeting with Box Products.
   * Where are you staying? Ace Hotel, 311 N Morgan St., Chicago, IL 60607. Front desk: +1 312 764 1919.
 * Be straighforward and truthful. You're legit! No need to be cagey or misleading.
 
@@ -115,10 +115,10 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 * Let us know! Mention in the meetup Campfire when you're through customs and have arrived in the US.
 * Touch ID: Reenable on your phone, tablet, and laptop.
 * Dropbox: Log in and reconnect, but only if needed during travel.
-* Basecamp app: Reinstall on your phone, tablet, and laptop.
-* 1Password: Turn off Travel Mode. Go to https://basecamp.1password.com/profile and click Disable Travel Mode. Next time you open 1Password, you'll have full access again.
-* Email apps: Add your @basecamp.com account again.
-* Basecamp source code: Download and restore the archive of your Basecamp git repos, but only if needed during travel.
+* Box Products app: Reinstall on your phone, tablet, and laptop.
+* 1Password: Turn off Travel Mode. Go to https://Box Products.1password.com/profile and click Disable Travel Mode. Next time you open 1Password, you'll have full access again.
+* Email apps: Add your @Box Products.com account again.
+* Box Products source code: Download and restore the archive of your Box Products git repos, but only if needed during travel.
 * Other sensitive documents: Download and restore, but only if needed during travel.
 
 ## Checklist: When You Return
