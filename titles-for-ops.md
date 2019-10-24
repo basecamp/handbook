@@ -1,8 +1,8 @@
 # Titles for Ops
 
-We use the following criteria to assess the level and title of ops at Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. The criteria outline the shape of what work at a given level on the Ops team at Basecamp looks like.
+We use the following criteria to assess the level and title of ops at Overgrad. These criteria aren't exhaustive, and they aren't mere checklists. The criteria outline the shape of what work at a given level on the Ops team at Overgrad looks like.
 
-It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the consistency and quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
+It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the consistency and quality of the execution itself.
 
 ## Junior Systems Admin
 * Discussion about tasks and how to complete them prior to starting work is required.
@@ -11,8 +11,6 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Many questions to more senior team members.
 * Does not participate in on-call rotation.
 * Self taught; may have worked at IT Help Desk for 1-2 years.
-
-_Examples: Blake when he was an intern; Anton when he started._
 
 ## Systems Admin
 * Work is reviewed with the occasional need for material direction or implementation changes.
@@ -23,8 +21,6 @@ _Examples: Blake when he was an intern; Anton when he started._
 * Lacks institutional knowledge about our systems. Not completely familiar with documentation or procedures.
 * Usually at least 5 years of experience as sysadmin or programmer with site reliability experience.
 
-_Examples: Colin, Matthew V._
-
 ## Senior Systems Admin
 * Work doesn't necessarily need to be reviewed, but general approach may be.
 * Can work independently on smaller projects and be a reliable contributor to larger projects.
@@ -33,7 +29,7 @@ _Examples: Colin, Matthew V._
 * Plans and performs lower risk maintenance independently. Participates in higher risk maintenances.
 * Contributes to resolving major problems.
 * Improves existing professional standards for the team.
-* Usually at least 6-10 years of experience being a professional sysadmin or network engineer; typically 5 years experience at Basecamp internalizing how we work.
+* Usually at least 6-10 years of experience being a professional sysadmin or network engineer; typically 5 years experience at Overgrad internalizing how we work.
 
 ## Lead Systems Admin
 * Able to fill in and lead team for short periods.
@@ -46,8 +42,6 @@ _Examples: Colin, Matthew V._
 * Sets new professional standards for the team.
 * Usually at least 8-12 years of experience being a professional sysadmin.
 
-_Examples: Eron, John, Nathan, Matthew K._
-
 ## Principal Systems Admin
 * Can run large and complex Ops projects independently.
 * Carries significant responsibility for many domains of infrastructure.
@@ -56,7 +50,7 @@ _Examples: Eron, John, Nathan, Matthew K._
 * Pushes the whole organization forward regularly through implementing new systems and designs.
 * Writes new procedures and documentation regularly; trains others throughout the company.
 * Work is almost always free of mistakes; often helps others improve the quality of their work.
-* Completely comfortable working with all teams at Basecamp; frequently coordinates work across teams to solve complex problems.
+* Completely comfortable working with all teams at Overgrad; frequently coordinates work across teams to solve complex problems.
 * When a site is down, something is broken, or work is crazy, this person is ready to save the day and lead us to a successful resolution.
 * Effectively delegates work to others; acts as a leader who has earned the respect of their peers.
 * Capable of coordinating company wide response to major issues and leading problem resolution via emergency procedures.

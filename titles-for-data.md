@@ -1,6 +1,6 @@
 # Titles for Data Analysts
 
-We use the following criteria to assess the level and title of our data analysts at Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression.
+We use the following criteria to assess the level and title of our data analysts at Overgrad. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression.
 
 ## General job description
 - Analyzes complex business problems and issues using data from internal and external sources to provide insight to decision-makers.
