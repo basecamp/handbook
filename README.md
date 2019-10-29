@@ -12,6 +12,5 @@ If you are interested in giving super powers to school counselors, check out our
 * [Overgrad's History](https://github.com/overgrad/handbook/blob/master/history-of-overgrad.md)
 * [Where We Work](https://github.com/overgrad/handbook/blob/master/where-we-work.md)
 * [Benefits & Perks](https://github.com/overgrad/handbook/blob/master/benefits-and-perks.md)
-* [Getting Started](https://github.com/overgrad/handbook/blob/master/getting-started.md)
 * [How We Work](https://github.com/overgrad/handbook/blob/master/how-we-work.md)
-* [Making a Career](https://github.com/overgrad/handbook/blob/master/making-a-career.md)
+* [Performance Feedback](https://github.com/overgrad/handbook/blob/master/performance-feedback.md)

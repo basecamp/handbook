@@ -33,7 +33,7 @@ Every three years, employees are eligible to take a one-month-long paid sabbatic
 
 ## Family Leave
 
-If you are the primary caregiver of a new child, you can take up to 12 weeks leave at 100% paid salary. If you are the secondary caregiver of a new child, you can take up to 6 weeks leave at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid as the primary or secondary caregiver. This time is meant for bonding with the new child and should commence from the date of birth or placement.
+We do not offer any paid maternity or paternity leave. We plan to revisit and prioritize this in the future as Overgrad grows.
 
 ## Continuing Education Allowance
 
