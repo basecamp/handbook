@@ -72,7 +72,7 @@ Our [rich text editor Trix](https://trix-editor.org) and our [front-end framewor
 
 #### Security, Infrastructure & Performance (SIP)
 
-SIP is our instant-response team whenever something goes wrong, is about to go wrong, or is expected soon to go wrong! Our galaxy defenders, if you will. They are the primary programming team working together with Operations to ensure that our applications are always safe, secure, and fast. **Jeremy Daer** is the team lead and works with George Claghorn, Rosa Gutiérrez, and Justin White.
+SIP is our instant-response team whenever something goes wrong, is about to go wrong, or is expected soon to go wrong! Our galaxy defenders, if you will. They are the primary programming team working together with Operations to ensure that our applications are always safe, secure, and fast. **Jeremy Daer** is the team lead and works with George Claghorn, Rosa Gutiérrez, Justin White, and Jorge Manrubia.
 
 ### QA
 
