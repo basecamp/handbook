@@ -78,6 +78,14 @@ If you are the primary caregiver of a new child, you can take up to 16 weeks lea
 
 Some states require us to provide additional [benefits](https://github.com/basecamp/handbook/blob/master/stateFMLA.md#new-york).
 
+## Bereavement Leave
+
+When you lose a loved one, you can take paid time off from work for bereavement, making arrangements, settling family affairs, and attending the funeral or memorial service. Let your manager know your plans as soon as you can so they can arrange for your absence.
+
+You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave.
+
+If the loss in your family is especially traumatic and you know you'll be away from work for a while, please talk to your manager to discuss that special case.
+
 ## Retirement Plan
 
 Our 401K for US employees is through Vanguard. Basecamp matches dollar-for-dollar up to 6% of your salary that you contribute to the plan.  For instance, an employee who earns $100,000 can contribute any amount towards the 401K, however Basecamp will only match the first 6% or $6,000/year of those contributions. You are eligible to enroll in the 401K plan with your first paycheck.
