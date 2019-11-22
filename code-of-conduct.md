@@ -31,8 +31,8 @@ If you notice someone acting inappropriately as described in the standards above
 
 All complaints will be reviewed and investigated and will result in a response that is appropriate to the circumstances. Managers are required maintain your confidentiality however you choose to report an incident.
 
-After your complaint has been reviewed, investigated, and responded to, Andrea or your manager will inform you of the outcome, while still respecting the privacy of all people involved. 
+After your complaint has been reviewed, investigated, and responded to, Andrea or your manager will inform you of the steps being taken to address the original issue and any disciplinary outcomes.
 
-When a valid complaint is lodged about an employee, that complaint, the investigation process, and the outcome will be documented in a permanent file. Repeated complaints about one employee will result in a compouding record and escalating disciplinary measures, up to and including termination.
+In addition, all valid complaints about employees will be documented in a permanent file, along with related investigation processes and disciplinary outcomes. Repeated complaints about one employee will result in escalating disciplinary measures, up to and including termination.
 
 Managers who do not follow or enforce the Code of Conduct in good faith will be subject to corrective action as well.
