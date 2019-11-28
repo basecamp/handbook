@@ -70,7 +70,7 @@ During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in
 
 ## Sabbatical
 
-Every three years, employees are eligible to take a one-month-long paid sabbatical. Just give a heads-up preferably three months in advance, so we can coordinate the work-load accordingly.
+Every three years, employees are eligible to take a 30-day paid sabbatical. Just give a heads-up preferably three months in advance, so we can coordinate the work-load accordingly.
 
 ## Family Leave
 
