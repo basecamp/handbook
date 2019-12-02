@@ -1,9 +1,10 @@
 # Our Rituals
 
 ## Meetups
-Twice a year, the entire company gathers in Chicago for a week. Your first meet-up will be overwhelming; there are a lot of people to meet, most or all of whom you've only chatted with virtually. People tend to arrive to Chicago on the Sunday before the meet-up, but 'campers who travel longer distances (Hong Kong and Australia, I'm looking at you!) arrive earlier to beat the jet lag. Box Products books a hotel room block in a hotel nearby, so you don't need to worry about finding a place to stay.
 
-Every morning, we gather for breakfast at 8am, and sessions start around 9am. The meet-up is not structured. There are some scheduled talks - Jason and David generally talk about the state of the company on Monday or Tuesday morning, and other Box Productsers may want to give a talk about a special circumstance they've seen in the past 6 months. Occasionally, we bring in outside speakers, too. But, day-to-day, the meet-up is very loosely scheduled. Teams work together in a room at the office; people go out for coffee or ice cream; managers schedule one-on-ones with employees; Pratik beats everyone at ping pong.
+Twice a year, the entire company gathers in Dallas for a week. Your first meet-up maybe will be overwhelming; there are all of two people to meet, most or all of whom you've only chatted with virtually. People tend to arrive to Dallas on the Sunday before the meet-up. Box Products books a hotel room block in a hotel nearby, so you don't need to worry about finding a place to stay.
+
+Every morning, we gather for breakfast at 8am, and sessions start around 9am. The meet-up is not structured. There are some scheduled talks - Jonathan will typically talks about the state of the company on Monday or Tuesday morning, and other team members may want to give a talk about a special circumstance they've seen in the past 6 months. Occasionally, we bring in outside speakers, too. But, day-to-day, the meet-up is very loosely scheduled. Teams work together in a room at the office; people go out for coffee or ice cream; managers schedule one-on-ones with employees.
 
 Lunch is also shared in the office at noon, and dinners are up to you aside from one all-company dinner on Tuesday evening.
 
@@ -11,27 +12,16 @@ It's important to acknowledge that meet-ups are tiring for a lot of us. We're aw
 
 Most people leave on Friday during the work day. You should come to every meet-up, but if you have a pre-planned vacation or other engagement you can't cancel, you won't be admonished for missing one or two.
 
-[Here are some tips from Box Products teammates about Meetups](https://3.Box Products.com/2914079/buckets/34/messages/185772672)
-
-## Mini Meetups
-Once a year, you can get together with a small group of your coworkers on a mini meet-up at a destination of your choosing. Mini meet-ups should have a work focus. They're not meant to be social trips, and you're not doing just your day-to-day work in the same room as your coworkers. You should be collaborating on something meaningful. It certainly doesn't have to be big and you don't have to produce something by the end of the meet-up. Pick something you'd love to have a week to discuss in person and have fun with it.
-
-Keep in mind: your mini-meet-up team does not have to be your formal team like Ops, Support, Mobile, etc. Colleagues who are working cross-team who have a project to get together on can meet-up too! Limit yourself to 1 mini-meet-up per year though, whether that's with your dedicated team or with an offshoot team.
-
-Budget guidelines for mini meet-ups can be found [in Box Products.](https://3.Box Products.com/2914079/buckets/34/messages/1400415368#__recording_1400437120)
-
 ## Peer Recognition
-One of the sessions that we do schedule every meet-up is the recognition celebration. A few months before a meet-up, Andrea asks everyone to think about their colleagues who have made Box Products a better place to work. Ideas range from professional excellence, like when Sam got recognized for his work on Pow, to the personal, like when Jamie got a nod for being Box Products's heart and soul. At the meet-up, we set aside an hour for everyone to stand up and speak to their colleagues' accomplishments or general awesomeness over the previous 6 months. At this time we also give awards to employees on their 5, 10, 15 year anniversaries at Box Products.
+
+One of the sessions that we do schedule every meet-up is the recognition celebration. A few months before a meet-up, Jonathan asks everyone to think about their colleagues who have made Box Products a better place to work. Ideas range from professional excellence to the personal. At the meet-up, we set aside an hour for everyone to stand up and speak to their colleagues' accomplishments or general awesomeness over the previous 6 months. At this time we also give awards to employees on their 5, 10, 15 year anniversaries at Box Products.
 
 ## Everyone On Support (EOS)
-Once every month or two, everyone in the company is called upon to do a Support shift. We call it Everyone on Support (EOS). Talking directly to customers all day helps us realize what's wrong, what's right, and what's utterly confusing about Box Products. For the first few times you do EOS, you'll have a Support buddy to help you write clear and correct answers to customer questions through Help Scout, our support response tool, but then you're on your own! But don't worry - Team OMG is always there to help you out.
 
-## 5x12s
-Every month, Navid randomly selects 5 people to chat on a call with Jason and David. The call has no agenda nor is there any preparation needed (besides putting on pants — please put on pants). The participants join a Google Hangout and chat about anything other than work.
+Once every month or two, everyone in the company is called upon to do a Support shift. We call it Everyone on Support (EOS). Talking directly to customers all day helps us realize what's wrong, what's right, and what's utterly confusing about our products. For the first few times you do EOS, you'll have a Support buddy to help you write clear and correct answers to customer questions through Help Scout, our support response tool, but then you're on your own! But don't worry - Team OMG is always there to help you out.
 
-Some interesting topics that have been covered in the past: Jamie’s $1,000 toilet, Wailin’s Ted Cruz sighting, and petty juvenile delinquency stories from an alarming number of employees. 5x12s happen on the first Wednesday of every month at 10AM Chicago time. Navid transcribes the call and posts the transcription in Box Products for everyone to read afterwards.
+## Company Feedback
 
-We have a strict policy of not sharing anything that’s said in a 5x12 in a public forum, so you can talk freely. These calls are supposed to be fun, so please try to have a good time with them!
+We have a desire to always being hearing from our team, both relationally and professionally. How this will look is still fluid and will be a work in progress as we grow as a team. For now, we're accepting ideas but believe we're small enough being relational should come with ease.
 
-## The Small Council
-Box Products has an executive advisory team that meets with Jason and David every few months called The Small Council. It's made up of department heads who have been with the company for over 5 years. Currently the council is made up of Kristin Aardsma (Customer Support), Jeremy Daer (SIP), Jonas Downey (Design), Jeff Hardy (Core Programming), Matthew Kent (Ops), and Andrea LaRowe (People Ops). The Small Council talk through high-level issues facing the company, its employees, and its customers. Each member is expected to represent their respective areas so Jason and David have a comprehensive view of how big decisions will affect different aspects of Box Products.
+As we grow we'll continue to evaluate this. One idea would be to adopt Basecamp's [5x12s model](https://github.com/basecamp/handbook/blob/master/our-rituals.md#5x12s) but this could potentially look another way as well.

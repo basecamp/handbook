@@ -18,7 +18,7 @@ With that in mind, here are some examples of what we’d consider OK and what we
 
 ## Not OK
 
-1. You can’t work full time or part time for another company in our industry. If you’re unclear about what our industry is, and you have a specific situation you’d like to talk about, ping Jason or David.
+1. You can’t work full time or part time for another company in our industry. If you’re unclear about what our industry is, and you have a specific situation you’d like to talk about, ping Jonathan.
 
 2. Go out on a regular speaking circuit tour which is going to require multiple days of travel multiple times a year. That’s too disruptive to our own work schedule and to your fellow teammates.
 
@@ -32,11 +32,11 @@ With that in mind, here are some examples of what we’d consider OK and what we
 
 Here’s a few guiding principles about whether something could be a problem:
 
-* Is it competitive?
-* Does it occupy a disproportionate amount of your time?
-* Does it require you to be away during times when you’re needed at work?
-* Is it another paid gig that employs the same skills Box Products is paying you for?
+- Is it competitive?
+- Does it occupy a disproportionate amount of your time?
+- Does it require you to be away during times when you’re needed at work?
+- Is it another paid gig that employs the same skills Box Products is paying you for?
 
 In general we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
 
-It’s hard to come up with one-size fits all rules. If you’re in doubt, please reach out to Jason or David. We’re always happy to spare a moment to give our thoughts on it before you make a commitment.
+It’s hard to come up with one-size fits all rules. If you’re in doubt, please reach out to Jonathan. We’re always happy to spare a moment to give our thoughts on it before you make a commitment.

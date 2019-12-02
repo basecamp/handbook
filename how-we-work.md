@@ -12,10 +12,9 @@ This is particularly important for the product teams. Here we like to designate 
 
 In between each cycle, we spend two weeks cooling down. That's the time to deal with various backlogs or bug smashes, writing up what we worked on, and figuring out what we should tackle next. It's some times tempting to simply add cooldown onto the end of the cycles, as a way to fit in more work. But the goal is to resist this temptation. Yes, sometimes a little spill-over will happen, but it's helpful to think about the end of the normal cycle as "pencils down". That means that by week 4 of a normal cycle, we should be winding down, getting ready to launch, make sure QA is lined up, and all the other work that happens during and after the launch of new projects.
 
-
 ## Communication
 
-It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in Box Products. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief mechanisms for keeping everyone in the loop about the work that’s going on.
+It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in Basecamp. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief mechanisms for keeping everyone in the loop about the work that’s going on.
 
 First, there’s the daily question of What did you work on today?, which supplies the nitty gritty details, but as a personal narrative. They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Please do use them as such! You're obliged to answer this question at least twice a week when you're not out (or on team OMG).
 
@@ -39,7 +38,7 @@ There'll always be more pitches than we have time to field, though. So it's impo
 
 While a few pitches might instantly strike a chord loud enough to go on the plate for the next cycle, it's more likely that your pitch will sit for a while first. We're always working from a backlog of ideas and we have just a few things we can do every cycle, so chances are that even if everyone agrees the pitch is a great idea, it might not be the next most important thing for us to tackle. Don't be discouraged by this. We've had many pitches that have sat for many cycles, if not years, before finally coming together and then happening.
 
-Jason, Ryan, and David is the team evaluating pitches for inclusion in the next cycle. Before the start of every cycle, Jason's kickoff will list all the pitches that have been selected to be worked on.
+Jonathan and Blake are currently the team evaluating pitches for inclusion in the next cycle. Before the start of every cycle, Jonathan's kickoff will list all the pitches that have been selected to be worked on.
 
 ## Asynchronously
 

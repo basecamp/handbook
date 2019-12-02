@@ -1,19 +1,22 @@
 # What Influenced Us
 
-If you want to learn the Box Products view of the world, it helps to know the influences that helped form it. Box Products, and 37signals before it, has been around since 1999. Since then there's been a number of key influencers that have marked the company culture.
+If you want to learn the Box Products view of the world, it helps to know the influences that helped form it. Box Products, is a brand new company but Jonathan has been in product and software development for over 10 years. Since then there's been a number of key influencers that have marked the company culture.
+
+## Companies
+
+[Basecamp](https://basecamp.com) Previously 37 Signals, Basecamp is a company led by David Heinemeier Hansson (DHH) and Jason Fried. Their view is simply different. They've challenged the status quo and be more successfully than most startups all while maintaining a vibrate happy team. This team, and particularly DHH and Jason are a huge inspiration for a large portion of what we do today.
+
+> The perspective gained from examining how these two lead at Basecamp has change the course of my career. - Jonathan
 
 ## Books
 
-* [Turn The Ship Around](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404): "Leadership should mean giving control rather than taking control and creating leaders rather than forging followers", David Marquet. Box Products employs great people and they deserve the freedom and autonomy to act on their own. Don't wait for permission, just state what you're going to do, and then do it.
-* [Finding Flow](https://www.amazon.com/Finding-Flow-Psychology-Engagement-Masterminds/dp/0465024114/): True happiness is found in optimal moments of engagement when we stretch just beyond our abilities and lose track of time and space in the process. Protecting the flow by limiting interruptions has been a driving principle of Box Products.
-* [Punished by Rewards](https://www.amazon.com/Punished-Rewards-Trouble-Incentive-Praise/dp/0618001816/): We don't strive for trophies, swoon for trinkets, gameify our apps with badges, or push any other form of extrinsic motivation for neither ourselves nor our customers. Working at Box Products and work with Box Products should be about the intrinsic motivation of doing a good job, not because you're trying to impress someone else.
-* [The Manual](https://www.amazon.com/Manual-Philosophers-Guide-Life/dp/1545461112/): "Do not wish that all things will go well with you, but that you will go well with all things". Core lessons on keeping calm and carrying on that have inspired and guided us.
-* [Maverick](https://www.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553/): Ricardo Semler helped us find the confidence to promote and push for weird and different ways of working by showing just how weird and different you can work at even a place as stodgy as a 8,000-person industrial company in Brazil.
+- [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745): An exploration on thinking beyond the standard business blueprint.
+- [Remote](https://www.amazon.com/gp/product/0804137501/): Remote isn't just an option at Box Products it's our default. If you've never worked remote before start here.
+- [It Doesn't have to Be Crazy at Work](https://www.amazon.com/gp/product/0062874780): Box Products began in 2019. This book is a primer on our vision and launching pad as we begin.
+- [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) This helped us reshape the way we view success and proved that change doesn't need to be big to be powerful.
 
 ## People
 
-* [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck)
-* [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer))
-* [Kathy Sierra](https://en.wikipedia.org/wiki/Kathy_Sierra)
-* [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander)
-* [Bob Moesta](https://blog.intercom.com/podcast-bob-moesta-on-jobs-to-be-done/)
+- [David Heinemeier Hansson (DHH)](https://twitter.com/dhh)
+- [Jason Fried](https://twitter.com/jasonfried)
+- [Ryan Singer](https://twitter.com/rjs)
