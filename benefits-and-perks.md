@@ -12,20 +12,20 @@ Medical insurance is provided in the US via Blue Cross Blue Shield PPO. The comp
 
 Employee-portion of medical insurance premium per pay period
 
-* Employee-only medical coverage: $50.43
-* Employee-partner medical coverage: $112.14
-* Employee-child(ren) medical coverage: $118.37
-* Employee-family medical coverage: $180.08
+* Employee-only medical coverage: $50.24
+* Employee-partner medical coverage: $109.54
+* Employee-child(ren) medical coverage: $121.53
+* Employee-family medical coverage: $180.83
 
 ### Dental Insurance
 Dental insurance is provided in the US via MetLife. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally.
 
 Employee-portion of dental insurance premium per pay period
 
-* Employee-only dental coverage: $4.72
-* Employee-partner dental coverage: $9.62
-* Employee-child(ren) dental coverage: $11.29
-* Employee-family dental coverage: $17.42
+* Employee-only dental coverage: $5.00
+* Employee-partner dental coverage: $10.20
+* Employee-child(ren) dental coverage: $14.97
+* Employee-family dental coverage: $18.46
 
 ### Vision Insurance
 
