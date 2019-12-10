@@ -30,7 +30,7 @@ The Radford data is reviewed once per year at the end of November. If it's warra
 
 Everyone in the same role at the same level is paid the same at Basecamp.
 
-When someone gets a promotion, that is goes from one level to the next, they'll get a corresponding pay raise January 1st as well.
+When someone gets a promotion, that goes from one level to the next, they'll get a corresponding pay raise January 1st as well.
 
 ## Performance Feedback
 
