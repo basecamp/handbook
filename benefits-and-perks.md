@@ -140,6 +140,6 @@ If you work in the US, you should carry a Basecamp American Express card in your
 
 Basecamp has no expense policy. We trust our employees to spend money wisely. If you’re booking a flight, you don’t need to buy the cheapest, 2-layover redeye; buy the convenient, well-priced seat. If you’re attending a conference on behalf of Basecamp, sure, Basecamp will buy your meals. Just try to stay away from caviar and champagne at dinner (okay, maybe once if you have a great day to celebrate). 
 
-Speaking of conferences -- try to limit your attendance at professional conferences to once a year. Don't extend your hotel stay too far to either side of the conference schedule; you should be traveling specifically to attend the conf. Our conference budget guidelines mirror our mini meet-up budget guidelines; you can find those in [Basecamp](https://3.basecamp.com/2914079/buckets/34/messages/1400415368/edit)!
+Speaking of conferences -- try to limit your attendance at professional conferences to once a year. Don't extend your hotel stay too far to either side of the conference schedule; you should be traveling specifically to attend the conf. Our conference budget guidelines mirror our mini meet-up budget guidelines; you can find those in [Basecamp](https://3.basecamp.com/2914079/buckets/34/messages/1400415368)!
 
 If you ever have questions about conference travel or need guidance about what “spend it wisely” means, just ask!
