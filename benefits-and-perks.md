@@ -136,7 +136,7 @@ Basecamp will pay up to $200/month for you to use towards renting coworking spac
 
 ## Expense Account
 
-If you work in the US, you should carry a Basecamp American Express card in your name. You can use the card for any work-related expenses, such as travel, software, or office supplies. If you have any doubts about whether or not to expense something, just ask. When you do buy something with the card, get a receipt! Take a photo of that receipt, and send the photo to 37receipts@gmail.com. If you can’t use the Amex and have to use a personal card, send the receipt directly to Navid for reimbursement.
+If you work in the US, you should carry a Basecamp American Express card in your name. You can use the card for any work-related expenses, such as travel, software, or office supplies. If you have any doubts about whether or not to expense something, just ask. When you do buy something with the card, get a receipt! Take a photo of that receipt, and upload the receipt and then tag your expense in [AmEx Spend Manager](https://3.basecamp.com/2914079/buckets/6541089/messages/1794789980). If you can’t use the AmEx and have to use a personal card, send the receipt directly to Navid for reimbursement.
 
 Basecamp has no expense policy. We trust our employees to spend money wisely. If you’re booking a flight, you don’t need to buy the cheapest, 2-layover redeye; buy the convenient, well-priced seat. If you’re attending a conference on behalf of Basecamp, sure, Basecamp will buy your meals. Just try to stay away from caviar and champagne at dinner (okay, maybe once if you have a great day to celebrate). 
 
