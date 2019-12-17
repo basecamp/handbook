@@ -48,9 +48,9 @@ The FSA is an account where you can set aside pre-tax money for out-of-pocket me
 
 ## Paid Time Off
 
-Basecamp offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the standard national holidays every year. This is a guideline, so if you need a couple extra days, no problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking any extended absence, so they’re not left in the lurch.
+Basecamp offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the standard national holidays every year. This is a guideline, so if you need a couple extra days, no problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking any extended absence, so they’re not left in the lurch. Your vacation time is prorated your first year working at Basecamp. If you start mid-year, you should take 1.5 weeks off. 
 
-We don't track sick days either. If you're under the weather, take the time you need to feel better. Basecamp recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health day every now and again when you're feeling overwhelmed or mentally fatigued. If a day or two won't cut it, we'll work with you to find a way to reduce the burden of your work at Basecamp on your overall mental health. We really do want your work at Basecamp to be the best work you do in your life, and we appreciate that that's not possible if you're uncertain about your health. 
+We don't track sick days either. If you're under the weather, take the time you need to feel better within reason. Basecamp recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health day every now and again when you're feeling overwhelmed or mentally fatigued. If a day or two won't cut it, we'll work with you to find a way to reduce the burden of your work at Basecamp on your overall mental health. We really do want your work at Basecamp to be the best work you do in your life, and we appreciate that that's not possible if you're uncertain about your health. 
 
 Your outlets at Basecamp if you're feeling your mental or physical health is taking a toll on your work? So many to choose from! We have Carecamp, a project in Basecamp dedicated to discussing all aspects of self-care. You can go to your manager at any time or during one of your regular 1:1 meetings. You can go to Andrea at any time, who with your permission can work with your manager to help you. Additionally, your manager should check in with *you*, proactively, to periodically make sure you're doing okay.
 
@@ -108,19 +108,21 @@ Every month, you can expense up to $100 towards a service or experience that enh
 
 ## Community Supported Agriculture (CSA) Allowance
 
-Fresh, organic, local fruits and vegetables are great to have on-hand, so we'd also like to offer a CSA membership to you. Finding a local provider will be up to you, but you can expense the cost of a seasonal or annual CSA share as an employee benefit, up to $1,000/year. If there aren't any CSA shares nearby, feel free to use your stipend on farmers market foods or even fresh fruit and veg at your favorite grocery store.
+Fresh, organic, local fruits and vegetables are great to have on-hand, so we'd also like to offer a CSA membership to you. Finding a local provider will be up to you, but you can expense the cost of a seasonal or annual CSA share as an employee benefit, up to $1,000/year. That stipend is prorated in your first year at Basecamp, depending on the month you start. If there aren't any CSA shares nearby, feel free to use your stipend on farmers market foods or even fresh fruit and veg at your favorite grocery store.
 
 ## Continuing Education Allowance
 
-If you're interested in taking classes that you feel improve you professionally or personally, you have a $1,000 annual stipend to do so (annual = a 12 month period, not necessarily 2017 or 2018). Some people take classes directly related to their career, while some take photography lessons or learn a musical instrument. It's up to you; the point is to learn something that you feel enriches you as a person and employee.
+If you're interested in taking classes that you feel improve you professionally or personally, you have a $1,000 annual stipend to do so. This stipend is also prorated in your first year at Basecamp, depending on the month you start. Some people take classes directly related to their career, while some take photography lessons or learn a musical instrument. It's up to you; the point is to learn something that you feel enriches you as a person and employee.
 
 ## Matching Charitable Gifts
 
-When you donate money to a 501(c)(3) charity (or its equivalent if you're outside of the United States), Basecamp will make a matching gift to that charity on your behalf. Basecamp will match up to $2,000 per year, per employee.  If you donate to more than one organization annually, that's okay!  For example, if I give $1,000/year to the Red Cross and $1,000/year to NPR, Basecamp will match both donations, dollar for dollar.  If you donate more than $2,000/year, you are officially awesome, but Basecamp will only match $2,000 of your awesomeness.
+When you donate money to a 501(c)(3) charity (or its equivalent if you're outside of the United States), Basecamp will make a matching gift to that charity on your behalf. Basecamp will match up to $2,000 per year, per employee.  If you donate to more than one organization annually, that's okay!  For example, if I give $1,000/year to the Red Cross and $1,000/year to NPR, Basecamp will match both donations, dollar for dollar.  This stipend is prorated in your first year at Basecamp, depending on the month you start. 
+
+If you donate more than $2,000/year, you are officially awesome, but Basecamp will only match $2,000 of your awesomeness.
 
 ## Basecamp Holiday Gift
 
-Every year, at the end of the year, Basecamp generally gives a thank-you gift to the employees. Employees who have been at Basecamp for one year or less get one gift (last year: a night on the town in their hometown), and longer tenured employees get a more elaborate gift (last year: a paid vacation). We switch up the delivery of these every year, so you're always in for a nice surprise.
+Every year, at the end of the year, Basecamp generally gives a thank-you gift to the employees. Employees who have been at Basecamp for one year or less get one gift (last year: a "staycation" in their home towns), and longer tenured employees get a more elaborate gift (last year: a paid vacation). We switch up the delivery of these every year, so you're always in for a nice surprise.
 
 # Practical assistance
 
