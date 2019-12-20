@@ -71,3 +71,4 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+/.jekyll-cache
