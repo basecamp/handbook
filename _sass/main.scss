@@ -1,0 +1,36 @@
+$primary-color: $red;
+
+html {
+  font-size: 17.833px;
+}
+
+@media only screen and (min-width: 768px) {
+  html {
+    font-size: 27.5px;
+  }
+}
+
+body {
+  background: $white;
+  color: $black;
+  font-family: $serif-font-family;
+}
+
+hr {
+  border-bottom: 0.1rem solid;
+  border-bottom-color: $gray;
+}
+
+.btn {
+  border: 1px solid $primary-color;
+  border-radius: 2rem;
+  padding: 0.25rem 0.75rem;
+  color: $white;
+  text-decoration: none;
+  font-size: 0.9rem;
+  background: $primary-color;
+}
+
+code {
+  color: $green;
+}

@@ -1,0 +1,184 @@
+@font-face {
+  font-family: 'new_york_mediumbold';
+  src: url('/assets/fonts/newyorkmedium-bold-webfont.woff2') format('woff2'),
+    url('/assets/fonts/newyorkmedium-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'new_york_mediummedium';
+  src: url('/assets/fonts/newyorkmedium-medium-webfont.woff2') format('woff2'),
+    url('/assets/fonts/newyorkmedium-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'new_york_mediumregular';
+  src: url('/assets/fonts/newyorkmedium-regular-webfont.woff2') format('woff2'),
+    url('/assets/fonts/newyorkmedium-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'new_york_mediumsemibold';
+  src: url('/assets/fonts/newyorkmedium-semibold-webfont.woff2') format('woff2'),
+    url('/assets/fonts/newyorkmedium-semibold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ny-regular {
+  font-family: 'new_york_mediumregular';
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ny-medium,
+.font-medium {
+  font-family: 'new_york_mediummedium';
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ny-bold,
+.font-bold {
+  font-family: 'new_york_mediumbold';
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ny-semibold {
+  font-family: 'new_york_mediumsemibold';
+  font-weight: normal;
+  font-style: normal;
+}
+
+.serif {
+  font-family: $serif-font-family;
+}
+
+.sans {
+  font-family: $sans-font-family;
+}
+
+.monospace {
+  font-family: $monospace-font-family;
+}
+
+// Typography
+//
+// Headings, body text, lists, and other misc typographic elements.
+
+// Headings
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+
+h4,
+h5,
+h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+// Body text
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+strong {
+  color: #303030;
+}
+
+// Lists
+ul,
+ol,
+dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin-left: 1.5rem;
+  list-style: initial;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: .5rem;
+}
+
+// Misc
+hr {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #fff;
+}
+
+abbr {
+  font-size: 85%;
+  font-weight: bold;
+  color: #555;
+  text-transform: uppercase;
+}
+
+abbr[title] {
+  cursor: help;
+  border-bottom: 1px dotted #e5e5e5;
+}
+
+/* Quotes */
+blockquote {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: #7a7a7a;
+  border-left: .25rem solid #e5e5e5;
+
+  @media (min-width: 30em) {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+
+// Custom type
+//
+// Extend paragraphs with `.lead` for larger introductory text.
+
+a {
+  color: $red;
+  text-decoration: underline;
+}

@@ -1,4 +1,12 @@
-# Titles for programmers
+---
+layout: page
+title: "Titles For Programers"
+chapter: "Chapter A5:"
+next_link: "Titles for Support →"
+next_url: "/appendix-06-titles-for-support"
+prev_link: "← Titles For Ops"
+prev_url: "/appendix-04-titles-for-ops"
+---
 
 We use the following criteria to assess the level and title of programmers of Box Products. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression.
 

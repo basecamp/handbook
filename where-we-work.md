@@ -1,8 +1,16 @@
-# Where We Work
+---
+layout: page
+title: "Where We Work"
+chapter: "Chapter 5:"
+next_link: " Benefits & Perks →"
+next_url: "/benefits-and-perks"
+prev_link: "← Vocabulary"
+prev_url: "/vocabulary"
+---
 
 ## Office
 
-Box Products HQ exists solely in our heart at the moment. We might have a dedicated space one day but as a company we have a remote first mindset so a dedicated spot isn't high on the list just yet. Our Parent company does has offices in Grapevine, Texas, which is also where Jono is based.
+Box Products HQ exists solely in our hearts at the moment. One day we may dedicated space but as a company we have a remote first mindset. Which means a dedicated space wasn't high on our list as we began. Our Parent company does has offices in Grapevine, Texas, which is also where Jonathan is based.
 
 ## From home
 

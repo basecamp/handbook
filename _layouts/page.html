@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+{% include head.html %}
+
+<body>
+  <div class="container mx-auto mb-4">
+    <div class="flex md:mb-4 p-4">
+      <a href="/" class="btn">Box Products Employee
+        Handbook</a>
+    </div>
+
+    <div class="flex-col">
+      <div class="px-4 w-full">
+        <p class="text-xs mb-0">{{ page.chapter }}</p>
+        <h1>{{ page.title }} </h1>
+      </div>
+      <div class="px-4 w-full flex flex-col">
+        {{ content }}
+        <div class="flex justify-between my-6">
+          {% if page.prev_url %}
+          <a class="text-xs font-bold btn mr-auto" href="{{ page.prev_url }}">
+            <span class="hidden md:block">{{ page.prev_link }}</span>
+            <span class="md:hidden">← Back</span>
+          </a>
+          {% endif %}
+          {% if page.next_url %}
+          <a class="text-xs font-bold btn ml-auto" href="{{ page.next_url }}"> {{ page.next_link }}</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
