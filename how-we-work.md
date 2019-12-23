@@ -53,6 +53,7 @@ All that being said, you should still ensure that there is ample overlap with th
 
 In certain departments, like Support and Ops, it’s even more important that people are dependently available when they say they will be. That work has a lot of interrupt-based jobs that simply needs to be done right here, right now. So what applies to almost all work for design and programming and QA may well apply a little less frequently there.
 
+
 ## In self-sufficient, independent teams
 
 Organizational theory is thick with descriptions of the trade-offs between functional and project company structures. We seek to be more project than functional. This means a single project team should be able to go from idea to deploy as independently as possible.
@@ -74,3 +75,9 @@ As soon as organizational bottlenecks form, like a slew of features waiting for 
 Managing at Basecamp is [part-time occupation](https://m.signalvnoise.com/moonlighting-managers-aint-got-no-time-for-bullshit/), next to being involved with doing the work itself. This means we rely on everyone at Basecamp to do a lot of self-management. People who do this well qualify as [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one), and we strive for everyone senior or above to embody this principle fully.
 
 That means setting your own direction when one isn't given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There's always more work to be done, always more initiatives to kick off, always more improvement to be had.
+
+## Balanced
+
+We limit ourselves to a 40-hour (32-hour in the summer) work week. Keeping our hours at work limited forces us to prioritize the work that really matters. A healthy amount of sleep and a rich and rewarding life outside of work should not be squandered for a few more hours at work. 
+
+There are occasions where teams or individuals need to work off-hours for on-call, maintenance or emergencies. This time should not be in addition to your normal working hours. Use your discression to take time off to make up for the additional hours you put in during the week.
