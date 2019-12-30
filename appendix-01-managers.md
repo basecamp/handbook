@@ -56,7 +56,7 @@ we break down each level’s duties.
 - self-promotion and self-advocacy to Managers
 - communicating feedback to Managers on overall team or company direction and morale
 
-_>A note about our Managers_. We encourage Managers to be "moonlight managers". To us that means they focus mostly
+_A note about our Managers_. We encourage Managers to be "moonlight managers". To us that means they focus mostly
 on product strategy, work, and communication, and they allow the individuals on their teams to self-direct.
 
 At the same time, we ask our Managers to take on a lot of responsibility for their teams! We very much appreciate that

@@ -10,7 +10,7 @@ prev_url: "/how-we-work"
 
 ## Meetups
 
-Twice a year, the entire company gathers in Dallas for a week. Your first meet-up maybe will be overwhelming; there are
+Twice a year, the entire company gathers in Dallas for a week. Your first meet-up may be overwhelming; there are
 all of two people to meet 😜, most or all of whom you've only chatted with virtually. People tend to arrive to Dallas on
 the Sunday before the meet-up. Box Products books a hotel room block in a hotel nearby, so you don't need to worry about
 finding a place to stay.
@@ -51,7 +51,7 @@ worry - Team OMG is always there to help you out.
 
 ## Company Feedback
 
-We have a desire to always being hearing from our team, both relationally and professionally. How this will look is
+We have a desire to always hear from our team, both relationally and professionally. How this will look is
 still fluid and will be a work in progress as we grow as a team. For now, we're accepting ideas but believe we're small
 enough being relational should come with ease.
 

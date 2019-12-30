@@ -8,7 +8,7 @@ prev_link: "← What Influenced Us"
 prev_url: "/what-influenced-us"
 ---
 
-Like most other organizations in the world, Box Products has over time developed a vocabulary specific to our work and company. It's easy to overdo and it's even easier to do cringeworthily. We don't want to have a culture of team _CRUSHING IT_ to get to the _NEXT LEVEL_ with some super-duper _PEAK PERFORMANCE, BRUH_. The vast majority of the time, we can use the vocabulary shared with the rest of the English-speaking world, and we'll be better off. On the other hand specific vocabulary can be helpful. Here are a few vocabulary items the Basecamp team uses that we're working to adopt as our own:
+Like most other organizations in the world, Box Products has developed a vocabulary specific to our work and company. It's easy to overdo and it's even easier to do cringeworthily. We don't want to have a culture of team _CRUSHING IT_ to get to the _NEXT LEVEL_ with some super-duper _PEAK PERFORMANCE, BRUH_. The vast majority of the time, we can use the vocabulary shared with the rest of the English-speaking world, and we'll be better off. On the other hand specific vocabulary can be helpful. Here are a few vocabulary items the Basecamp team uses that we're working to adopt as our own:
 
 ## Judo
 

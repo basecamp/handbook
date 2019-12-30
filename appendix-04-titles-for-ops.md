@@ -2,8 +2,8 @@
 layout: page
 title: "Titles For Ops"
 chapter: "Chapter A4:"
-next_link: "Titles For Programers →"
-next_url: "/appendix-05-titles-for-programers"
+next_link: "Titles For Programmers →"
+next_url: "/appendix-05-titles-for-programmers"
 prev_link: "← Titles for Designers"
 prev_url: "/appendix-03-titles-for-designers"
 ---

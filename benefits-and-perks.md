@@ -22,11 +22,11 @@ quite what we'd like them to be but we're working to improve them as often as po
 
 #### Medical Insurance
 
-Medical insurance is provided in the US via Cigna PPO. At this time the company pays varying range from 50-75% of the
+Medical insurance is provided in the US via Cigna PPO. At this time, the company pays varying range from 50-75% of the
 premium depending on tier and the employee pays the remaining 50-25%. Open enrollment is in November every year, with
 new coverage beginning December 1\. Marriages and domestic partnerships are covered equally.
 
-Employee-portion of medical insurance premium per pay period
+Employee-portion of medical insurance premium per pay period:
 
 - Employee-only medical coverage: \$42.65
 - Employee-partner medical coverage: \$92.57
@@ -39,7 +39,7 @@ Dental insurance is provided in the US via Principal. There is no company contri
 in November every year, with new coverage beginning December 1\. Marriages and domestic partnerships are covered
 equally.
 
-Employee-portion of dental insurance premium per pay period
+Employee-portion of dental insurance premium per pay period:
 
 - Employee-only dental: \$21.20
 - Employee-partner dental: \$43.39
@@ -52,14 +52,12 @@ Vision insurance is provided in the US via Principal. There is no company contri
 in November every year, with new coverage beginning December 1\. Marriages and domestic partnerships are covered
 equally.
 
-Employee-portion of vision insurance premium per pay period.
+Employee-portion of vision insurance premium per pay period:
 
 - Employee-only vision: \$2.63
 - Employee-partner vision: \$6.83
 - Employee-child(ren) vision: \$7.39
 - Employee-family vision: \$11.59
-
-- Employee-only vision:
 
 ### Paid Time Off
 
@@ -122,8 +120,8 @@ Every month, you can expense up to \$100 towards a service or experience that en
 For some people that might mean a monthly massage. For others, that could be alternative medical treatments like
 acupuncture or reiki. You could also use the stipend to defray your existing talk therapy co-pays, go on a wellness
 retreat, take a meditation class, attend a religiously-affiliated retreat, or book a service at a spa that is more
-relaxing \_to you_em> than a massage like a pedicure or facial. Box Products does not want to limit what is healing to
-you,so get creative with your self-care! If you have questions about what qualifies here, feel free to ping Jonathan.
+relaxing _to you_ than a massage like a pedicure or facial. Box Products does not want to limit what is healing to
+you, so get creative with your self-care! If you have questions about what qualifies here, feel free to ping Jonathan.
 
 ### Continuing Education Allowance
 

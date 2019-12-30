@@ -4,8 +4,8 @@ title: "Titles for Support"
 chapter: "Chapter A6:"
 next_link: "Box Products Code of Conduct →"
 next_url: "/appendix-07-code-of-conduct"
-prev_link: "← Titles For Programers"
-prev_url: "/appendix-05-titles-for-programers"
+prev_link: "← Titles For Programmers"
+prev_url: "/appendix-05-titles-for-programmers"
 ---
 
 We use the following criteria to assess the level and title of our Support team members at Box Products.

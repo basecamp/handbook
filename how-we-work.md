@@ -37,25 +37,25 @@ lined up, and all the other work that happens during and after the launch of new
 
 ## Communication
 
-It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity
+It’s hard to keep up on what everyone is doing and what it means if you just watch the stream of latest activity
 scrolling along in Basecamp. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief
 mechanisms for keeping everyone in the loop about the work that’s going on.
 
-First, there’s the daily question of What did you work on today?, which supplies the nitty gritty details, but as a
+First, there’s the daily question of "What did you work on today?", which supplies the nitty gritty details, but as a
 personal narrative. They’re a great conversation starter if you see someone working on something you either care about
 or want to learn more about. Please do use them as such! You're obliged to answer this question at least twice a week
 when you're not out (or on team OMG).
 
-Second, there’s the weekly question of What will you be working on this week?, which details your intentions for the
+Second, there’s the weekly question of "What will you be working on this week?", which details your intentions for the
 coming week. Everyone except team OMG is obliged to answer this question when they're not out.
 
-Third, there is the heartbeats. These are the team versions of What did you work on this cycle? This is where we
-summarize and celebrate the work that's been done. Every team lead is obliged to write, or designate someone on the team
-to write, this account one week after a cycle has ended.
+Third, there is the heartbeats. These are the team versions of "What did you work on this cycle?". This is where we
+summarize and celebrate the work that's been done. Every team lead is obliged to write or designate someone on the team
+to write this account one week after a cycle has ended.
 
-Fourth, and finally, there is the kickoffs. These are the team version of What are you going to work on next cycle? This
-is where the plan for the coming six or eight weeks is presented. Every team lead is obliged to write, or designate
-someone on the team to write, this account before the start of the new cycle (again, OMG exempt if there are no big new
+Fourth, and finally, there is the kickoffs. These are the team version of "What are you going to work on next cycle?". This
+is where the plan for the coming six or eight weeks is presented. Every team lead is obliged to write or designate
+someone on the team to write this account before the start of the new cycle (again, OMG exempt if there are no big new
 initiatives kicking off).
 
 These mechanisms work together to free individuals and teams to run their days and cycles with confidence and
@@ -63,11 +63,11 @@ independence. We have six opportunities per year to make big decisions about wha
 should chiefly be spent carrying out those short-term plans. By having clear expectations for communication, it's easier
 for everyone to build trust in where we're going and why.
 
-All these questions and write-ups will be posted in the What Works project for the current year.
+All these questions and write-ups will be posted in the "What Works" project for the current year.
 
 ## Pitches
 
-Whether you work on the product development or not, your voice and observations can help determine what we should be
+Whether you work on the product development team or not, your voice and observations can help determine what we should be
 working on. The way to exert this influence is through pitches.
 
 Write-up your idea of a new feature, a change to a feature, or any other product development you think we should be
@@ -93,18 +93,18 @@ cycle, Jonathan's kickoff will list all the pitches that have been selected to b
 ## Asynchronously
 
 We have people working all sorts of different hours and from all sorts of different places at Box Products. That alone
-makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature not a bug. Most of the
+makes it hard to enforce a lot of tightly-coupled workflows during the day (that’s a feature not a bug). Most of the
 work you do at Box Products shouldn’t require you to be in constant communication throughout the entire day with
 someone.
 
-It’s far better for everyone’s concentration and sanity if you collaborate as though most things will get an answer
+It’s far better for everyone’s concentration and sanity if you collaborate as though most things will get answered
 eventually, but not necessarily right this second. Your first choice of action should be to post a message, a todo, or a
-document about what you need to explain or need to know. Then others can read it on their schedule, when the natural
+document about what you need to explain or need to know. Others can read it on their schedule, when the natural
 lulls of the day allow it, rather than being interrupted right in their peak flow time.
 
-Don’t take that as gospel, though. Some times you really DO need to tightly collaborate with someone for an extended
+Don’t take that as gospel, though. Sometimes you really _DO_ need to tightly collaborate with someone for an extended
 period of time, and that’s fine. We have pings, hangouts, screensharing, or even in-person collaboration for when
-nothing else will do. (But most of the time something else will).
+nothing else will do (But most of the time something else will).
 
 All that being said, you should still ensure that there is ample overlap with the people you work with most of the time.
 While most roadblocks can just as well be cleared in 15-30-60 minutes, they become real annoying if it’s a one-day
@@ -120,7 +120,7 @@ Organizational theory is thick with descriptions of the trade-offs between funct
 seek to be more project than functional. This means a single project team should be able to go from idea to deploy as
 independently as possible.
 
-Thus, the fewer other departments a team has to pass through on their road to rolling out a new feature, the better. We
+Thus, the fewer departments a team has to pass through on their road to rolling out a new feature, the better. We
 should be working on opening all these natural road blocks that form by default when you have awesome, strong
 departments, such as SIP, mobile, Ops, QA, and so forth.
 

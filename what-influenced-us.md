@@ -8,13 +8,13 @@ prev_link: "← What We Stand For"
 prev_url: "/what-we-stand-for"
 ---
 
-If you want to learn the Box Products view of the world, it helps to know the influences that helped form it. Box Products, is a brand new company but Jonathan has been in product and software development for over 10 years. Since then there's been a number of key influencers that have marked the company culture.
+If you want to learn the Box Products view of the world, it helps to know what influences helped form it. Even though Box Products was founded in 2019, Jonathan has been in product and software development for over 10 years prior. In that time, there's been a number of key influences that have marked the company culture.
 
 ## Companies
 
-[Basecamp](https://basecamp.com) Previously 37 Signals, Basecamp is a company led by David Heinemeier Hansson (DHH) and Jason Fried. Their view is simply different. They've challenged the status quo and be more successfully than most startups all while maintaining a vibrate happy team. This team, and particularly DHH and Jason are a huge inspiration for a large portion of what we do today.
+[Basecamp](https://basecamp.com): Previously 37 Signals, Basecamp is a company led by David Heinemeier Hansson (DHH) and Jason Fried. Their view is simply different. They've challenged the status quo and have been more successful than most startups all while maintaining a vibrate happy team. This team, and particularly DHH and Jason are a huge inspiration for a large portion of what we do today.
 
-> The perspective shift I gained from following the Basecamp team is immeasurable. It has change truly changed the course of my career. <cite class="block text-xs text-right">- Jonathan</cite>
+> The perspective shift I gained from following the Basecamp team is immeasurable. It has truly changed the course of my career. <cite class="block text-xs text-right">- Jonathan</cite>
 
 ## Books
 

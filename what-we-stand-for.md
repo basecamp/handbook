@@ -10,15 +10,15 @@ prev_url: "/box-products-is-you"
 
 ### Box Companies
 
-Box Products is a subsidiary of Box Companies, a parent company with history that extend 100 years. As a subsidiary we are a child raised under the vision of Box Companies.
+Box Products' parent company, Box Companies, has a history that extends 100 years. As a subsidiary, Box Products, is a child raised under the vision of Box Companies.
 
 #### Vision Statement
 
-_To sow love and acceptance into men and women in the marketplace; To seek and model Heaven; To Advance Heaven!_
+>_To sow love and acceptance into men and women in the marketplace; To seek and model Heaven; To Advance Heaven!_
 
 ### Box Products
 
-Being raised is a great analogy here. We are born and birthed as a company from the vision of Box companies but practically speaking that will manifest itself differently in our industry and values just as a child is an extension of thier parent. Before anything else, values come first. Without clear, shared values, we wander independently and contradict one another. Everything's harder when we all believe different things about what's important to _us_, our company.
+Being raised is a great analogy here. We were birthed from the vision of Box companies but practically speaking that will manifest itself differently in our industry and values just as a child is an extension of their parent. Before anything else, values come first. Without clear, shared values, we wander independently and contradict one another. Everything's harder when we all believe different things about what's important to _us_, our company.
 
 Key values:
 
@@ -30,7 +30,7 @@ Key values:
 
 - **Generosity.** Generosity is a wonderful virtue. Being generous is surprising someone on the other end with goodwill and asking for nothing in return. It could be time, attention, or treasure - we give what we're expected to, and then some.
 
-- **Independence.** This one's a bit of a contradiction. After speaking about shared values, here's one that breaks away: Independence. We encourage independent thought and original thinking. Since day one, we've always done things our way. We don't look to the industry or our competitors for the way forward. We see things with our own eyes, make our own calls, and offer thoughts, perspectives, ideas, and products that _>we_ think are right, not that _they_ think are right.
+- **Independence.** This one's a bit of a contradiction. After speaking about shared values, here's one that breaks away: Independence. We encourage independent thought and original thinking. Since day one, we've always done things our way. We don't look to the industry or our competitors for the way forward. We see things with our own eyes, make our own calls, and offer thoughts, perspectives, ideas, and products that _we_ think are right, not that _they_ think are right.
 
 ## Helping small businesses deal with growth
 

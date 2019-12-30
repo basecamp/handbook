@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Titles For Programers"
+title: "Titles For Programmers"
 chapter: "Chapter A5:"
 next_link: "Titles for Support →"
 next_url: "/appendix-06-titles-for-support"

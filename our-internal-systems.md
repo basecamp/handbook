@@ -13,7 +13,7 @@ the company. They are as follows:
 
 ### Basecamp
 
-Basecamp is a project management tool and is the main hub for everything that product related in the company.
+Basecamp is a project management tool and is the main hub for everything product related in the company.
 
 [https://3.basecamp.com](https://3.basecamp.com)
 

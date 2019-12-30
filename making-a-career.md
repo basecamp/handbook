@@ -11,7 +11,7 @@ prev_url: "/our-rituals"
 The average tenure of employees working at many technology companies today is shockingly low. At both Amazon and Google,
 it's [just around one
 year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Box Products,
-we're aiming for higher. We want to build a company that people can be proud of and want to work for veery day. When you
+we're aiming for higher. We want to build a company that people can be proud of and want to work for every day. When you
 work at Box Products, it should absolutely be feasible to think about this as the place for making a life-long career.
 
 ## Mastery & Titles
@@ -19,7 +19,7 @@ work at Box Products, it should absolutely be feasible to think about this as th
 Advancing your career at Box Products doesn't mean giving up on your craft. Whether you work in programming, design,
 ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important
 since we're a relatively small company with just two layers of managerial cake: executives and team managers. And both
-the [executives and managers](/managers.html#executive-manager-and-individual-responsibilities) still spend the majority
+the [executives and managers](/appendix-01-managers) still spend the majority
 of their time doing actual product work!
 
 Within each of our job functions, we've mapped our trajectory of mastery to five different levels. That title structure
@@ -47,11 +47,11 @@ at the company and it gives everyone a clear way of tracking their personal care
 
 You can see the specific titles and proficiencies expected for:
 
-- [Designers](/titles-for-designers.html)
-- [Ops](/titles-for-ops.html)
-- [Programmers](/titles-for-programmers.html)
-- [Support](/titles-for-support.html)
-- [Data](/titles-for-data.html)
+- [Designers](/appendix-03-titles-for-designers)
+- [Ops](/appendix-04-titles-for-ops)
+- [Programmers](/appendix-05-titles-for-programmers)
+- [Support](/appendix-06-titles-for-support)
+- [Data](/appendix-02-titles-for-data)
 
 ## Pay & Promotions
 
@@ -92,20 +92,28 @@ than 5 peer surveys in a year, so please take care with the ones you are asked t
 open-ended questions, as opposed to a 1 - 5 scoring scale. Answering this way takes more thought and time, but it
 results in a much more useful form of feedback! Your answers as a feedback-giver are _never anonymous_, however we
 offer an emergency confidential-to-Jonathan option if you’re truly uncomfortable sharing your thoughts directly with
-the person you’re reviewing. ### Manager 1:1s Once a year, you’ll meet with your manager for a 1:1 session. It's up to
+the person you’re reviewing.
+
+### Manager 1:1s
+Once a year, you’ll meet with your manager for a 1:1 session. It's up to
 each manager to determine how best to approach that meeting, but we ask that whatever process they use, they use the
-same process for every team member. Managers should have a conversation with you about: - your daily work content and
-load - your overall work satisfaction - your relationships with your team, manager, and company - your thoughts about
-personal growth and how those impact your work at Box Products This is a two-way street! You should be offering your
-thoughts on these topics to your manager, and your manager should be giving you feedback about your performance in
-these areas. Managers will document your 1:1s along with any action items with deadlines that come out of the meeting.
-Your Manager 1:1 takes place 6 months after your Annual 360. ### Performance Plans If your feedback relationship with
-your manager and your team is where it should be, nothing too surprising should be coming out of either your Annual
-360 or your Annual 1:1! Managers should be addressing performance successes and problems in the moment, throughout the
+same process for every team member.
+
+Managers should have a conversation with you about your:
+  - daily work content and load
+  - overall work satisfaction
+  - relationships with your team, manager, and company
+  - thoughts about personal growth and how those impact your work at Box Products
+
+This is a two-way street! You should be offering your thoughts on these topics to your manager, and your manager should be giving you feedback about your performance in these areas. Managers will document your 1:1s along with any action items, with deadlines that come out of the meeting. Your Manager 1:1 takes place 6 months after your Annual 360.
+
+### Performance Plans
+If your feedback relationship with your manager and your team is where it should be, nothing too surprising should be coming out of either your Annual 360 or your Annual 1:1! Managers should be addressing performance successes and problems in the moment, throughout the
 year, not waiting for one of these opportunities. If some unforeseen negative feedback does come out during your 360
 or 1:1, your manager could decide to initiate our formal [performance plan
-process](/performance-plans.html#performance-plan-process). ### Feedback on Feedback Both Processes described above
-are constantly evolving (or at least they should be!). Great feedback opportunities can only be designed so much — it
-takes continual feedback on the process from everyone to keep it useful. If you think any aspect of the process
+process](/appendix-08-performance-plans).
+
+### Feedback on Feedback
+Both Processes described above are constantly evolving (or at least they should be!). Great feedback opportunities can only be designed so much — it takes continual feedback on the process from everyone to keep it useful. If you think any aspect of the process
 described here could be more efficient, more practical, and result in better actionable feedback for you, please let
 Jonathan know!

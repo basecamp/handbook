@@ -8,14 +8,14 @@ prev_link: "← Our Internal Systems"
 prev_url: "/our-internal-systems.html"
 ---
 
-No, not the amazing 1980s sitcom starring Cybill Shepherd and whats-his-name from Hudson Hawk. Moonlighting means
+No, not the amazing 1980's sitcom starring Cybill Shepherd and whats-his-name from Hudson Hawk. Moonlighting means
 working other professional, paid jobs outside of your work at Box Products. It’s not a black and white topic. There are
 one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support
-that.But we want to make sure professional endeavors outside of Box Products don’t create conflicts of interest or
+that. But we want to make sure professional endeavors outside of Box Products don’t create conflicts of interest or
 affect your time, dedication, or performance at Box Products. So it’s a delicate balance.
 
-With that in mind, here are some examples of what we’d consider OK and what we would consider a conflict of interest and
-not OK:
+With that in mind, here are some examples of what we’d consider _OK_ and what we would consider a conflict of interest and
+ _Not OK_:
 
 ## OK
 
@@ -30,7 +30,7 @@ not OK:
 4. Serve as an advisor for another company, or be on a board, as long as there’s no conflict of interest. The time
    commitment must be under a few hours a month. And if there’s a scheduling conflict, Box Products gets priority.
 5. Do volunteer or occasional pro-bono work for a cause you’re actively involved with. A little work here and there is
-   fine, but, for example, becoming an organization’s full-time web designer and being on the hook to work during your
+   fine, but for example, becoming an organization’s full-time web designer and being on the hook to work during your
    standard work day, etc, would not be OK.
 
 ## Not OK

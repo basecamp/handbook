@@ -18,7 +18,7 @@ Most people at Box Products work from home most of the time. You can spend up to
 
 ## From coffee shops
 
-Working from home all the time isn't everyone's cup of coffee. Thus, lots of us choose to work from coffee shops or other third spaces either some of the time or a lot of the time. Great for a buzz of other people and much-needed [caffeine](https://giphy.com/gifs/bobs-burgers-fox-bobs-burgers-tv-3o72F3CQSLwU7XTlDy) of course.
+Working from home all the time isn't everyone's cup of coffee. Thus, lots of us choose to work from coffee shops or other third party spaces either some of the time or a lot of the time. Great for a buzz of other people and much-needed [caffeine](https://giphy.com/gifs/bobs-burgers-fox-bobs-burgers-tv-3o72F3CQSLwU7XTlDy) of course.
 
 ## From a co-working space
 
