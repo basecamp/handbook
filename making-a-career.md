@@ -20,7 +20,7 @@ But these titles make it clear to everyone where someone is in their career prog
 
 Day to day, though, these titles aren't really much of a factor. It's not like they're printed on your HELLO MY NAME IS sticker at the meetups (not that we have those anyway!). But they do give newcomers another way of orienting themselves at the company and it gives everyone a clear way of tracking their personal career progression at Basecamp.
 
-You can see the specific titles and profiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md), [Data](https://github.com/basecamp/handbook/blob/master/titles-for-data.md).
+You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md), [Data](https://github.com/basecamp/handbook/blob/master/titles-for-data.md).
 
 ## Pay & Promotions
 
@@ -28,7 +28,7 @@ Basecamp pays at the top 10% for our industry at San Francisco salary levels, re
 
 The Radford data is reviewed once per year at the end of November. If it's warranted, that is if the market rates in the top 10% have gone up, we'll increase pay on January 1st to follow suit. We don't decrease pay, even if the market rates may have dropped. If that happens, we'll hold them steady until they come up again.
 
-In addition to raises based on Radford market data, we've also in the past given raises in excess of those based on core price index inflation numbers, if the market didn't move upward. (This is not a guarenteed practice.)
+In addition to raises based on Radford market data, we've also in the past given raises in excess of those based on core price index inflation numbers, if the market didn't move upward. (This is not a guaranteed practice.)
 
 Everyone in the same role at the same level is paid the same at Basecamp.
 
