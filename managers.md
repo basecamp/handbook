@@ -9,6 +9,7 @@ Basecamp has three tiers of responsibility within our job functions: Executive, 
 * product work and communication
    * making personal contributions to product work (programming and design)
    * writing heartbeats and kick-offs (with input from team); providing status updates in between as needed
+   * maintaining a consistently visible leadership presence especially during deadline-driven work
 * people management: admin
    * formal performance evaluations for Managers twice a year
    * creating and tracking performance improvement plans for Managers as needed
@@ -19,10 +20,11 @@ Basecamp has three tiers of responsibility within our job functions: Executive, 
 ## Manager Responsibilities
 * team strategy
    * interpreting cycle focus from Executives
-   * driver/delegator of work; "team lead"
+   * driver/delegator of work; "team lead"; ultimately responsible for team's output    
 * product work and communication
    * making personal contributions to product work (programming, design, Ops, customer happiness)
    * writing heartbeats and kick-offs (with input from team) or contributing to Executive write-ups; providing status updates in between as needed
+   * maintaining a consistently visible leadership presence especially during deadline-driven work
 * people management: admin
    * formal performance evaluations for team twice a year
    * creating and tracking performance improvement plans for team as needed
