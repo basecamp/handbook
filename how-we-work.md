@@ -10,7 +10,7 @@ This is particularly important for the product teams. Here we like to designate 
 
 ## Cooldown
 
-In between each cycle, we spend two weeks cooling down. That's the time to deal with various backlogs or bug smashes, writing up what we worked on, and figuring out what we should tackle next. It's some times tempting to simply add cooldown onto the end of the cycles, as a way to fit in more work. But the goal is to resist this temptation. Yes, sometimes a little spill-over will happen, but it's helpful to think about the end of the normal cycle as "pencils down". That means that by week 4 of a normal cycle, we should be winding down, getting ready to launch, make sure QA is lined up, and all the other work that happens during and after the launch of new projects.
+In between each cycle, we spend two weeks cooling down. That's the time to deal with bugs or smaller issues that come up, write up what we worked on, and figure out what we should tackle next. It's sometimes tempting to simply extend the cycles into the cooldown period to fit in more work. But the goal is to resist this temptation. Yes, sometimes a little spill-over will happen, but it's helpful to think about the end of the normal cycle as "pencils down". That means that by week 4 of a normal cycle, we should be winding down, getting ready to launch, make sure QA is lined up, and all the other work that happens during and after the launch of new projects.
 
 
 ## Communication
@@ -37,9 +37,9 @@ Write-up your idea of a new feature, a change to a feature, or any other product
 
 There'll always be more pitches than we have time to field, though. So it's important to have realistic expectations about what will happen after you posted your pitch. The default is simply that everyone involved with product development (and probably most everyone else in the company) will read and consider your pitch. That's a win right there. Even if the full pitch doesn't make it in, it can impact other product decisions by shining light on a weak point.
 
-While a few pitches might instantly strike a chord loud enough to go on the plate for the next cycle, it's more likely that your pitch will sit for a while first. We're always working from a backlog of ideas and we have just a few things we can do every cycle, so chances are that even if everyone agrees the pitch is a great idea, it might not be the next most important thing for us to tackle. Don't be discouraged by this. We've had many pitches that have sat for many cycles, if not years, before finally coming together and then happening.
+While a few pitches might instantly strike a chord loud enough to go on the plate for the next cycle, it's more likely that your pitch will sit for a while first. There are always more ideas than time, and we can only get a few things done each cycle. So chances are that even if everyone agrees the pitch is a great idea, it might not be the next most important thing for us to tackle. Don't be discouraged by this. We've had many pitches that have sat for many cycles, if not years, before finally coming together and then happening.
 
-Jason, Ryan, and David is the team evaluating pitches for inclusion in the next cycle. Before the start of every cycle, Jason's kickoff will list all the pitches that have been selected to be worked on.
+Jason, Ryan, and David are the team evaluating pitches for inclusion in the next cycle. Before the start of every cycle, Jason's kickoff will list all the pitches that have been selected to be worked on.
 
 ## Asynchronously
 
