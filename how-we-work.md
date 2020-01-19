@@ -21,9 +21,9 @@ First, there’s the daily question of What did you work on today?, which suppli
 
 Second, there’s the weekly question of What will you be working on this week?, which details your intentions for the coming week. Everyone except team OMG is obliged to answer this question when they're not out.
 
-Third, there is the heartbeats. These are the team versions of What did you work on this cycle? This is where we summarize and celebrate the work that's been done. Every team lead is obliged to write, or designate someone on the team to write, this account one week after a cycle has ended.
+Third, there are the heartbeats. These are the team versions of What did you work on this cycle? This is where we summarize and celebrate the work that's been done. Every team lead is obliged to write, or designate someone on the team to write, this account one week after a cycle has ended.
 
-Fourth, and finally, there is the kickoffs. These are the team version of What are you going to work on next cycle? This is where the plan for the coming six or eight weeks is presented. Every team lead is obliged to write, or designate someone on the team to write, this account before the start of the new cycle (again, OMG exempt if there are no big new initiatives kicking off).
+Fourth, and finally, there are the kickoffs. These are the team version of What are you going to work on next cycle? This is where the plan for the coming six or eight weeks is presented. Every team lead is obliged to write, or designate someone on the team to write, this account before the start of the new cycle (again, OMG exempt if there are no big new initiatives kicking off).
 
 These mechanisms work together to free individuals and teams to run their days and cycles with confidence and independence. We have six opportunities per year to make big decisions about what to work on, and the rest of the time should chiefly be spent carrying out those short-term plans. By having clear expectations for communication, it's easier for everyone to build trust in where we're going and why.
 
