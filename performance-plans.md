@@ -30,3 +30,21 @@ Lots of employees who still work at Basecamp have been on PIPs. We're not in the
 
 ## Exceptions
 The process outlined above is for employees who are dealing with manageable performance or disciplinary issues. If an employee is negligent in their duties or commits fraud or insubordination to the point that a performance plan won't serve Basecamp or the employee, we retain the right to immediately terminate at-will as stated in our employment contracts. Basecamp also retains the right to bypass steps outlined above, including offering a severance package, if the severity of performance problems warrants that. In either of these cases, the reasoning will be spelled out in detail to the employee prior to termination.
+
+## Sections
+* [Basecamp Is You](https://github.com/basecamp/handbook/blob/master/basecamp-is-you.md)
+* [What We Stand For](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)
+* [What Influenced Us](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
+* [Vocabulary](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
+* [Product Histories](https://github.com/basecamp/handbook/blob/master/product-histories.md)
+* [Who Does What?](https://github.com/basecamp/handbook/blob/master/orgchart.md)
+* [Where We Work](https://github.com/basecamp/handbook/blob/master/where-we-work.md)
+* [Benefits & Perks](https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md)
+* [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md)
+* [How We Work](https://github.com/basecamp/handbook/blob/master/how-we-work.md)
+* [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md)
+* [Making a Career](https://github.com/basecamp/handbook/blob/master/making-a-career.md)
+* [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)
+* [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
+* [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
+* [FAQ](https://github.com/basecamp/handbook/blob/master/faq.md)

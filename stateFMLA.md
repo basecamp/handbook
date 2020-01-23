@@ -19,3 +19,21 @@ If you're an [eligible secondary caregiver](https://www.nysenate.gov/legislation
 - Family and personal leave may be taken together for a total of up to 16 weeks. If you are the birthing parent and require additional time to recover, you may take an additional 2 weeks at $1,000 per week for a total of 18 weeks.
 - If one of your family members is in the military and you experience an exigency circumstance, Basecamp has you covered. Exigency circumstances can include short-notice deployment, military events and related activities, childcare and school activities, counseling, and post- deployment activities. You may take 4 weeks off at 100% pay. If after 4 weeks you need more time, you may take up to an additional 8 weeks at 70% of your pay for a total of 12 weeks. Benefits will be calculated according to the Washington State policy - RCW 50A.04.020(4) and (5).
 - Basecamp will continue to maintain your health insurance and your job at Basecamp through the duration of your leave.
+
+## Sections
+* [Basecamp Is You](https://github.com/basecamp/handbook/blob/master/basecamp-is-you.md)
+* [What We Stand For](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)
+* [What Influenced Us](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
+* [Vocabulary](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
+* [Product Histories](https://github.com/basecamp/handbook/blob/master/product-histories.md)
+* [Who Does What?](https://github.com/basecamp/handbook/blob/master/orgchart.md)
+* [Where We Work](https://github.com/basecamp/handbook/blob/master/where-we-work.md)
+* [Benefits & Perks](https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md)
+* [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md)
+* [How We Work](https://github.com/basecamp/handbook/blob/master/how-we-work.md)
+* [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md)
+* [Making a Career](https://github.com/basecamp/handbook/blob/master/making-a-career.md)
+* [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)
+* [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
+* [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
+* [FAQ](https://github.com/basecamp/handbook/blob/master/faq.md)

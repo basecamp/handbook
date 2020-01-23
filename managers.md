@@ -49,3 +49,21 @@ Basecamp has three tiers of responsibility within our job functions: Executive, 
 At the same time, we ask our Managers to take on a lot of responsibility for their teams! We very much appreciate that that may result in Managers doing some emotional labor. That sort of work is usually invisible and hard to quantify in the way product work is, and that's okay! It's part of a Manager's tough job, and we see that.
 
 Managers who feel that their energy for product work is _consistently_ suffering as a result of people management means something is structurally failing at Basecamp. Those managers should raise the issue with Jason, David, or Andrea so we can all work on fixing the root problem. 
+
+## Sections
+* [Basecamp Is You](https://github.com/basecamp/handbook/blob/master/basecamp-is-you.md)
+* [What We Stand For](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)
+* [What Influenced Us](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
+* [Vocabulary](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
+* [Product Histories](https://github.com/basecamp/handbook/blob/master/product-histories.md)
+* [Who Does What?](https://github.com/basecamp/handbook/blob/master/orgchart.md)
+* [Where We Work](https://github.com/basecamp/handbook/blob/master/where-we-work.md)
+* [Benefits & Perks](https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md)
+* [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md)
+* [How We Work](https://github.com/basecamp/handbook/blob/master/how-we-work.md)
+* [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md)
+* [Making a Career](https://github.com/basecamp/handbook/blob/master/making-a-career.md)
+* [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)
+* [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
+* [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
+* [FAQ](https://github.com/basecamp/handbook/blob/master/faq.md)

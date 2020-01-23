@@ -61,3 +61,4 @@ We use the following criteria to assess the level and title of our Support team 
 * Deep, substantial expertise in multiple environments (all versions of Basecamp, other products, our apps, security, sign on, email logs, Dash and trollcop, sign on, trace routes, network issues, desktop issues—Macs, PCs and a variety of handhelds, etc.)
 * Runs and directs small teams for substantial projects. Can delegate without pause, yet leads by following. Understands expertise of each programmer, designer, and sysadmin in order to expediently consult and problem-solve. Pattern recognition fully developed in order to pitch new product features/enhancements. Helps find budgetable time and resources to get a problem solved; offers to help code/design initial first drafts in part of pitch.
 * Usually at least 12-16 years of experience being a customer support professional.
+
