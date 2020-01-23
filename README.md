@@ -1,4 +1,4 @@
-[👉 Read on basecamp.com](https://basecamp.com/handbook)
+[Read on basecamp.com](https://basecamp.com/handbook)
 
 # Basecamp Employee Handbook
 
