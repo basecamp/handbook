@@ -29,8 +29,8 @@ new coverage beginning December 1\. Marriages and domestic partnerships are cove
 Employee-portion of medical insurance premium per pay period:
 
 - Employee-only medical coverage: \$42.65
-- Employee-partner medical coverage: \$92.57
-- Employee-child(ren) medical coverage: TBD
+- Employee-partner medical coverage: \$308.00
+- Employee-child(ren) medical coverage: \$92.57
 - Employee-family medical coverage: \$309.47
 
 #### Dental Insurance
@@ -42,8 +42,8 @@ equally.
 Employee-portion of dental insurance premium per pay period:
 
 - Employee-only dental: \$21.20
-- Employee-partner dental: \$43.39
-- Employee-child(ren) dental: \$44.03
+- Employee-partner dental: \$44.03
+- Employee-child(ren) dental: \$43.39
 - Employee-family dental: \$68.41
 
 #### Vision Insurance
@@ -55,8 +55,8 @@ equally.
 Employee-portion of vision insurance premium per pay period:
 
 - Employee-only vision: \$2.63
-- Employee-partner vision: \$6.83
-- Employee-child(ren) vision: \$7.39
+- Employee-partner vision: \$7.39
+- Employee-child(ren) vision: \$6.83
 - Employee-family vision: \$11.59
 
 ### Paid Time Off
