@@ -76,7 +76,11 @@ SIP is our instant-response team whenever something goes wrong, is about to go w
 
 ### QA
 
-Before we ship a new feature, **Michael Berger** is our resident bug squasher. His job is to break things so we know what needs fixing. He runs rolling tests on all web and mobile versions of Basecamp for quality control. Few things ship without his stamp of quality approval.
+Before we ship a new feature, **Michael Berger** is our resident bug squasher. With the help of some testers at [Aspiritech](https://www.aspiritech.org), he oversees functional testing on new features, and regression tests to make sure existing features aren't adversely affected by new code. Using primarily a black box methodology, we highlight both functional bugs and usability concerns. Our goal is to make sure our products work well across all of the platforms we support, including desktop browsers, desktop apps, mobile browsers, and native iOS and Android apps.
+
+At the conclusion of each project, he leads and documents retrospectives with development teams to help us learn and grow from cycle to cycle.
+
+He’s also our resident accessibility expert. During new feature development he educates the team on how to design and develop with accessibility in mind. He handles all customer support emails relating to accessibility, and advocates for remediation of accessibility issues in existing products and features.
 
 ### The REWORK Podcast
 
