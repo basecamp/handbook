@@ -61,10 +61,10 @@ Employee-portion of vision insurance premium per pay period:
 
 ### Paid Time Off
 
-Box Products offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the standard
-national holidays every year. This is a guideline, so if you need a couple extra days, no problem. We don’t track your
-days off; we use the honor system. Just make sure to check with your team before taking any extended absence, so they’re
-not left in the lurch.
+Box Products offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the [standard
+national holidays](/appendix-10-holidays.html) every year. This is a guideline, so if you need a couple extra days, no
+problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking any
+extended absence, so they’re not left in the lurch.
 
 We don't track sick days either. If you're under the weather, take the time you need to feel better. Box Products
 recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health

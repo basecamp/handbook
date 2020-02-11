@@ -2,6 +2,8 @@
 layout: page
 title: "State FMLA"
 chapter: "Chapter A9:"
+next_link: "Holidays →"
+next_url: "/appendix-10-holidays.html"
 prev_link: "← Performance Improvement Plan Process"
 prev_url: "/appendix-08-performance-plans"
 ---
