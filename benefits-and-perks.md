@@ -116,7 +116,7 @@ If you're interested in taking classes that you feel improve you professionally 
 
 ## Matching Charitable Gifts
 
-When you donate money to a 501(c)(3) charity (or its equivalent if you're outside of the United States), Basecamp will make a matching gift to that charity on your behalf. Basecamp will match up to $2,000 per year, per employee.  The first $500 you donate in a year, Basecamp will match 2-to-1. After that, Basecamp will match 1-to-1 for a total of $2000 in annual matches. For example, if you give $500 to NPR, Basecamp will donate $1000 as a matching gift. If you donate another $1000 to Children's Hospital, Basecamp will match that $1000, and you've reached your cap for the year.
+When you donate money to a 501(c)(3) charity (or its equivalent if you're outside of the United States), Basecamp will make a matching gift to that charity on your behalf. Basecamp will match up to $2,000 per year, per employee.  The first $500 you donate in a year, Basecamp will match 2-to-1. After that, Basecamp will match 1-to-1 for a total of $2000 in annual matches. For example, if you give $500 to NPR, Basecamp will donate $1000 as a matching gift. If you donate another $1000 to Children's Hospital, Basecamp will match that $1000, and you've reached your cap for the year. To have your donations matched, e-mail Navid directly with the donation receipt.
 
 This stipend is prorated in your first year at Basecamp, depending on the month you start. 
 
