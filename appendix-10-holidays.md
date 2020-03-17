@@ -2,6 +2,8 @@
 layout: page
 title: "Holidays"
 chapter: "Chapter A9:"
+next_link: "Asking for help →"
+next_url: "/appendix-11-asking-for-help"
 prev_link: "← State FMLA"
 prev_url: "/appendix-09-State FMLA"
 ---
