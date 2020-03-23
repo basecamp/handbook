@@ -12,4 +12,4 @@ Jabber, GitHub, and Queenbee, among a whole list of other things. Don't worry if
 
 If you have a specific training schedule or training milestones to complete, that will go into your Welcome Basecamp too. 
 
-We have a very stringent and specific security protocol, which we then monitor using [Shipshape](https://github.com/basecamp/shipshape/). [Here's a list](https://github.com/basecamp/shipshape/wiki) of what we require and, just as importantly, why we require it!
+We have a very stringent and specific security protocol, which we then monitor using [Shipshape 🔒](https://github.com/basecamp/shipshape/). [Here's a list 🔒](https://github.com/basecamp/shipshape/wiki) of what we require and, just as importantly, why we require it!
