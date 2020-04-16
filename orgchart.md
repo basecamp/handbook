@@ -64,11 +64,11 @@ Core Product works on new features for Basecamp together with the product design
 
 #### Mobile
 
-Basecamp 3 was the first version of Basecamp that launched with two complete, awesome native applications for Android and iOS on day one. That was only possible because we dedicated stable teams to both efforts. **Jay Ohms** is team lead and works with Dan Kim on Basecamp's native Android app. **Zach Waugh** is team lead and works with Dylan Ginsburg to develop our Basecamp iOS app.
+Basecamp 3 was the first version of Basecamp that launched with two complete, awesome native applications for Android and iOS on day one. That was only possible because we dedicated stable teams to both efforts. **Jay Ohms** is team lead and works with Dan Kim on Basecamp's native Android app. **Zach Waugh** is the team lead and works with Dylan Ginsburg to develop our Basecamp iOS app.
 
 #### Research & Fidelity (RF)
 
-Our [rich text editor Trix](https://trix-editor.org) and our [front-end framework Turbolinks](https://github.com/turbolinks/turbolinks) were both born from RF. They work on deep research projects like those two, but also on all manners of UI fidelity in general. That means a lot of JavaScript, but also integrating that with our Ruby and native code. **Javan Makhmali** is team lead and works with Sam Stephenson.
+Our [rich text editor Trix](https://trix-editor.org) and our [front-end framework Turbolinks](https://github.com/turbolinks/turbolinks) were both born from RF. They work on deep research projects like those two, but also on all manners of UI fidelity in general. That means a lot of JavaScript, but also integrating that with our Ruby and native code. **Javan Makhmali** is the team lead and works with Sam Stephenson and Nabeelah Ali.
 
 #### Security, Infrastructure & Performance (SIP)
 
