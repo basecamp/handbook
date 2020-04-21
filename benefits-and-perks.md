@@ -50,6 +50,8 @@ The FSA is an account where you can set aside pre-tax money for out-of-pocket me
 
 Basecamp offers 18 days of paid time off plus 10 local national holidays every year. We ask that you [track your time off](https://3.basecamp.com/2914079/buckets/34/messages/2365502915) so we can properly compensate you for unused time, but the company doesn't monitor that tracking. We do ask that you check with your team before taking any extended absence, so they’re not left in the lurch. Your vacation time is prorated your first year working at Basecamp. If you start mid-year, you should take about 9 days off. 
 
+In addition to annual PTO and holidays, every *three* years employees are encouraged take a 30-day paid sabbatical. Just give a heads-up preferably three months in advance so we can coordinate the work-load accordingly.
+
 We don't track sick days. If you're under the weather, take the time you need to feel better within reason. Basecamp recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health day every now and again when you're feeling overwhelmed or mentally fatigued. If a day or two won't cut it, we'll work with you to find a way to reduce the burden of your work at Basecamp on your overall mental health. We really do want your work at Basecamp to be the best work you do in your life, and we appreciate that that's not possible if you're uncertain about your health. 
 
 Your outlets at Basecamp if you're feeling your mental or physical health is taking a toll on your work? So many to choose from! We have Carecamp, a project in Basecamp dedicated to discussing all aspects of self-care. You can go to your manager at any time or during one of your regular 1:1 meetings. You can go to Andrea at any time, who with your permission can work with your manager to help you. Additionally, your manager should check in with *you*, proactively, to periodically make sure you're doing okay.
@@ -67,10 +69,6 @@ For your fur babies! Basecamp doesn't contribute to this plan at all, but everyo
 ## Summer Hours
 
 During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in effect from May 1 through August 31 each year.  (An employee who has just been hired may have to complete a training program per their team lead to be eligible). Summer weeks are 4-day work weeks, so when a holiday occurs over summer, you can take the holiday off *or* your normal summer day off. Any additional days off would count as vacation days.
-
-## Sabbatical
-
-Every three years, employees are eligible to take a 30-day paid sabbatical. Just give a heads-up preferably three months in advance, so we can coordinate the work-load accordingly.
 
 ## Family Leave
 
