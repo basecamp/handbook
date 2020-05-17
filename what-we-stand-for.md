@@ -28,6 +28,6 @@ Most companies cobble together a latticework of separate tools as they grow, but
 
 This is where Basecamp comes in.
 
-Basecamp helps growing companies organize their projects, internal communications, and client work *in one place* so they have a central source of truth. People know what to do, they know where things are, it’s clear where things stand, and everyone’s accountable.
+Basecamp helps growing companies organize their projects, internal communications, and client work *in one place* so they have a central source of truth. People know what to do, they know where things are, it’s clear where things stand, and everyone is accountable.
 
 This is what we do here. It takes many forms, and we're always working towards a more perfect system, but we help groups of people get their shit together - and keep it together - so they can do their best work with their team, in their company, for their own customers.
