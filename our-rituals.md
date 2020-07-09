@@ -1,7 +1,7 @@
 # Our Rituals
 
 ## Meetups
-Twice a year, the entire company gathers in Chicago for a week. Your first meet-up will be overwhelming; there are a lot of people to meet, most or all of whom you've only chatted with virtually. People tend to arrive to Chicago on the Sunday before the meet-up, but 'campers who travel longer distances (Hong Kong and Australia, I'm looking at you!) arrive earlier to beat the jet lag. Basecamp books a hotel room block in a hotel nearby, so you don't need to worry about finding a place to stay. 
+Twice a year, the entire company gathers in Chicago for a week. Your first meet-up will be overwhelming; there are a lot of people to meet, most or all of whom you've only chatted with virtually. People tend to arrive to Chicago on the Sunday before the meet-up, but 'campers who travel longer distances arrive earlier to beat the jet lag. Basecamp books a hotel room block in a hotel nearby, so you don't need to worry about finding a place to stay. 
 
 Every morning, we gather for breakfast at 8am, and sessions start around 9am. The meet-up is not structured. There are some scheduled talks - Jason and David generally talk about the state of the company on Monday or Tuesday morning, and other Basecampers may want to give a talk about a special circumstance they've seen in the past 6 months. Occasionally, we bring in outside speakers, too. But, day-to-day, the meet-up is very loosely scheduled. Teams work together in a room at the office; people go out for coffee or ice cream; managers schedule one-on-ones with employees; Pratik beats everyone at ping pong. 
 
