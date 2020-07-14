@@ -18,7 +18,7 @@ When 37signals became Basecamp in 2014, we decided to spin off or sell our other
 
 ## Ta-da List
 
-Ten years ago, to-do list apps were few and far between. So, we created Ta-Da List as a stand alone free subscription app at tadalist.com in January 2005. Now that people have to-do lists on their phones, desktops, laptops, tablets, and refrigerator doors, we recognized that Ta-Da List was a little outdated. We closed new signups to tadalist.com in 2014, but existing customers were able to retain their accounts.
+Ten years ago, to-do list apps were few and far between. So, we created Ta-da List as a stand alone free subscription app at tadalist.com in January 2005. Now that people have to-do lists on their phones, desktops, laptops, tablets, and refrigerator doors, we recognized that Ta-da List was a little outdated. We closed new signups to tadalist.com in 2012, but existing customers were able to retain their accounts.
 
 ## Backpack
 
