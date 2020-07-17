@@ -12,8 +12,6 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Does not participate in on-call rotation.
 * Self taught; may have worked at IT Help Desk for 1-2 years.
 
-_Examples: Blake when he was an intern; Anton when he started._
-
 ## Systems Admin
 * Work is reviewed with the occasional need for material direction or implementation changes.
 * Works on single system / variable problems.
@@ -22,8 +20,6 @@ _Examples: Blake when he was an intern; Anton when he started._
 * Shows strength in some areas of specialization, but lacks the balance of experience in all areas.
 * Lacks institutional knowledge about our systems. Not completely familiar with documentation or procedures.
 * Usually at least 5 years of experience as sysadmin or programmer with site reliability experience.
-
-_Examples: Colin, Matthew V._
 
 ## Senior Systems Admin
 * Work doesn't necessarily need to be reviewed, but general approach may be.
@@ -45,8 +41,6 @@ _Examples: Colin, Matthew V._
 * Performs more complex work like capacity planning, load testing, security improvements, etc.
 * Sets new professional standards for the team.
 * Usually at least 8-12 years of experience being a professional sysadmin.
-
-_Examples: Eron, John, Nathan, Matthew K._
 
 ## Principal Systems Admin
 * Can run large and complex Ops projects independently.
