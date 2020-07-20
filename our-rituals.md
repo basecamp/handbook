@@ -32,6 +32,3 @@ Every month, Navid randomly selects 5 people to chat on a call with Jason and Da
 Some interesting topics that have been covered in the past: Jamie’s $1,000 toilet, Wailin’s Ted Cruz sighting, and petty juvenile delinquency stories from an alarming number of employees. 5x12s happen on the first Wednesday of every month at 10AM Chicago time. Navid transcribes the call and posts the transcription in Basecamp for everyone to read afterwards.
 
 We have a strict policy of not sharing anything that’s said in a 5x12 in a public forum, so you can talk freely. These calls are supposed to be fun, so please try to have a good time with them!
-
-## The Small Council
-Basecamp has an executive advisory team that meets with Jason and David every few months called The Small Council. It’s made up of department heads who have been with the company for over 5 years. Currently the council is made up of Kristin Aardsma (Customer Support), Jeremy Daer (SIP), Jonas Downey (Design), Jeff Hardy (Core Programming), Matthew Kent (Ops), and Andrea LaRowe (People Ops). The Small Council talk through high-level issues facing the company, its employees, and its customers. Each member is expected to represent their respective areas so Jason and David have a comprehensive view of how big decisions will affect different aspects of Basecamp.
