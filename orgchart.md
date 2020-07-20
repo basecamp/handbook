@@ -93,3 +93,7 @@ Our Datacenter team is focused on keeping the applications that we run on our ow
 #### Cloud
 
 The Cloud team works on newer approaches to running our applications on Amazon Web Services and the Google Cloud Platform. They maintain our suite of legacy apps with an eye on the future. **Matthew Kent** is the lead here and works with Nathan Anderson and Blake Stoddard.
+
+### Working Groups
+
+We have several cross-department working groups at Basecamp with different mandates. These include Greening Basecamp (environmental sustainability); Corporate Civic Engagement (1% giving and more); Moral Quandaries (investigating abuse cases); and Diversity, Equity, and Inclusion (increasing and retaining diversity at Basecamp).
