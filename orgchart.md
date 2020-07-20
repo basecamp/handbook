@@ -74,9 +74,9 @@ Our [rich text editor Trix](https://trix-editor.org) and our [front-end framewor
 
 SIP is our instant-response team whenever something goes wrong, is about to go wrong, or is expected soon to go wrong! Our galaxy defenders, if you will. They are the primary programming team working together with Operations to ensure that our applications are always safe, secure, and fast. **Jeremy Daer** is the team lead and works with George Claghorn, Rosa Gutiérrez, Justin White, and Jorge Manrubia.
 
-### QA
+### QA and Accessibility
 
-Before we ship a new feature, **Michael Berger** is our resident bug squasher. His job is to break things so we know what needs fixing. He runs rolling tests on all web and mobile versions of Basecamp for quality control. Few things ship without his stamp of quality approval.
+Before we ship a new feature, **Michael Berger** is our resident bug squasher. His job is to break things so we know what needs fixing. He runs rolling tests on all web and mobile versions of Basecamp for quality control. Few things ship without his stamp of quality approval. Michael is also Basecamp's internal Accessibility lead, pushing the company forward [towards more accessible products](https://hey.com/accessibility/).
 
 ### The REWORK Podcast
 
