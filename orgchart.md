@@ -96,4 +96,4 @@ The Cloud team works on newer approaches to running our applications on Amazon W
 
 ### Working Groups
 
-We have several cross-department working groups at Basecamp with different mandates. These include Greening Basecamp (environmental sustainability); Corporate Civic Engagement (1% giving and more); Moral Quandaries (investigating abuse cases); and Diversity, Equity, and Inclusion (increasing and retaining diversity at Basecamp).
+We have several cross-department working groups at Basecamp with different mandates. These include Greening Basecamp (environmental sustainability); Corporate Civic Engagement (1% giving and more); Moral Quandaries (investigating abuse cases); and Diversity, Equity, and Inclusion (increasing and retaining diversity at Basecamp). Basecampers can find the full list of internal working groups and membership in our HQ Reference Materials.
