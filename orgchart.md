@@ -1,18 +1,18 @@
 # Who Does What?
 
-Figuring out who to bring a particular issue or question to shouldn’t be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at Basecamp, and the head of that team should be the first point of contact. At the same time, every single person who works at Basecamp is approachable and friendly, more than willing to point you in the right direction. If you have a question, you're probably not the first, so speak up!
+Figuring out who to bring a particular issue or question to shouldn’t be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at Basecamp, and the head of that team should be the first point of contact. At the same time, every single person who works at Basecamp is approachable and friendly, more than willing to point you in the right direction. If you have a question, you’re probably not the first, so speak up!
 
-Below you'll find a list of the major groups and teams within the company. They're listed in alphabetical order by group name first and then, when relevant, by team. Inside groups/teams, people are listed in alphabetical order by last name, and the most senior people in a group/team are shown in bold.
+Below you’ll find a list of the major groups and teams within the company. They’re listed in alphabetical order by group name first and then, when relevant, by team. Inside groups/teams, people are listed in alphabetical order by last name, and the most senior people in a group/team are shown in bold.
 
 ### Admin
 
-**Andrea LaRowe** is Basecamp's Head of People Ops. Andrea works with Jason and David to make working at Basecamp an excellent experience for its employees. She manages the day-to-day operations of the company, human resources, benefits & payroll administration, and event planning. Andrea is often the best person to tap first, when you don't know who to talk to about a problem.
+**Andrea LaRowe** is Basecamp’s Head of People Ops. Andrea works with Jason and David to make working at Basecamp an excellent experience for its employees. She manages the day-to-day operations of the company, human resources, benefits & payroll administration, and event planning. Andrea is often the best person to tap first, when you don’t know who to talk to about a problem.
 
-Navid Afshar is Basecamp's admin assistant. He assists Andrea with all administrative operations, and he's primarily responsible for bookkeeping, supporting tax-related work, and coordinating the details for our meetups. Navid is another great person to ping if you don't know where to go with a question.
+Navid Afshar is Basecamp’s admin assistant. He assists Andrea with all administrative operations, and he’s primarily responsible for bookkeeping, supporting tax-related work, and coordinating the details for our meetups. Navid is another great person to ping if you don’t know where to go with a question.
 
 ### Customer Support (aka Team OMG)
 
-**Kristin Aardsma** is the head of the customer support team. She's responsible for the entire customer support team which uses [Help Scout](https://www.helpscout.net) to respond to customer tickets. Her team consists of Jabari Allen, Ashley Bowe, Haas Cavazos, Sylvia Chong, Chase Clemons, Merissa Dawson, Shanae Dykes, Tony Giang, James Glazebrook, Elizabeth Gramm, Chris Joyce, Lexi Kent-Monning, Jim Mackenzie, Willow Moline, Jayne Ogilvie, and Joan Stewart.
+**Kristin Aardsma** is the head of the customer support team. She’s responsible for the entire customer support team which uses [Help Scout](https://www.helpscout.net) to respond to customer tickets. Her team consists of Jabari Allen, Ashley Bowe, Haas Cavazos, Sylvia Chong, Chase Clemons, Merissa Dawson, Shanae Dykes, Tony Giang, James Glazebrook, Elizabeth Gramm, Chris Joyce, Lexi Kent-Monning, Jim Mackenzie, Willow Moline, Jayne Ogilvie, and Joan Stewart.
 
 ### Executive
 
@@ -36,7 +36,7 @@ The design group is led by **Jonas Downey** and consists of four teams:
 
 #### Marketing
 
-**Adam Stoddard** is our lead marketing designer, and the only person on this team. He's responsible for all design on basecamp.com, rework.fm, and any other public-facing web properties like the Basecamp help sites, etc. He'll also occasionally work on physical products (book covers, merch design, etc).
+**Adam Stoddard** is our lead marketing designer, and the only person on this team. He’s responsible for all design on basecamp.com, rework.fm, and any other public-facing web properties like the Basecamp help sites, etc. He’ll also occasionally work on physical products (book covers, merch design, etc).
 
 #### Mobile
 
@@ -48,7 +48,7 @@ The design group is led by **Jonas Downey** and consists of four teams:
 
 #### Video/motion
 
-**Shaun Hildner** is our resident filmmaker and makes marketing and customer support videos. He's the only person on this team. He's also well adept at audio production, and co-produces our REWORK podcast.
+**Shaun Hildner** is our resident filmmaker and makes marketing and customer support videos. He’s the only person on this team. He’s also well adept at audio production, and co-produces our REWORK podcast.
 
 ### Product Strategy
 
@@ -60,11 +60,11 @@ The programming group is led by **David Heinemeier Hansson** and consists of fou
 
 #### Core Product
 
-Core Product works on new features for Basecamp together with the product designers. They're also responsible for the user-facing backend systems such as Queenbee, 37id, and the API. **Jeff Hardy** is the team lead and works with Kasper Timm Hansen, and Pratik Naik.
+Core Product works on new features for Basecamp together with the product designers. They’re also responsible for the user-facing backend systems such as Queenbee, 37id, and the API. **Jeff Hardy** is the team lead and works with Kasper Timm Hansen, and Pratik Naik.
 
 #### Mobile
 
-Basecamp 3 was the first version of Basecamp that launched with two complete, awesome native applications for Android and iOS on day one. That was only possible because we dedicated stable teams to both efforts. **Jay Ohms** is team lead and works with Dan Kim on Basecamp's native Android app. **Zach Waugh** is the team lead and works with Dylan Ginsburg to develop our Basecamp iOS app.
+Basecamp 3 was the first version of Basecamp that launched with two complete, awesome native applications for Android and iOS on day one. That was only possible because we dedicated stable teams to both efforts. **Jay Ohms** is team lead and works with Dan Kim on Basecamp’s native Android app. **Zach Waugh** is the team lead and works with Dylan Ginsburg to develop our Basecamp iOS app.
 
 #### Research & Fidelity (RF)
 
@@ -76,7 +76,7 @@ SIP is our instant-response team whenever something goes wrong, is about to go w
 
 ### QA and Accessibility
 
-Before we ship a new feature, **Michael Berger** is our resident bug squasher. His job is to break things so we know what needs fixing. He runs rolling tests on all web and mobile versions of Basecamp for quality control. Few things ship without his stamp of quality approval. Michael is also Basecamp's internal Accessibility lead, pushing the company forward [towards more accessible products](https://hey.com/accessibility/).
+Before we ship a new feature, **Michael Berger** is our resident bug squasher. His job is to break things so we know what needs fixing. He runs rolling tests on all web and mobile versions of Basecamp for quality control. Few things ship without his stamp of quality approval. Michael is also Basecamp’s internal Accessibility lead, pushing the company forward [towards more accessible products](https://hey.com/accessibility/).
 
 ### The REWORK Podcast
 
