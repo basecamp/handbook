@@ -1,5 +1,5 @@
 ## New York
-If you're an [eligible secondary caregiver](https://www.nysenate.gov/legislation/laws/WKC/201) in the state of New York, you may be able to take up to 10 weeks leave. 
+If you’re an [eligible secondary caregiver](https://www.nysenate.gov/legislation/laws/WKC/201) in the state of New York, you may be able to take up to 10 weeks leave.
 
 ## Washington
 - This is a voluntary plan fully funded by Basecamp. Employees will not be taxed for this plan.

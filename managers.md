@@ -1,6 +1,6 @@
 # Executive, Manager, and Individual Responsibilities
 
-Basecamp has three tiers of responsibility within our job functions: Executive, Manager, and Individual. Here's how we break down each level’s duties.
+Basecamp has three tiers of responsibility within our job functions: Executive, Manager, and Individual. Here’s how we break down each level’s duties.
 
 ## Executive Responsibilities
 * company and product strategy
@@ -20,7 +20,7 @@ Basecamp has three tiers of responsibility within our job functions: Executive, 
 ## Manager Responsibilities
 * team strategy
    * interpreting cycle focus from Executives
-   * driver/delegator of work; "team lead"; ultimately responsible for team's output    
+   * driver/delegator of work; "team lead"; ultimately responsible for team’s output    
 * product work and communication
    * making personal contributions to product work (programming, design, Ops, customer happiness)
    * writing heartbeats and kick-offs (with input from team) or contributing to Executive write-ups; providing status updates in between as needed
@@ -46,6 +46,6 @@ Basecamp has three tiers of responsibility within our job functions: Executive, 
 
 *A note about our Managers*. We encourage Managers to be "moonlight managers". To us that means they focus mostly on product strategy, work, and communication, and they allow the individuals on their teams to self-direct.
 
-At the same time, we ask our Managers to take on a lot of responsibility for their teams! We very much appreciate that that may result in Managers doing some emotional labor. That sort of work is usually invisible and hard to quantify in the way product work is, and that's okay! It's part of a Manager's tough job, and we see that.
+At the same time, we ask our Managers to take on a lot of responsibility for their teams! We very much appreciate that that may result in Managers doing some emotional labor. That sort of work is usually invisible and hard to quantify in the way product work is, and that’s okay! It’s part of a Manager’s tough job, and we see that.
 
 Managers who feel that their energy for product work is _consistently_ suffering as a result of people management means something is structurally failing at Basecamp. Those managers should raise the issue with Jason, David, or Andrea so we can all work on fixing the root problem. 

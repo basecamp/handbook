@@ -1,6 +1,6 @@
 # Titles for Ops
 
-We use the following criteria to assess the level and title of ops at Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. The criteria outline the shape of what work at a given level on the Ops team at Basecamp looks like.
+We use the following criteria to assess the level and title of ops at Basecamp. These criteria aren’t exhaustive, and they aren’t mere checklists. The criteria outline the shape of what work at a given level on the Ops team at Basecamp looks like.
 
 It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the consistency and quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
 
@@ -22,7 +22,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Usually at least 5 years of experience as sysadmin or programmer with site reliability experience.
 
 ## Senior Systems Admin
-* Work doesn't necessarily need to be reviewed, but general approach may be.
+* Work doesn’t necessarily need to be reviewed, but general approach may be.
 * Can work independently on smaller projects and be a reliable contributor to larger projects.
 * Fully participates in on call rotation.
 * Subject matter expert in at least one major system.

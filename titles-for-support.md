@@ -1,11 +1,11 @@
 # Titles for Support
 
-We use the following criteria to assess the level and title of our Support team members at Basecamp. 
+We use the following criteria to assess the level and title of our Support team members at Basecamp.
 
 ## Junior Customer Support Representative, level 1
 
-* Throughput and productivity is uneven/unpredictable. 
-* Adept at commonly asked questions and inquiries. 
+* Throughput and productivity is uneven/unpredictable.
+* Adept at commonly asked questions and inquiries.
 * Uses HelpScout effectively.
 * Prefers email support over phone, as is not yet comfortable speaking adlib about product.
 * Works on routine emails or calls. Sometimes assigns emails to others versus finding the answers themselves, is new to Basecamp’s products
@@ -21,7 +21,7 @@ We use the following criteria to assess the level and title of our Support team 
 
 ## Senior Customer Support Representative, level 3
 
-* Work beyond customer support tickets is self-directed and doesn't necessarily need to be reviewed, occasionally needs help with choosing items that are impactful.  Understands when to initiate on-call workflow without guidance from peers. Complete and deep expertise with all versions of Basecamp. Can handle any inquiry.
+* Work beyond customer support tickets is self-directed and doesn’t necessarily need to be reviewed, occasionally needs help with choosing items that are impactful.  Understands when to initiate on-call workflow without guidance from peers. Complete and deep expertise with all versions of Basecamp. Can handle any inquiry.
 * Has predictable and high throughput, exceeds CS values, while also maintaining a high level of customer satisfaction. Generates new ideas and systems in order to deliver better customer support. Is creative and customer-centric. Works independently.
 * Can provide material feedback on the work of Level 1-2 customer support and still maintain productivity. Can work very effectively with difficult or upset customers. Initiates training, publishes to SvN is seen as a leader, "go-to" person on the team.
 * Tests on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations.
@@ -31,11 +31,11 @@ We use the following criteria to assess the level and title of our Support team 
 
 ## Lead Customer Support Representative, level 4
 
-* Work happens completely autonomously with no regular need for review. 
+* Work happens completely autonomously with no regular need for review.
 * Understands when to initiate on-call workflow without guidance from peers. Uses console access to resolve cases that require pre-written scripts or other basic code touches to fix common issues.
 * Tier 2/UX skills developing:
     * Has console experience, including bug investigation via On Call work while maintaining regular customer conversations.
-    * AND/OR 
+    * AND/OR
     * Demonstrates product dedication via User Experience work while maintaining regular customer conversations.
 * Demonstrates product dedication via testing on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations.
 * Fully capable of owning and resolving any type of ticket. Clearly articulates new issues for software development engineers, suggests changes to website. Authors help desk, contributes original content to knowledge base. Designs new programs that have high customer impact.
@@ -47,11 +47,11 @@ We use the following criteria to assess the level and title of our Support team 
 
 ## Principal Customer Support Representative, level 5
 
-* Work happens completely autonomously with no regular need for review. 
+* Work happens completely autonomously with no regular need for review.
 * Uses console access to resolve cases that require pre-written scripts or other basic code touches to fix common issues.
 * Tier 2/UX skills developed:
-    * Trains others on console and performs significant amount of On Call work while maintaining regular customer conversations. 
-    * OR 
+    * Trains others on console and performs significant amount of On Call work while maintaining regular customer conversations.
+    * OR
     * Demonstrates significant product expertise via User Experience work while maintaining regular customer conversations. Can introduce others/train others in this pathway.
 * Demonstrates significant product expertise via testing on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations. Can introduce others/train others in this pathway.
 * Expert within technology beyond Basecamp, like browsers, both OS, and many third-party API extensions. Excels at getting to root causes of issues and then writing them up in a way that can be acted upon by software development. Does not necessarily need help from developers, marketing, or design for input.

@@ -1,6 +1,6 @@
 # Titles for Data Analysts
 
-We use the following criteria to assess the level and title of our data analysts at Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression.
+We use the following criteria to assess the level and title of our data analysts at Basecamp. These criteria aren’t exhaustive, and they aren’t mere checklists. They’re a guidance to having an individualized discussion about career progression.
 
 ## General job description
 - Analyzes complex business problems and issues using data from internal and external sources to provide insight to decision-makers.
@@ -12,7 +12,7 @@ We use the following criteria to assess the level and title of our data analysts
 
 ## Level specific traits
 ### Senior Data Analyst (L3)
-- Work doesn't necessarily need to be reviewed, but general approach may be.
+- Work doesn’t necessarily need to be reviewed, but general approach may be.
 - Comfortable operating as a manager of one, self-directing scope of work and setting timelines independently.
 - Can provide informed advice to other teams on how best to approach data-related problems.
 - Usually at least 5 years of experience.

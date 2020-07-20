@@ -1,8 +1,8 @@
 # Titles for designers
 
-We use the following criteria to assess the level and title of designers at Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. We use the criteria as a guide for having individualized discussions about career progression.
+We use the following criteria to assess the level and title of designers at Basecamp. These criteria aren’t exhaustive, and they aren’t mere checklists. We use the criteria as a guide for having individualized discussions about career progression.
 
-These criteria chiefly examine the scope of work someone is capable of tackling independently on a series of projects over an extended period of time (doing something well once isn't enough to justify advancement). In addition to that assessment, we also look at the quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
+These criteria chiefly examine the scope of work someone is capable of tackling independently on a series of projects over an extended period of time (doing something well once isn’t enough to justify advancement). In addition to that assessment, we also look at the quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
 
 ## Junior Designer
 * Work is thoroughly reviewed with substantial back-and-forth.
@@ -20,7 +20,7 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * MOBILE: Can create basic prototypes demonstrating interactions and animations.
 
 ## Senior Designer
-* Work doesn't necessarily need to be reviewed, but general approach may be.
+* Work doesn’t necessarily need to be reviewed, but general approach may be.
 * Can run point on small batch projects, taking them from concept to shipping as the sole designer (alongside a programmer).
 * Can occasionally run point on large batch projects, sometimes with assistance.
 * Usually at least 5-8 years of experience being a professional designer.

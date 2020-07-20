@@ -1,12 +1,12 @@
 # Titles for programmers
 
-We use the following criteria to assess the level and title of programmers of Basecamp. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression.
+We use the following criteria to assess the level and title of programmers of Basecamp. These criteria aren’t exhaustive, and they aren’t mere checklists. They’re a guidance to having an individualized discussion about career progression.
 
 It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
 
 ## Junior Programmer
 
-* Work is thoroughly reviewed with substantial back'n'forth frequently needed before merging.
+* Work is thoroughly reviewed with substantial back’n’forth frequently needed before merging.
 * Basic language features are mastered, but some advanced structures may still be unfamiliar.
 * Occasional issues following patterns and approaches within existing code bases.
 * Works primarily on tightly scoped, routine problems.
@@ -21,7 +21,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 
 ## Senior Programmer
 
-* Work doesn't necessarily need to be reviewed, but general approach may be.
+* Work doesn’t necessarily need to be reviewed, but general approach may be.
 * Fully capable of taking substantial features from concept to shipping as the sole programmer (alongside a designer).
 * Can provide material feedback on the work of junior programmers and programmers.
 * Deep expertise within at least one programming environment.
