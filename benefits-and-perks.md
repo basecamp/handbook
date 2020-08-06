@@ -90,7 +90,7 @@ If the loss in your family is especially traumatic and you know you'll be away f
 
 Our 401K for US employees is through Vanguard. Basecamp matches dollar-for-dollar up to 6% of your salary that you contribute to the plan.  For instance, an employee who earns $100,000 can contribute any amount towards the 401K, however Basecamp will only match the first 6% or $6,000/year of those contributions. You are eligible to enroll in the 401K plan with your first paycheck.
 
-For international employees, Basecamp will also match 6% of your salary. In this case, Basecamp will pay the employee directly via invoice. It's up to the employee to invest the money properly and maintain administration of the retirement account and its taxes. Basecamp will begin funding international employee retirement accounts on January 1, 2019.
+For international employees, Basecamp will also match 6% of your salary. In this case, Basecamp will pay the employee directly via invoice. It's up to the employee to invest the money properly and maintain administration of the retirement account and its taxes.
 
 ## Employee Liquidity Pool
 
