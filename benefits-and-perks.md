@@ -92,9 +92,23 @@ Our 401K for US employees is through Vanguard. Basecamp matches dollar-for-dolla
 
 For international employees, Basecamp will also match 6% of your salary. In this case, Basecamp will pay the employee directly via invoice. It's up to the employee to invest the money properly and maintain administration of the retirement account and its taxes.
 
+## Employee Profit Sharing
+
+Basecamp shares 10% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, usually around March (e.g. 2020 profits distributed in March 2021). 
+
+You're eligible to participate in profit sharing after two years of working at Basecamp. You'll accrue one share per month starting on your second anniversary at Basecamp, and you'll max out your shares at 10 years. We calculate shares based on months of tenure so there’s no unfair cliff between being hired in December vs January. 
+
+We ask that you think of any compensation from this program as not something to be counted upon, not something to be budgeted with, but as a true bonus. Year to year, profits and therefore the amount we're able to share with employees may swing wildly or not be paid out at all.
+
+This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the profit sharing program if you resign or are terminated from Basecamp.
+
 ## Employee Liquidity Pool
 
-If Basecamp is ever sold or part of an IPO, tenured employees will be eligible to receive a portion of 5% of the value of the company. That 5% would be divided into units, based on the number of employees we have at the time. People who were Basecampers for less than 1 year would receive 0 units, someone employed 1 year would receive 1 unit, and so on, until you're fully vested at 5 years for 5 units.
+There are no plans to sell Basecamp or take the company public! But, in the slight chance of that happening, employees may be eligible to receive a portion of 10% of the value of the company if Basecamp is sold or made public. That 10% would be divided into shares, and shares distributed amongst employees based on their tenure at the time of the sale/offering. 
+
+Employees are eligible for shares in the liquidity pool after two years of working at Basecamp. You'll accrue one share per month starting on your second anniversary, and you max out your shares after 10 years. We calculate shares based on months of tenure so there’s no unfair cliff between being hired in December vs January.
+
+This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the liquidity pool if you resign or are terminated from Basecamp.
 
 # Perks
 
