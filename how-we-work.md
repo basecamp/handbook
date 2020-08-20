@@ -39,7 +39,7 @@ There’ll always be more pitches than we have time to field, though. So it’s 
 
 While a few pitches might instantly strike a chord loud enough to go on the plate for the next cycle, it’s more likely that your pitch will sit for a while first. There are always more ideas than time, and we can only get a few things done each cycle. So chances are that even if everyone agrees the pitch is a great idea, it might not be the next most important thing for us to tackle. Don’t be discouraged by this. We’ve had many pitches that have sat for many cycles, if not years, before finally coming together and then happening.
 
-Jason, Ryan, and David are the team evaluating pitches for inclusion in the next cycle. Before the start of every cycle, Jason’s kickoff will list all the pitches that have been selected to be worked on.
+Jason, David, Ryan, and Jeff are the team evaluating pitches for inclusion in the next cycle. Before the start of every cycle, Jason’s kickoff will list all the pitches that have been selected to be worked on.
 
 ## Asynchronously
 
