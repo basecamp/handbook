@@ -30,13 +30,13 @@ With that in mind, here are some examples of what we’d consider OK and what we
 
 ## In general
 
-Here’s a few guiding principles about whether something could be a problem:
+Here are a few guiding principles about whether something could be a problem:
 
 * Is it competitive?
 * Does it occupy a disproportionate amount of your time?
 * Does it require you to be away during times when you’re needed at work?
 * Is it another paid gig that employs the same skills Basecamp is paying you for?
 
-In general we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
+In general, we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
 
 It’s hard to come up with one-size fits all rules. If you’re in doubt, please reach out to Jason or David. We’re always happy to spare a moment to give our thoughts on it before you make a commitment.
