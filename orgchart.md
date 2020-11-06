@@ -68,11 +68,11 @@ Basecamp 3 was the first version of Basecamp that launched with two complete, aw
 
 #### Research & Fidelity (RF)
 
-Our [rich text editor Trix](https://trix-editor.org) and our [front-end framework Turbolinks](https://github.com/turbolinks/turbolinks) were both born from RF. They work on deep research projects like those two, but also on all manners of UI fidelity in general. That means a lot of JavaScript, but also integrating that with our Ruby and native code. **Javan Makhmali** is the team lead and works with Sam Stephenson and Nabeelah Ali.
+Our [rich text editor Trix](https://trix-editor.org) and our [front-end framework Turbolinks](https://github.com/turbolinks/turbolinks) were both born from RF. They work on deep research projects like those two, but also on all manners of UI fidelity in general. That means a lot of JavaScript, but also integrating that with our Ruby and native code. **Javan Makhmali** is the team lead and works with Sam Stephenson.
 
 #### Security, Infrastructure & Performance (SIP)
 
-SIP is our instant-response team whenever something goes wrong, is about to go wrong, or is expected soon to go wrong! Our galaxy defenders, if you will. They are the primary programming team working together with Operations to ensure that our applications are always safe, secure, and fast. **Jeremy Daer** is the team lead and works with George Claghorn, Jorge Manrubia, Miguel Fernández, and Rosa Gutiérrez.
+SIP is our instant-response team whenever something goes wrong, is about to go wrong, or is expected soon to go wrong! Our galaxy defenders, if you will. They are the primary programming team working together with Operations to ensure that our applications are always safe, secure, and fast. **Jeremy Daer** is the team lead and works with George Claghorn, Jorge Manrubia, and Rosa Gutiérrez.
 
 ### QA and Accessibility
 
