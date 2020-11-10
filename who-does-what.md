@@ -22,11 +22,13 @@ Right now we have one executive at Box Products.
 
 ### Design
 
-For now we're are outsourcing our Design. We've partnered with Ronnie Johnson and his team at [GoodFolks](goodfolks.com).
+The design team is currently overseen by **Jonathan Simmons**.
+
+- Lead Designer - David Link
 
 ### Programming
 
-The programming team is largely currently overseen by **Jonathan Simmons**.
+The programming team is currently overseen by **Jonathan Simmons**.
 
 - Programmer - Blake Prudhomme
 - Programmer - Jonathan Simmons
