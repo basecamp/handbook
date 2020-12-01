@@ -1,6 +1,6 @@
 # Benefits & Perks
 
-Since the majority of Basecamp employees work in the US, this section is written with that as the default. We do our best to provide comparable benefits and perks outside the US.
+Since the majority of Basecamp employees work in the US, this section is written with that as the default. We do our best to provide comparable benefits and perks for employees outside the US.
 
 # Benefits
 
