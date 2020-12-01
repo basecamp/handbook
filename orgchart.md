@@ -60,7 +60,7 @@ The programming group is led by **David Heinemeier Hansson** and consists of fou
 
 #### Core Product
 
-Core Product works on new features for Basecamp together with the product designers. They’re also responsible for the user-facing backend systems such as Queenbee, 37id, and the API. **Jeff Hardy** is the team lead and works with Kasper Timm Hansen, and Pratik Naik.
+Core Product works on new features for Basecamp together with the product designers. They’re also responsible for the user-facing backend systems such as Queenbee, 37id, and the API. **Jeff Hardy** is the team lead and works with Jamis Buck, Daniel Colson, Kasper Timm Hansen, and Pratik Naik.
 
 #### Mobile
 
@@ -88,11 +88,11 @@ The technical operations group is led by **Troy Toman** and consists of two team
 
 #### Datacenter
 
-Our Datacenter team is focused on keeping the applications that we run on our own equipment in Chicago, IL and Ashburn, VA in top shape. Basecamp 3 even runs out of both sites simultaneously! **Eron Nicholson** is the team lead and works with John Williams, and Matthew Vincent.
+Our Datacenter team is focused on keeping the applications that we run on our own equipment in Chicago, IL and Ashburn, VA in top shape. Basecamp 3 even runs out of both sites simultaneously! **Eron Nicholson** is the team lead and works with John Williams, Farah Schüller, Silvia Uberti, and Matthew Vincent.
 
 #### Cloud
 
-The Cloud team works on newer approaches to running our applications on Amazon Web Services and the Google Cloud Platform. They maintain our suite of legacy apps with an eye on the future. **Matthew Kent** is the lead here and works with Nathan Anderson and Blake Stoddard.
+The Cloud team works on newer approaches to running our applications on Amazon Web Services and the Google Cloud Platform. They maintain our suite of legacy apps with an eye on the future. **Matthew Kent** is the lead here and works with Fernando Álvarez, Nathan Anderson, and Blake Stoddard.
 
 ### Working Groups
 
