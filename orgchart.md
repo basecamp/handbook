@@ -84,15 +84,12 @@ Before we ship a new feature, **Michael Berger** is our resident bug squasher. H
 
 ### Technical Operations
 
-The technical operations group is led by **Troy Toman** and consists of two teams:
+The technical operations group is led by **Troy Toman** and consists of three focus areas.
+- On-prem operations and monitoring: **Eron Nicholson** with Silvia Uberti and Matthew Vincent
+- HEY and database operations: **Matt Kent** with Fernando Álvarez and Nathan Anderson 
+- Operational preparedness and resilience: **John Williams** with Farah Schüller and Blake Stoddard
 
-#### Datacenter
-
-Our Datacenter team is focused on keeping the applications that we run on our own equipment in Chicago, IL and Ashburn, VA in top shape. Basecamp 3 even runs out of both sites simultaneously! **Eron Nicholson** is the team lead and works with John Williams, Farah Schüller, Silvia Uberti, and Matthew Vincent.
-
-#### Cloud
-
-The Cloud team works on newer approaches to running our applications on Amazon Web Services and the Google Cloud Platform. They maintain our suite of legacy apps with an eye on the future. **Matthew Kent** is the lead here and works with Fernando Álvarez, Nathan Anderson, and Blake Stoddard.
+While these focus areas help the team coordinate day-to-day and focus their priorities, no one is limited to one area of work.
 
 ### Working Groups
 
