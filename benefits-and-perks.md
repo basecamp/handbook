@@ -1,6 +1,6 @@
 # Benefits & Perks
 
-Since the majority of Basecamp employees work in the US, this section is written with that as the default. Some benefits don't make sense in other countries, like private health insurance in other first-world countries with a well-functioning, national health care system. We will try our best to provide comparable benefits and perks outside the US as it makes sense, though.
+Since the majority of Basecamp employees work in the US, this section is written with that as the default. We do our best to provide comparable benefits and perks outside the US.
 
 # Benefits
 
@@ -12,10 +12,10 @@ Medical insurance is provided in the US via Blue Cross Blue Shield PPO. The comp
 
 Employee-portion of medical insurance premium per pay period
 
-* Employee-only medical coverage: $50.24
-* Employee-partner medical coverage: $109.54
-* Employee-child(ren) medical coverage: $121.53
-* Employee-family medical coverage: $180.83
+* Employee-only medical coverage: $57.60
+* Employee-partner medical coverage: $122.93
+* Employee-child(ren) medical coverage: $139.43
+* Employee-family medical coverage: $204.76
 
 ### Dental Insurance
 Dental insurance is provided in the US via MetLife. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally.
