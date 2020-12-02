@@ -44,7 +44,7 @@ Basecamp offers a $400,000 life insurance/AD+D policy to all employees through M
 
 ## Flexible Spending Account (FSA)
 
-The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $2,650/year.  There is a separate type of FSA for dependent care (child or elder care), and the max for that plan is $5,000/year. This is an entirely optional program; if you don't think you'll use it, you need not sign up. Open enrollment is in December every year, with new coverage beginning January 1.
+The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $2,750/year.  There is a separate type of FSA for dependent care (child or elder care), and the max for that plan is $5,000/year or $2,500/year if you split this with a partner. This is an entirely optional program; if you don't think you'll use it, you need not sign up. Open enrollment is in December every year, with new coverage beginning January 1.
 
 ## Paid Time Off
 
