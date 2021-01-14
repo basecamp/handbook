@@ -44,7 +44,7 @@ The design group is led by **Jonas Downey** and consists of four teams:
 
 #### Web/Desktop
 
-**Jonas Downey**, Scott Upton, and Jason Zimdars are responsible for any Basecamp product design on the web or the native desktop app.
+**Jonas Downey**, Tassia Pellegrini, Scott Upton, and Jason Zimdars are responsible for any Basecamp product design on the web or the native desktop app.
 
 #### Video/motion
 
