@@ -148,6 +148,10 @@ Every year, at the end of the year, Basecamp generally gives a thank-you gift to
 
 Since you work remotely, we want to make sure your home office is comfortable. You can expense up to $1,000 to furnish your home office, every three years.
 
+## Awair
+
+The air you breathe in your home affects your health, productivity, and overall quality of life. We offer every new employee at Basecamp an [Awair Element](https://www.getawair.com/home/element) to monitor your indoor air quality.
+
 ## Coworking Space Stipend
 
 Basecamp will pay up to $200/month for you to use towards renting coworking space in your city.  Please make sure you're using a true coworking space that's meant solely for working, not a club or social space.
