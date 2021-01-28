@@ -30,7 +30,7 @@ https://getsentry.com/
 
 ### Customer.IO
 
-All drip campaigns, welcome emails, and other email marketing campaigns for Basecamp 3 are run through Customer.IO. This allows the marketing team independently tweak and measure the campaigns.
+All drip campaigns, welcome emails, and other email marketing campaigns for Basecamp 3 are run through Customer.IO. This allows the marketing team to independently tweak and measure the campaigns.
 
 https://customer.io
 
