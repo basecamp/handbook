@@ -112,7 +112,7 @@ Employees are eligible for shares in the liquidity pool after two years of worki
 
 This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the liquidity pool if you resign or are terminated from Basecamp.
 
-## Basecamp Holiday Gift
+## Basecamp Year-end Gift
 
 At the end of every year, Basecamp gives a thank-you gift to employees. Beginning in 2021, this gift comes in the form of a cash bonus. The bonus is accompanied by a beautiful keepsake that contains ideas & inspiration for how to use your bonus, but ultimately how you spend it or save it is up to you. 
 
