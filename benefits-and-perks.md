@@ -58,6 +58,8 @@ We don't track sick days. If you're under the weather, take the time you need to
 
 Your outlets at Basecamp if you're feeling your mental or physical health is taking a toll on your work? So many to choose from! We have Carecamp, a project in Basecamp dedicated to discussing all aspects of self-care. You can go to your manager at any time or during one of your regular 1:1 meetings. You can go to Andrea at any time, who with your permission can work with your manager to help you. Additionally, your manager should check in with *you*, proactively, to periodically make sure you're doing okay.
 
+Basecamp also allows a **Day of Service**. You can take one day off every year to volunteer for a charitable or community organization of your choice. No need to use a vacation day or personal day!
+
 ## Personal Leave
 
 If you are under treatment or recovery for a serious medical condition and are unable to work for a week or more because of it, let us know and you can take four weeks off at 100% pay. If after that, you're still unable to work, Basecamp will continue to pay you 70% of your pay until you're better, up to twelve weeks off. These days are an emergency reserve, separate from your vacation/sick time described above. If after this period of time, you still cannot work, talk to your manager, Jason, David, or Andrea, and we will discuss what comes next on a case-by-case basis.
@@ -110,37 +112,9 @@ Employees are eligible for shares in the liquidity pool after two years of worki
 
 This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the liquidity pool if you resign or are terminated from Basecamp.
 
-# Perks
-
-## Fitness Allowance
-
-Basecamp will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it's not organized fitness, that's okay, too. You can use your stipend to pay for race registrations or even new outdoor running shoes. The only catch is that you can't "save up" your stipend. Sorry, but no saving 9 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote regular activity for you.
-
-## Wellness Allowance
-
-Every month, you can expense up to $100 towards a service or experience that enhances your overall mental well-being. For some people that might mean a monthly massage. For others, that could be alternative medical treatments like acupuncture or reiki. You could also use the stipend to defray your existing talk therapy co-pays, go on a wellness retreat, take a meditation class, attend a religiously-affiliated retreat, or book a service at a spa that is more relaxing *to you* than a massage like a pedicure or facial. Basecamp does not want to limit what is healing to you, so get creative with your self-care! If you have questions about what qualifies here, feel free to ping Andrea.
-
-## Community Supported Agriculture (CSA) Allowance
-
-Fresh, organic, local fruits and vegetables are great to have on-hand, so we'd also like to offer a CSA membership to you. Finding a local provider will be up to you, but you can expense the cost of a seasonal or annual CSA share as an employee benefit, up to $1,000/year. That stipend is prorated in your first year at Basecamp, depending on the month you start. If there aren't any CSA shares nearby, feel free to use your stipend on farmers market foods or even fresh fruit and veg at your favorite grocery store.
-
-## Continuing Education Allowance
-
-If you're interested in taking classes that you feel improve you professionally or personally, you have a $1,000 annual stipend to do so. This stipend is also prorated in your first year at Basecamp, depending on the month you start. Some people take classes directly related to their career, while some take photography lessons or learn a musical instrument. It's up to you; the point is to learn something that you feel enriches you as a person and employee.
-
-## Matching Charitable Gifts
-
-When you donate money to a 501(c)(3) charity (or its equivalent if you're outside of the United States), Basecamp will make a matching gift to that charity on your behalf. Basecamp will match up to $2,000 per year, per employee.  The first $500 you donate in a year, Basecamp will match 2-to-1. After that, Basecamp will match 1-to-1 for a total of $2000 in annual matches. For example, if you give $500 to NPR, Basecamp will donate $1000 as a matching gift. If you donate another $1000 to Children's Hospital, Basecamp will match that $1000, and you've reached your cap for the year. To have your donations matched, e-mail Navid directly with the donation receipt.
-
-This stipend is prorated in your first year at Basecamp, depending on the month you start.
-
-If you donate more than $2,000/year, you are officially awesome, but Basecamp will only match $2,000 of your awesomeness.
-
-Basecamp also allows a Day of Service. You can take one day off every year to volunteer for a charitable organization of your choice. No need to use a vacation day or personal day!
-
 ## Basecamp Holiday Gift
 
-Every year, at the end of the year, Basecamp generally gives a thank-you gift to the employees. Employees who have been at Basecamp for one year or less get one gift (last year: a "staycation" in their home towns), and longer tenured employees get a more elaborate gift (last year: a paid vacation). We switch up the delivery of these every year, so you're always in for a nice surprise.
+At the end of every year, Basecamp gives a thank-you gift to employees. Beginning in 2021, this gift comes in the form of a cash bonus. The bonus is accompanied by a beautiful keepsake that contains ideas & inspiration for how to use your bonus, but ultimately how you spend it or save it is up to you. 
 
 # Practical assistance
 
