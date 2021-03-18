@@ -1,8 +1,8 @@
-# Basecamp Code of Conduct
+# Hyko Code of Conduct
 
 ## Our Pledge
 
-In the interest of fostering an inclusive and safe workplace, Basecamp pledges to be a harassment- and discrimination-free space for everyone, regardless of age, disability, ethnicity, gender identity or expression, nationality, neurotype, personal appearance, political affiliation, professional background, race, religion, or sexual identity or orientation.
+In the interest of fostering an inclusive and safe workplace, Hyko pledges to be a harassment- and discrimination-free space for everyone, regardless of age, disability, ethnicity, gender identity or expression, nationality, neurotype, personal appearance, political affiliation, professional background, race, religion, or sexual identity or orientation.
 
 ## Our Standards
 
@@ -24,7 +24,7 @@ Examples of unacceptable behavior by employees include:
 Managers are responsible for upholding these standards. They will be clear and equitable when applying standards of acceptable behavior. They’re required to take appropriate and fair corrective action in response to any instances of unacceptable behavior. If you have questions about the standards above, talk to your manager or to Andrea.
 
 ## Scope
-This Code of Conduct applies both within Basecamp during work hours and in public spaces when you’re representing Basecamp. Examples of representing Basecamp in a public space include acting as a delegate at an online or offline event like a conference, posting on Basecamp branded social media, or participating in a Basecamp social event outside of work hours.
+This Code of Conduct applies both within Hyko during work hours and in public spaces when you’re representing Hyko. Examples of representing Hyko in a public space include acting as a delegate at an online or offline event like a conference, posting on Hyko branded social media, or participating in a Hyko social event outside of work hours.
 
 ## Enforcement
 If you notice someone acting inappropriately as described in the standards above, you can report it by contacting your manager or Andrea. Or you can complete a [complaint form](https://3.basecamp.com/2914079/buckets/34/documents/2006612007). You may choose to remain anonymous on the complaint form.

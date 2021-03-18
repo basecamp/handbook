@@ -2,7 +2,7 @@
 
 ## From home
 
-Most people at Basecamp work from home most of the time. You can spend up to $1,000 every three years outfitting your home office. Getting the basics right will make a big difference: a good chair and a good desk.
+Most people at Hyko work from home most of the time. 
 
 ## From coffee shops
 
@@ -10,4 +10,4 @@ Working from home all the time isn’t everyone’s cup of coffee. Thus, in the 
 
 ## From a coworking space
 
-If working from home or from a coffee shop doesn’t suit you, then trying a coworking space might just do the trick. Basecamp offers a $200/month stipend towards a desk in such a place.
+If working from home or from a coffee shop doesn’t suit you, then trying a coworking space might just do the trick. 
