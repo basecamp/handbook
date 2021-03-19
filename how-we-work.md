@@ -78,6 +78,8 @@ That means setting your own direction when one isn’t given. Determining what n
 
 ## Balanced
 
-We limit ourselves to a 40-hour (32-hour in the summer) work week. Keeping our hours at work limited forces us to prioritize the work that really matters. A healthy amount of sleep and a rich and rewarding life outside of work should not be squandered for a few more hours at work.
+We limit ourselves to a 35-hour work week. Keeping our hours at work limited forces us to prioritize the work that really matters. A healthy amount of sleep and a rich and rewarding life outside of work should not be squandered for a few more hours at work.
 
 There are occasions where teams or individuals need to work off-hours for on-call, maintenance or emergencies. This time should not be in addition to your normal working hours. Use your discretion to take time off to make up for the additional hours you put in during the week.
+
+We'll revisit the idea of a 30-hour work weeks in the summer when we're out of "getting Hyko to sustainability" mode.
