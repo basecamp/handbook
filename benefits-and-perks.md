@@ -18,7 +18,7 @@ Your outlets at Hyko if you're feeling your mental or physical health is taking 
 
 ## Summer Hours
 
-Once Hyko becomes a sustainable business, we'll revisit the idea of 4-day work weeks in the summer.
+Once Hyko becomes a sustainable business, we'll revisit the idea of 4-day work weeks in the summer
 
 ## Employee Profit Sharing
 
