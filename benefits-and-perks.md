@@ -12,6 +12,8 @@ There is no need to track your time off.
 
 In addition to standard time-off, every *three* years employees are encouraged take a 30-day paid sabbatical. Just give a heads-up preferably three months in advance so we can coordinate the work-load accordingly.
 
+## Personal Leave
+
 We don't track sick days. If you're under the weather, take the time you need to feel better within reason. Hyko recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health day every now and again when you're feeling overwhelmed or mentally fatigued. If a day or two won't cut it, we'll work with you to find a way to reduce the burden of your work at Hyko on your overall mental health. We really do want your work at Hyko to be the best work you do in your life, and we appreciate that that's not possible if you're uncertain about your health.
 
 Your outlets at Hyko if you're feeling your mental or physical health is taking a toll on your work? Talk to Naz!
@@ -32,4 +34,4 @@ If the founders are the only people at the company, shares will be evenly divide
 
 For the purposes of equity, both founders (Charlie and Naz) officially started at Hyko on 1st December 2020.
 
-This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the liquidity pool if you resign or are terminated from Hyko as a "bad leaver".
+This arrangement does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the liquidity pool if you resign or are terminated from Hyko as a "bad leaver".
