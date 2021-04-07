@@ -34,9 +34,9 @@ Our data analyst is **Jane Yang**. She is responsible for testing and analyzing 
 
 The design group is led by **Jonas Downey** and consists of four teams:
 
-#### Marketing
+#### Brand & Experience
 
-**Adam Stoddard** is our lead marketing designer, and the only person on this team. He’s responsible for all design on basecamp.com, rework.fm, and any other public-facing web properties like the Basecamp help sites, etc. He’ll also occasionally work on physical products (book covers, merch design, etc).
+While our product design teams are focused on our apps, the Brand & Experience team is responsible for everything else; designing/developing/copywriting our public-facing websites, branding, merch, books, collateral, illustration, animation, UI explorations, prototyping, etc. **Adam Stoddard** is the only person this team.
 
 #### Mobile
 
