@@ -68,7 +68,7 @@ Basecamp 3 was the first version of Basecamp that launched with two complete, aw
 
 #### Research & Fidelity (RF)
 
-Our [rich text editor Trix](https://trix-editor.org) and our [front-end framework Turbolinks](https://github.com/turbolinks/turbolinks) were both born from RF. They work on deep research projects like those two, but also on all manners of UI fidelity in general. That means a lot of JavaScript, but also integrating that with our Ruby and native code. **Javan Makhmali** is the team lead and works with Sam Stephenson.
+Our [rich text editor Trix](https://trix-editor.org) and our [front-end framework Hotwire](https://hotwire.dev) were both born from RF. They work on deep research projects like those two, but also on all manners of UI fidelity in general. That means a lot of JavaScript, but also integrating that with our Ruby and native code. **Javan Makhmali** is the team lead and works with Sam Stephenson.
 
 #### Security, Infrastructure & Performance (SIP)
 
