@@ -4,7 +4,7 @@ Everyone working at Basecamp represents Basecamp. When a customer gets a respons
 
 That’s what we mean when we say marketing is everyone’s responsibility, and that it pays to spend the time to recognize that. This means avoiding the [bullshit of outage language](https://signalvnoise.com/posts/1528-the-bullshit-of-outage-language) and [bending our policies, not just lending your ears](https://signalvnoise.com/posts/3513-when-empathy-becomes-insulting). It means taking the time to get the writing right and consider how you’d feel if you were on the other side of the interaction.
 
-It also means that you’re strongly encouraged to help share your thoughts, experiences, and learnings on [Signal v Noise](https://m.signalvnoise.com), our blog. The vast majority of our customers come from word of mouth and much of that word comes from people in our audience. This is an audience we’ve been educating and entertaining for 20 years and counting, and your voice is part of us now, whether you like it or not! Tell us and our audience what you have to say!
+The vast majority of our customers come from word of mouth and much of that word comes from people in our audience. This is an audience we’ve been educating and entertaining for 20 years and counting, and your voice is part of us now, whether you like it or not! Tell us and our audience what you have to say!
 
 This goes for tools and techniques as much as it goes for prose. Basecamp not only tries to out-teach the competition, but also out-share and out-collaborate. We’re prolific open source contributors through Ruby on Rails, Trix, Turbolinks, Stimulus, and many other projects. Extracting the common infrastructure that others could use as well is satisfying, important work, and we should continue to do that.
 
