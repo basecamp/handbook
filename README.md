@@ -19,7 +19,6 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [What Influenced Us](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
 * [Vocabulary](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
 * [Product Histories](https://github.com/basecamp/handbook/blob/master/product-histories.md)
-* [Who Does What?](https://github.com/basecamp/handbook/blob/master/orgchart.md)
 * [Where We Work](https://github.com/basecamp/handbook/blob/master/where-we-work.md)
 * [Benefits & Perks](https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md)
 * [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md)
