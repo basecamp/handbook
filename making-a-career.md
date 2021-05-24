@@ -1,8 +1,5 @@
-# Making a Career
 
-The average tenure of employees working at many technology companies today is shockingly low. At both Amazon and Google, it’s [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Basecamp, it’s over five years as of 2019. That’s something to be proud of and something to ensure endures. When you work at Basecamp, it should absolutely be feasible to think about this as the place for making a life-long career.
-
-## Mastery & Titles
+# Mastery & Titles
 
 Advancing your career at Basecamp doesn’t mean giving up on your craft. Whether you work in programming, design, ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important since we’re a relatively small company with just two layers of managerial cake: executives and team managers. And both the [executives and managers](https://github.com/basecamp/handbook/blob/master/managers.md#executive-manager-and-individual-responsibilities) still spend the majority of their time doing actual product work!
 
@@ -22,7 +19,7 @@ Day to day, though, these titles aren’t really much of a factor. But they do g
 
 You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md), [Data](https://github.com/basecamp/handbook/blob/master/titles-for-data.md).
 
-## Pay & Promotions
+# Pay & Promotions
 
 Basecamp pays at the top 10% for our industry at San Francisco salary levels, regardless of where an employee lives. The comparison data is provided by a company called Radford that polls compensation data from all the major companies in our industry and plenty of our smaller peers as well. Because we don’t pay bonuses, we match our base compensation to the base + bonus of our peer group. 
 
@@ -36,7 +33,7 @@ Everyone in the same role at the same level is paid the same at Basecamp.
 
 When someone gets a promotion, that goes from one level to the next, they’ll get a corresponding pay raise effective on their next pay cycle.
 
-## Performance Feedback
+# Performance Feedback
 
 At least once a year, employees meet with their manager for a formal performance check-in. It’s up to each manager to determine how best to approach that meeting, but we ask that whatever process they use, they use the same process for every team member. Managers should have a conversation with teammates about:
 - daily work content and load
@@ -46,5 +43,5 @@ At least once a year, employees meet with their manager for a formal performance
 
 This is a two-way street! Employees should be offering thoughts on these topics, and managers should be giving feedback about employee performance in these areas. Managers document performance reviews along with any action items with deadlines that come out of the meeting. The timing and cadence of performance reviews is up to each individual manager with input from People Ops.
 
-### Performance Plans
+## Performance Plans
 If an employee's feedback relationship with their manager and team is where it should be, nothing too surprising should be coming out of performance reviews. Managers should be addressing performance successes and problems in the moment, throughout the year, not waiting for a formal opportunity. If some unforeseen negative feedback does come out, managers could decide to initiate our formal [performance plan process](https://github.com/basecamp/handbook/blob/master/performance-plans.md#performance-plan-process).
