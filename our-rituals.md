@@ -25,10 +25,3 @@ One of the sessions that we do schedule every meet-up is the recognition celebra
 
 ## Everyone On Support (EOS)
 Once every month or two, everyone in the company is called upon to do a Support shift. We call it Everyone on Support (EOS). Talking directly to customers all day helps us realize what’s wrong, what’s right, and what’s utterly confusing about Basecamp. For the first few times you do EOS, you’ll have a Support buddy to help you write clear and correct answers to customer questions through Help Scout, our support response tool, but then you’re on your own! But don’t worry - Team OMG is always there to help you out.
-
-## 5x12s
-Every month, Navid randomly selects 5 people to chat on a call with Jason and David. The call has no agenda nor is there any preparation needed (besides putting on pants — please put on pants). The participants join a Google Hangout and chat about anything other than work.
-
-Some interesting topics that have been covered in the past: Jamie’s $1,000 toilet, Wailin’s Ted Cruz sighting, and petty juvenile delinquency stories from an alarming number of employees. 5x12s happen on the first Wednesday of every month at 10AM Chicago time. Navid transcribes the call and posts the transcription in Basecamp for everyone to read afterwards.
-
-We have a strict policy of not sharing anything that’s said in a 5x12 in a public forum, so you can talk freely. These calls are supposed to be fun, so please try to have a good time with them!
