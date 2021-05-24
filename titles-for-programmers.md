@@ -38,8 +38,6 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Capable of executing projects across multiple domains (say, native app that needs API backend).
 * Usually at least 8-12 years of experience being a professional programmer in the specific domain.
 
-_Examples: Javan, Pratik_
-
 ## Principal Programmer
 
 * Can set and direct an entire department, like SIP, Core Product, or Research & Fidelity.
@@ -48,5 +46,3 @@ _Examples: Javan, Pratik_
 * Recognized widely in the industry for material contributions to the state of the art.
 * Invents new concepts, pushes the whole organization forward regularly.
 * Usually at least 12-15+ years of experience being a professional programmer in the specific domain.
-
-_Examples: Jeremy, Sam, Jeff_
