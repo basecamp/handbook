@@ -1,42 +1,26 @@
-# Benefits & Perks
-
-Since the majority of Basecamp employees work in the US, this section is written with that as the default. We do our best to provide comparable benefits and perks for employees outside the US.
-
 # Benefits
 
 ## Health Insurance
 
 ### Medical Insurance
 
-Medical insurance is provided in the US via Blue Cross Blue Shield PPO. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally.
+Medical insurance is provided in the US via Blue Cross Blue Shield PPO. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally. 
 
-Employee-portion of medical insurance premium per pay period
+Each pay period, you'll see a payroll deduction for medical insurance:
 
 * Employee-only medical coverage: $57.60
 * Employee-partner medical coverage: $122.93
 * Employee-child(ren) medical coverage: $139.43
 * Employee-family medical coverage: $204.76
 
+If you're based outside of the US and pay for private health insurance, you can request reimbusement of 75% of your insurance payments. That expense is capped at the amount Basecamp pays per employee on the US employee group plan. Ping Andrea for details.
+
 ### Dental Insurance
-Dental insurance is provided in the US via MetLife. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally.
-
-Employee-portion of dental insurance premium per pay period
-
-* Employee-only dental coverage: $5.00
-* Employee-partner dental coverage: $10.20
-* Employee-child(ren) dental coverage: $14.97
-* Employee-family dental coverage: $18.46
+Dental insurance is provided in the US via MetLife. The company pays 100% of the premium. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally.
 
 ### Vision Insurance
 
-Vision insurance is provided in the US via MetLife. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally.
-
-Employee-portion of vision insurance premium per pay period.
-
-* Employee-only vision coverage: $1.01
-* Employee-partner vision coverage: $2.03
-* Employee-child(ren) vision coverage: $1.71
-* Employee-family vision coverage: $2.83
+Vision insurance is provided in the US via MetLife. The company pays 100% of the premium. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally.
 
 ### Life Insurance
 
