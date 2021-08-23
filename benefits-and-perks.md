@@ -104,7 +104,7 @@ At the end of every year, Basecamp gives a thank-you gift to employees. Beginnin
 
 ## Home Office Set-up
 
-Since you work remotely, we want to make sure your home office is comfortable. You can expense up to $1,000 to furnish your home office, every three years.
+Since you work remotely, we want to make sure your home office is comfortable. You can expense up to $1,000 to furnish your home office, every three years. During your first year at Basecamp, you can expense up to $2,000.
 
 ## Awair
 
