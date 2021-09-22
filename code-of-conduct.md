@@ -27,7 +27,7 @@ Managers are responsible for upholding these standards. They will be clear and e
 This Code of Conduct applies both within Basecamp during work hours and in public spaces when you’re representing Basecamp. Examples of representing Basecamp in a public space include acting as a delegate at an online or offline event like a conference, posting on Basecamp branded social media, or participating in a Basecamp social event outside of work hours.
 
 ## Enforcement
-If you notice someone acting inappropriately as described in the standards above, you can report it by contacting your manager or Andrea. Or you can complete a [complaint form](https://3.basecamp.com/2914079/buckets/34/documents/2006612007). You may choose to remain anonymous on the complaint form.
+If you notice someone acting inappropriately as described in the standards above, you can report it by contacting your manager or Andrea. Or you can complete a [complaint form](https://3.basecamp.com/2914079/buckets/22311406/documents/4177996672). You may choose to remain anonymous on the complaint form.
 
 All complaints will be reviewed and investigated and will result in a response that is appropriate to the circumstances. Managers are required maintain your confidentiality however you choose to report an incident.
 
