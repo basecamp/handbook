@@ -1,6 +1,6 @@
 # Performance Improvement Plan Process
 
-We don’t want any of our employees to feel unclear on where they stand, should they find themselves in need of improving their performance. So below are the steps take at Basecamp when your manager identifies a problem with your performance that must be addressed with a performance improvement plan (PIP).
+We don’t want any of our employees to feel unclear on where they stand, should they find themselves in need of improving their performance. So below are the steps taken at Basecamp when your manager identifies a problem with your performance that must be addressed with a performance improvement plan (PIP).
 
 ## Identify and Document
 Your manager will identify a productivity or disciplinary problem as soon as possible after it occurs if it’s a specific incident, or as soon as they can when they sense a general problem with your ongoing performance. Your semiannual reviews may be helpful in identifying a problem, but managers shouldn’t wait for those reviews to raise a problem with you.
