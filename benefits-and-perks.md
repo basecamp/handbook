@@ -32,7 +32,7 @@ The FSA is an account where you can set aside pre-tax money for out-of-pocket me
 
 ## Paid Time Off
 
-Basecamp offers 18 days of paid time off plus 10 local national holidays every year. We ask that you [track your time off](https://3.basecamp.com/2914079/buckets/34/messages/2365502915) so we can properly compensate you for unused time, but the company doesn't monitor that tracking. We do ask that you check with your team before taking any extended absence, so they’re not left in the lurch. Your vacation time is prorated your first year working at Basecamp. If you start mid-year, you should take about 9 days off.
+Basecamp offers 18 days of paid time off plus 10 local national holidays every year. We ask that you [track your time off](https://3.basecamp.com/2914079/projects/14971171) so we can properly compensate you for unused time, but the company doesn't monitor that tracking. We do ask that you check with your team before taking any extended absence, so they’re not left in the lurch. Your vacation time is prorated your first year working at Basecamp. If you start mid-year, you should take about 9 days off.
 
 In addition to annual PTO and holidays, every *three* years employees are encouraged take a 30-day paid sabbatical. Just give a heads-up preferably three months in advance so we can coordinate the work-load accordingly.
 
