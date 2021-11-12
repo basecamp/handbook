@@ -8,10 +8,10 @@ Medical insurance is provided in the US via Blue Cross Blue Shield PPO. The comp
 
 Each pay period, you'll see a payroll deduction for medical insurance:
 
-* Employee-only medical coverage: $57.60
-* Employee-partner medical coverage: $122.93
-* Employee-child(ren) medical coverage: $139.43
-* Employee-family medical coverage: $204.76
+* Employee-only medical coverage: $60.90
+* Employee-partner medical coverage: $128.46
+* Employee-child(ren) medical coverage: $145.14
+* Employee-family medical coverage: $212.70
 
 If you're based outside of the US and pay for private health insurance, you can request reimbusement for 75% of your insurance payments. That expense is capped at the amount Basecamp pays per employee on the US employee group plan. Ping Andrea for details.
 
@@ -116,10 +116,12 @@ Basecamp will pay up to $200/month for you to use towards renting coworking spac
 
 ## Expense Account
 
-If you work in the US, you should carry a Basecamp American Express card in your name. You can use the card for any work-related expenses, such as travel, software, or office supplies. If you have any doubts about whether or not to expense something, just ask. We require a receipt for all expenses of $50 or more. When you do buy something with the card, get a receipt! Take a photo of that receipt, and upload the receipt and then tag your expense in [Expensify](https://www.expensify.com). If you can’t use the AmEx and have to use a personal card, send the receipt directly to Navid for reimbursement.
+If you work in the US, you should carry a Basecamp American Express card in your name. You can use the card for any work-related expenses, such as travel, software, or office supplies. If you have any doubts about whether or not to expense something, just ask. We require a receipt for all expenses of $50 or more. When you do buy something with the card, get a receipt! Take a photo of that receipt, and upload the receipt and then tag your expense in [Expensify](https://www.expensify.com).
 
-Basecamp has no expense policy. We trust our employees to spend money wisely. If you’re booking a flight, you don’t need to buy the cheapest, 2-layover redeye; buy the convenient, well-priced seat. If you’re attending a conference on behalf of Basecamp, sure, Basecamp will buy your meals. Just try to stay away from caviar and champagne at dinner (okay, maybe once if you have a great day to celebrate).
+If you work outside the US, the same expense policy applies, but you'll be unable to carry a Basecamp American Express card. Instead, you'll use [Expensify](https://www.expensify.com) to manually log any expenses you incur. Andrea will be notified of your expense and will initiate a bank transfer within Expensify for your reimbursement. 
 
-Speaking of conferences -- try to limit your attendance at professional conferences to once a year. Don't extend your hotel stay too far to either side of the conference schedule; you should be traveling specifically to attend the conf. Our conference budget guidelines mirror our mini meet-up budget guidelines; you can find those in [Basecamp](https://3.basecamp.com/2914079/buckets/34/messages/1400415368)!
+Overall, we trust our employees to spend money wisely. If you’re booking a meet-up flight, you don’t need to buy the cheapest, 2-layover redeye; buy the convenient, well-priced seat. If you’re attending a conference on behalf of Basecamp, we'll buy your meals. Just try to stay away from caviar and champagne at dinner (okay, maybe once if you have a great day to celebrate).
+
+Speaking of conferences – try to limit your attendance at professional conferences to once a year. Don't extend your hotel stay too far to either side of the conference schedule; you should be traveling specifically to attend the conf. Our conference budget guidelines mirror our mini meet-up budget guidelines; you can find those in [Basecamp](https://3.basecamp.com/2914079/buckets/22311406/documents/4347682694)!
 
 If you ever have questions about conference travel or need guidance about what “spend it wisely” means, just ask!
