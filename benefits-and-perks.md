@@ -66,7 +66,7 @@ You can take ten days of bereavement leave for the death of a spouse or partner,
 Basecamp's EAP is through ComPsych, and it provides a *confidential* avenue for you to get assistance with issues regarding health, family, legal, financial, wellness or other personal matters. When you call or email ComPsych, you'll be connected to a certified representative who can help you one-on-one at that time, or who can refer you to someone in your area for longer-term help. Services range from immediate or crisis mental health care to phone-help on your 401k investments to a referral to a lawyer in your area to help with your estate planning. Because we use the EAP, you also receive discounts on those referrals to professionals.
 
 ## Pet Insurance
-For your fur babies! Basecamp doesn't contribute to this plan at all, but everyone gets a 10% discount on this insurance you might otherwise buy. There are no set rates, and you can visit Basecamp's portal on (Figo's website) [https://figopetinsurance.com] to get your quote and sign up. There's no open enrollment period to sign up for pet insurance.
+For your fur babies! Basecamp doesn't contribute to this plan at all, but everyone gets a 10% discount on this insurance you might otherwise buy. There are no set rates, and you can visit Basecamp's portal on [Figo's website](https://figopetinsurance.com) to get your quote and sign up. There's no open enrollment period to sign up for pet insurance.
 
 ## Employee Profit Sharing
 Basecamp shares 10% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, usually around March (e.g. 2021 profits distributed in March 2022). 
