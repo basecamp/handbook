@@ -75,14 +75,14 @@ You're eligible to participate in profit sharing after two years of working at B
 
 We ask that you think of any compensation from this program as not something to be counted upon, not something to be budgeted with, but as a true bonus. Year to year, profits and therefore the amount we're able to share with employees may swing wildly or not be paid out at all.
 
-This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the profit sharing program if you resign or are terminated from Basecamp.
+This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the profit sharing program if you resign or are terminated from Basecamp before the distribution date.
 
 ## Employee Liquidity Pool
 There are no plans to sell Basecamp or take the company public! But, in the slight chance of that happening, employees may be eligible to receive a portion of 10% of the value of the company if Basecamp is sold or made public. That 10% would be divided into shares, and shares distributed amongst employees based on their tenure at the time of the sale/offering. 
 
 Employees are eligible for shares in the liquidity pool after two years of working at Basecamp. You'll accrue one share per month starting on your second anniversary, and you max out your shares after 10 years. We calculate shares based on months of tenure so there’s no unfair cliff between being hired in December vs January.
 
-This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the liquidity pool if you resign or are terminated from Basecamp.
+This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the liquidity pool if you resign or are terminated from Basecamp before the distribution date.
 
 ## Year-end Gift
 At the end of every year, Basecamp gives a thank-you gift to employees. Beginning in 2021, this gift comes in the form of a cash bonus. The bonus is accompanied by a beautiful keepsake that contains ideas & inspiration for how to use your bonus, but ultimately how you spend it or save it is up to you. 
