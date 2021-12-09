@@ -1,4 +1,6 @@
-# Your First 90 Days
+# Making A Career
+
+## Your First 90 Days
 
 Congratulations! You're a Basecamper! 
 
@@ -8,7 +10,7 @@ When you start, you'll receive an outline of expected performance metrics for yo
 
 We hope, and fully expect, that your first 90 days will confirm what we learned in the hiring phase – you're well suited for this job, this team, and you're invigorated by the work to be done. Just put in your best effort, make sure you reach out if things aren't feeling right, embrace the feedback you get from your manager, and openly share your feedback with them! 
 
-# Mastery & Titles
+## Mastery & Titles
 
 Advancing your career at Basecamp doesn’t mean giving up on your craft. Whether you work in programming, design, ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important since we’re a relatively small company with just two layers of managerial cake: executives and team managers. And both the [executives and managers](https://github.com/basecamp/handbook/blob/master/managers.md#executive-manager-and-individual-responsibilities) still spend the majority of their time doing technical work.
 
@@ -28,7 +30,7 @@ Day to day, though, these titles aren’t really much of a factor. But they do g
 
 You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md), [Data](https://github.com/basecamp/handbook/blob/master/titles-for-data.md).
 
-# Pay & Promotions
+## Pay & Promotions
 
 Basecamp pays at the top 10% for our industry at San Francisco salary levels, regardless of where you live. The comparison data is provided by a company called Radford that polls compensation data from all the major companies in our industry and plenty of our smaller peers as well. Because we don’t pay bonuses, we match our base compensation to the base + bonus of our peer group. 
 
@@ -42,7 +44,7 @@ Everyone in the same role at the same level is paid the same at Basecamp.
 
 When you get a promotion, that is you move from one level to another, you'll get a corresponding pay raise effective on your next pay cycle.
 
-# Performance Feedback
+## Performance Reviews
 
 At least once a year, you'll meet with your manager for a formal performance check-in. It’s up to each manager to determine how best to approach that meeting, but we ask that whatever process they use, they use the same process for every team member. Your manager should have a conversation with you about:
 - daily work content and load
@@ -52,5 +54,5 @@ At least once a year, you'll meet with your manager for a formal performance che
 
 Managers document performance reviews along with any action items with deadlines that come out of the meeting. The timing and cadence of performance reviews is up to each individual manager.
 
-## Performance Plans
+## Performance Improvement Plans
 If your work performance is not meeting expectations, you may be put on a Performance Improvement Plan (PIP). We only initiate PIPs if your manager's concern is correctable in the short term. We do not initiate PIPs for fundamental performance issues that relate to your core job skills. If you're a Programmer whose coding skills are not at the level they need to be, we'd forego a PIP. However we may initiate a PIP to help you improve your performance in a coachable skill like project management. In those cases, we'll follow our [performance plan process](https://github.com/basecamp/handbook/blob/master/performance-plans.md#performance-plan-process).
