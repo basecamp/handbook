@@ -1,38 +1,34 @@
 # Basecamp Code of Conduct
 
-## Our Pledge
+Basecamp pledges to be a company with a healthy and friendly work environment. What follows is a set of guidelines on how we get there.
 
-In the interest of fostering an inclusive and safe workplace, Basecamp pledges to be a harassment- and discrimination-free space for everyone, regardless of age, disability, ethnicity, gender identity or expression, nationality, neurotype, personal appearance, political affiliation, professional background, race, religion, or sexual identity or orientation.
+Behavior that contributes to a healthy and friendly work environment:
+- Using courteous language.
+- Being respectful and empathetic, especially when it comes to differing viewpoints and experiences.
+- Gracefully accepting constructive criticism and direct feedback, as well as offering it in that spirit.
+- Assuming good intentions. Approaching work relationships with a default of trust and positivity.
 
-## Our Standards
+Unacceptable behavior:
+- The use of any sexualized language or imagery.
+- The use of any violent language or imagery.
+- Making unwelcome sexual advances or giving unwanted sexual attention.
+- Any form of discrimination and harassment. Particularly on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, age, disability, marital status, citizenship, national origin, genetic information, or any other characteristic protected by law. 
 
-Examples of behavior that contributes to creating a healthy environment include:
+These expectations apply to all current employees. Unacceptable employee conduct will not be tolerated virtually (e.g. in Basecamp, Github) or at in-person events.
 
-- Using welcoming and inclusive language
-- Being respectful and empathetic when it comes to differing viewpoints and experiences
-- Gracefully accepting and offering constructive criticism and feedback
+## Reporting
+If you experience or witness something that violates our Code of Conduct, please report it to your manager or to leadership via email or chat. All reports will be reviewed and investigated, and your confidentiality will be as protected as possible during the investigation.
 
-Examples of unacceptable behavior by employees include:
+If an employee is found to have violated our Code of Conduct, it will be permanently documented in their personnel file. Depending on the severity of the offense and the findings of the investigation, additional responses may include mandatory training, a formal reprimand, or even termination. The reactive measures taken will be shared with the reporting employee when possible.
 
-- The use of any sexualized language or imagery and unwelcome sexual attention or advances
-- Insulting or derogatory comments
-- Discriminating on the basis of age, disability, ethnicity, gender identity or expression, nationality, neurotype, personal appearance, political affiliation, professional background, race, religion, or sexual identity or orientation.
-- Public or private harassment
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+In extreme circumstances, you can [report an incident anonymously](https://3.basecamp.com/2914079/buckets/22311406/documents/4177996672). Anonymous complaints should be reserved for incidents in which you fear for your safety.
 
-## Our Responsibilities
-Managers are responsible for upholding these standards. They will be clear and equitable when applying standards of acceptable behavior. They’re required to take appropriate and fair corrective action in response to any instances of unacceptable behavior. If you have questions about the standards above, talk to your manager or to Andrea.
+An important note: Most interpersonal conflicts do not rise to the level of a Code of Conduct report. If you find a colleague rude or difficult to work with, you should address that with your manager or better yet with that colleague directly. Code of Conduct reports are reserved for the kind of unacceptable behavior outlined above and other serious transgressions – illegal or egregiously unethical behavior. 
 
-## Scope
-This Code of Conduct applies both within Basecamp during work hours and in public spaces when you’re representing Basecamp. Examples of representing Basecamp in a public space include acting as a delegate at an online or offline event like a conference, posting on Basecamp branded social media, or participating in a Basecamp social event outside of work hours.
+## Some Definitions & Resources
+- [Discrimination](https://www.eeoc.gov/discrimination-type) 
+- [Harassment](https://www.eeoc.gov/harassment)
+- [Sexual Harassment](https://www.eeoc.gov/sexual-harassment)
+- [Retaliation](https://www.eeoc.gov/retaliation)
 
-## Enforcement
-If you notice someone acting inappropriately as described in the standards above, you can report it by contacting your manager or Andrea. Or you can complete a [complaint form](https://3.basecamp.com/2914079/buckets/22311406/documents/4177996672). You may choose to remain anonymous on the complaint form.
-
-All complaints will be reviewed and investigated and will result in a response that is appropriate to the circumstances. Managers are required maintain your confidentiality however you choose to report an incident.
-
-After your complaint has been reviewed, investigated, and responded to, Andrea or your manager will inform you of the steps being taken to address the original issue and any disciplinary outcomes.
-
-In addition, all valid complaints about employees will be documented in a permanent file, along with related investigation processes and disciplinary outcomes. Repeated complaints about one employee will result in escalating disciplinary measures, up to and including termination.
-
-Managers who do not follow or enforce the Code of Conduct in good faith will be subject to corrective action as well.
+Basecamp's Code of Conduct is not meant to be a replacement for your EEO rights. You can pursue charges through Basecamp channels and through EEOC channels simultaneously. Visit the [EEOC website](https://www.eeoc.gov/how-file-charge-employment-discrimination) for more information about your employee rights.
