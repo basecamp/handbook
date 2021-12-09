@@ -1,5 +1,7 @@
 # Performance Improvement Plan Process
 
+If your work performance is not meeting expectations, you may be put on a Performance Improvement Plan (PIP). We only initiate PIPs if your manager's concern is correctable in the short term. We do not usually initiate PIPs for fundamental performance issues that relate to your core job skills. 
+
 Below are the steps your manager will take at Basecamp when they identify a problem with your performance that must be addressed with a performance improvement plan (PIP).
 
 ## Identify and Document
