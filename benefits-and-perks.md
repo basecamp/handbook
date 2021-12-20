@@ -38,7 +38,9 @@ Basecamp offers 18 days of paid time off plus [11 local holidays](https://3.base
 In addition to annual PTO and holidays, every *three* years employees may take a 30-day paid sabbatical. Give your team a heads-up preferably three months in advance so they can coordinate. If you're terminated or resign from Basecamp with an unused sabbatical, Basecamp will pay you the monetary equivalent of those unused days only if your unused sabbatical was earned within the previous 12 months.
 
 ### Sick Time
-We don't offer a bank of sick days nor do we track your sick days. However if you're away from work due to illness or injury for more than 1 work week, you'll transition from sick time to Personal Leave. Basecamp does not pay out for unused sick time upon resignation or termination, since we have no sick time bank.
+We don't offer a bank of sick days nor do we ask you to track your sick days. However if you're unexpectedly away from work due to illness or injury for more than 5 consecutive work days, you'll transition from sick time to Personal Leave. Basecamp does not pay out for unused sick time upon resignation or termination, since we have no sick time bank.
+
+Your manager will check in with you if you're consistently taking 3+ unplanned sick days per month. Excessive use of sick time may result in disciplinary measures. If you have a medical condition you know will take you away from work regularly, please work with your manager for accommodations. 
 
 ### Personal Leave
 If you are unable to work for more than 1 week because of illness or injury, let your manager know as soon as you can. You can take four weeks off at 100% pay. If after 4 weeks, you're still unable to work, Basecamp will pay you 70% for an additional 8 weeks. Your medical insurance will remain in force throughout your Leave. If after 12 weeks, you still cannot work, talk to your manager, and we will discuss what comes next on a case-by-case basis. You may be asked to provide medical documentation to support your request for Personal Leave. 
