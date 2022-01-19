@@ -11,7 +11,7 @@ Each pay period, you'll see a payroll deduction for medical insurance:
 * Employee-child(ren) medical coverage: $145.14
 * Employee-family medical coverage: $212.70
 
-If you're based outside of the US and pay for private health insurance, you can request reimbusement for 75% of your insurance payments. That expense is capped at the amount Basecamp pays per employee on the US employee group plan. Ping Andrea for details.
+If you're based outside of the US and pay for private health insurance, you can request reimbursement for 75% of your insurance payments. That expense is capped at the amount Basecamp pays per employee on the US employee group plan. Ping Andrea for details.
 
 ### Dental Insurance
 Dental insurance is provided in the US via MetLife. The company pays 100% of the premium. Open enrollment is in November every year, with new coverage beginning December 1.  Marriages and domestic partnerships are covered equally.
