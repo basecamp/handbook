@@ -1,4 +1,4 @@
-# Benefits
+# Benefits & Perks
 
 ## Health Insurance
 
@@ -61,7 +61,7 @@ If you are unable to work for more than 1 week because of illness or injury, let
 
 We work 4-day work weeks from May 1 through August 31 every year. An employee who has just been hired may have to complete a training program per their team lead to be eligible. When a holiday occurs during summer hours, you can take the holiday off *or* your normal summer day off. Any additional days off would count as vacation days.
 
-### Day Of Service
+### Day of Service
 
 Basecamp also allows a Day of Service. You can take one day off every year to volunteer for a charitable or community organization of your choice. No need to use a vacation day or personal day, just let your team know you’ll be out. Basecamp does not pay out for unused Days of Service if you resign or are terminated from Basecamp.
 
