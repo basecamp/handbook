@@ -16,7 +16,7 @@ Unacceptable behavior:
 - Making unwelcome sexual advances or giving unwanted sexual attention.
 - Any form of discrimination and harassment. Particularly on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, age, disability, marital status, citizenship, national origin, genetic information, or any other characteristic protected by law.
 
-These expectations apply to all current employees. Unacceptable employee conduct will not be tolerated virtually (e.g. in Basecamp, Github) or at in-person events.
+These expectations apply to all current employees. Unacceptable employee conduct will not be tolerated virtually (e.g. in Basecamp, GitHub) or at in-person events.
 
 ## Reporting
 
