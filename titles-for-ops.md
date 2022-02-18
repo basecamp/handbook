@@ -5,6 +5,7 @@ We use the following criteria to assess the level and title of ops at Basecamp. 
 It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the consistency and quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
 
 ## Junior Systems Admin
+
 * Discussion about tasks and how to complete them prior to starting work is required.
 * Basic familiarity with networking, configuration management, containers, orchestration, and other major systems, and with common processes and procedures.
 * Mostly carries out low-risk, isolated system maintenance tasks; passively participates in emergency problem resolution.
@@ -13,6 +14,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Self taught; may have worked at IT Help Desk for 1-2 years.
 
 ## Systems Admin
+
 * Work is reviewed with the occasional need for material direction or implementation changes.
 * Works on single system / variable problems.
 * Can handle on call with the backing of a more senior team member.
@@ -22,6 +24,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Usually at least 5 years of experience as sysadmin or programmer with site reliability experience.
 
 ## Senior Systems Admin
+
 * Work doesn’t necessarily need to be reviewed, but general approach may be.
 * Can work independently on smaller projects and be a reliable contributor to larger projects.
 * Fully participates in on call rotation.
@@ -32,10 +35,11 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Usually at least 6-10 years of experience being a professional sysadmin or network engineer; typically 5 years experience at Basecamp internalizing how we work.
 
 ## Lead Systems Admin
+
 * Able to fill in and lead team for short periods.
 * Work happens completely autonomously with no regular need for review.
 * Expert on multiple systems. Helps make strategic decisions around major components.
-* Elevates the standards through new tooling, processes, procedures and effective communication.  Able to carry out research, testing, implementation and improvement for new systems.
+* Elevates the standards through new tooling, processes, procedures and effective communication. Able to carry out research, testing, implementation and improvement for new systems.
 * Leads high risk maintenance with limited to no customer impact.
 * Significant technical contributor to problem resolution; demonstrates consistent maturity in communication and demeanor under stress.
 * Performs more complex work like capacity planning, load testing, security improvements, etc.
@@ -43,6 +47,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Usually at least 8-12 years of experience being a professional sysadmin.
 
 ## Principal Systems Admin
+
 * Can run large and complex Ops projects independently.
 * Carries significant responsibility for many domains of infrastructure.
 * Multiple areas of expertise: configuration management, containers, continuous integration / development, debugging, orchestration, optimization, networking, performance, reliability, security.

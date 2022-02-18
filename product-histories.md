@@ -10,7 +10,7 @@ So we started looking for a project management tool. We tried a few tools, but t
 
 Lo and behold, our projects ran better! We regained the sense of order and calmness we’d been craving. And clients noticed - they really appreciated the improved communication and organization. Soon after, our clients started asking us what software we were using to run these projects. Turns out they wanted to use it for their own in-house projects! So, we polished it up and put it on the market. On February 5th, 2004, Basecamp was born, and within a year, Basecamp was generating more income for us than our web design business, so we shuttered the web design firm to focus solely on Basecamp. That original Basecamp is called Basecamp Classic, and it still retains quite a few loyal customers! In 2012, we released our second version of Basecamp, referred to as BCX.
 
-Fast forward to 2014. We’d been feeling pulled in too many directions for too long. Campfire, Highrise, Backpack, and a host of other products were taking away from what we really wanted to do: maintain and improve Basecamp. So we spun off, sold, or otherwise sunset our ancillary products, and dedicated the entire company’s efforts to Basecamp. We even changed our name from 37signals to Basecamp to reflect the new direction.  Finally, in 2015 we launched our third version of Basecamp, called BC3.
+Fast forward to 2014. We’d been feeling pulled in too many directions for too long. Campfire, Highrise, Backpack, and a host of other products were taking away from what we really wanted to do: maintain and improve Basecamp. So we spun off, sold, or otherwise sunset our ancillary products, and dedicated the entire company’s efforts to Basecamp. We even changed our name from 37signals to Basecamp to reflect the new direction. Finally, in 2015 we launched our third version of Basecamp, called BC3.
 
 ## HEY
 
@@ -26,7 +26,7 @@ Ten years ago, to-do list apps were few and far between. So, we created Ta-da Li
 
 ## Backpack
 
-We created Backpack in May 2005 as a supplement to Basecamp Classic. Backpack existed as an organizer: "a place to keep life’s loose ends together". Users could make lists, notes, add files, upload pictures, and create Writeboards to share with other users. When we restructured in 2014, we closed Backpack to new customers, but existing customers still use (and love!) Backpack.
+We created Backpack in May 2005 as a supplement to Basecamp Classic. Backpack existed as an organizer: “a place to keep life’s loose ends together”. Users could make lists, notes, add files, upload pictures, and create Writeboards to share with other users. When we restructured in 2014, we closed Backpack to new customers, but existing customers still use (and love!) Backpack.
 
 ## Writeboard
 
@@ -50,7 +50,7 @@ Unlike our other retired products, we refunded our customers’ money and closed
 
 Basecamp has run a job board since 2006, helping connect small businesses with good designers and programmers for full-time jobs, freelance gigs, and internships.
 
-In 2014, Basecamp revamped our job board and launched We Work Remotely. After Jason and David published their book REMOTE, we realized we wanted to be on the forefront of promoting remote work. So, we created and hosted WeWorkRemotely.com, which contains job postings for programmers, designers, marketing professionals, customer service representatives, writers, and more -- all remote work positions. To post a job, a company needs to fill out a form on our site with information about the job, pay Basecamp $200 for a 30 day posting, and then verify that they are in fact offering a remote job. We’ve posted over 3,500 jobs over the last few years. In Spring 2017, we sold We Work Remotely to Metalab, to cut down on manual labor taken to run the board and focus more on our core business - Basecamp!
+In 2014, Basecamp revamped our job board and launched We Work Remotely. After Jason and David published their book REMOTE, we realized we wanted to be on the forefront of promoting remote work. So, we created and hosted WeWorkRemotely.com, which contains job postings for programmers, designers, marketing professionals, customer service representatives, writers, and more — all remote work positions. To post a job, a company needs to fill out a form on our site with information about the job, pay Basecamp $200 for a 30 day posting, and then verify that they are in fact offering a remote job. We’ve posted over 3,500 jobs over the last few years. In Spring 2017, we sold We Work Remotely to Metalab, to cut down on manual labor taken to run the board and focus more on our core business - Basecamp!
 
 ## Sortfolio.com
 

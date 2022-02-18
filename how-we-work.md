@@ -6,12 +6,11 @@ We work in 6-week or 8-week cycles at Basecamp. There are typically six cycles t
 
 The idea is not that everything we ever decide to work on has to take six or eight weeks or can be completed in that time. But rather that we think about how we can break big projects into smaller ones that can be done in that amount of time, and that we bundle smaller things into a presentable scope of work that can be discussed.
 
-This is particularly important for the product teams. Here we like to designate the work we take on with the scope in mind up front. We think of a small feature as a 1-weeker or a big feature as a 6-weeker (or anything in between). This designation helps us avoid a 1-weeker snowballing into a 4-weeker, just because people keep piling on more scope. Work is thus limited by a budget, and the budget focuses our discussion about what’s reasonable and what’s not. When a project starts slipping on its budget, the first approach should be to judo the problem and scope hammer the domain – and certainly not make it up by working more hours! Most things we work on can fit within six normal weeks or eight summer weeks.
+This is particularly important for the product teams. Here we like to designate the work we take on with the scope in mind up front. We think of a small feature as a 1-weeker or a big feature as a 6-weeker (or anything in between). This designation helps us avoid a 1-weeker snowballing into a 4-weeker, just because people keep piling on more scope. Work is thus limited by a budget, and the budget focuses our discussion about what’s reasonable and what’s not. When a project starts slipping on its budget, the first approach should be to judo the problem and scope hammer the domain — and certainly not make it up by working more hours! Most things we work on can fit within six normal weeks or eight summer weeks.
 
 ## Cooldown
 
-In between each cycle, we spend two weeks cooling down. That’s the time to deal with bugs or smaller issues that come up, write up what we worked on, and figure out what we should tackle next. It’s sometimes tempting to simply extend the cycles into the cooldown period to fit in more work. But the goal is to resist this temptation. Yes, sometimes a little spill-over will happen, but it’s helpful to think about the end of the normal cycle as "pencils down". That means that by week 4 of a normal cycle, we should be winding down, getting ready to launch, make sure QA is lined up, and all the other work that happens during and after the launch of new projects.
-
+In between each cycle, we spend two weeks cooling down. That’s the time to deal with bugs or smaller issues that come up, write up what we worked on, and figure out what we should tackle next. It’s sometimes tempting to simply extend the cycles into the cooldown period to fit in more work. But the goal is to resist this temptation. Yes, sometimes a little spill-over will happen, but it’s helpful to think about the end of the normal cycle as “pencils down”. That means that by week 4 of a normal cycle, we should be winding down, getting ready to launch, make sure QA is lined up, and all the other work that happens during and after the launch of new projects.
 
 ## Communication
 
@@ -52,7 +51,6 @@ Don’t take that as gospel, though. Some times you really DO need to tightly co
 All that being said, you should still ensure that there is ample overlap with the people you work with most of the time. While most roadblocks can just as well be cleared in 15-30-60 minutes, they become real annoying if it’s a one-day turn-around every time.
 
 In certain departments, like Support and Ops, it’s even more important that people are dependently available when they say they will be. That work has a lot of interrupt-based jobs that simply needs to be done right here, right now. So what applies to almost all work for design and programming and QA may well apply a little less frequently there.
-
 
 ## In self-sufficient, independent teams
 

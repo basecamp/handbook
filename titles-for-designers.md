@@ -1,10 +1,11 @@
-# Titles for designers
+# Titles for Designers
 
 We use the following criteria to assess the level and title of designers at Basecamp. These criteria aren’t exhaustive, and they aren’t mere checklists. We use the criteria as a guide for having individualized discussions about career progression.
 
 These criteria chiefly examine the scope of work someone is capable of tackling independently on a series of projects over an extended period of time (doing something well once isn’t enough to justify advancement). In addition to that assessment, we also look at the quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
 
 ## Junior Designer
+
 * Work is thoroughly reviewed with substantial back-and-forth.
 * Works primarily on tightly scoped, single element, routine problems with another designer.
 * Follows existing design patterns, works within our existing look and feel.
@@ -13,6 +14,7 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * MOBILE: Can create prototypes w/ static screens.
 
 ## Designer
+
 * Work is reviewed with the occasional need for material direction or implementation changes.
 * Works mostly on tightly scoped features, individual screens, or small problems with another designer.
 * Usually at least 2-5 years of experience being a professional designer.
@@ -20,6 +22,7 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * MOBILE: Can create basic prototypes demonstrating interactions and animations.
 
 ## Senior Designer
+
 * Work doesn’t necessarily need to be reviewed, but general approach may be.
 * Can run point on small batch projects, taking them from concept to shipping as the sole designer (alongside a programmer).
 * Can occasionally run point on large batch projects, sometimes with assistance.
@@ -28,6 +31,7 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
 
 ## Lead Designer
+
 * Work happens completely autonomously without regular need for review.
 * Can run point on large batch projects, taking them from concept to shipping as the sole designer (alongside a programmer).
 * Can lead a small department or longer-term initiative.
@@ -39,6 +43,7 @@ These criteria chiefly examine the scope of work someone is capable of tackling 
 * MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
 
 ## Principal Designer
+
 * Can run point on our most complex, critical, big batch projects, taking them from concept to shipping as the sole designer (alongside one or more programmers).
 * Leads major product redesigns (from version 2 to 3, 3 to 4, etc).
 * Can spin up new concepts and prototype new products from scratch.

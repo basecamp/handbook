@@ -1,4 +1,4 @@
-# Titles for programmers
+# Titles for Programmers
 
 We use the following criteria to assess the level and title of programmers of Basecamp. These criteria aren’t exhaustive, and they aren’t mere checklists. They’re a guidance to having an individualized discussion about career progression.
 
