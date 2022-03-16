@@ -78,7 +78,7 @@ What’s a work device? Anything you have company data on: your laptop where you
   * Log out of Dropbox and disconnect.
 * Touch ID (optional)
   * Unlocking your device can be compelled at US border crossings, but other countries may be less intrusive, so it may make sense to make your device a little harder to unlock.
-  * Disable Touch ID on your phone, tablet, and laptop. Require a passcode/password to unlock.
+  * Disable Touch ID or Face ID on your phone, tablet, and laptop. Require a passcode/password to unlock.
 
 ### Checklist: At Customs
 
@@ -93,7 +93,7 @@ What’s a work device? Anything you have company data on: your laptop where you
 ### Checklist: When You Arrive
 
 * Let us know when you’ve arrived at your destination and have cleared airport security.
-* Touch ID: Reenable on your phone, tablet, and laptop.
+* Touch ID / Face ID: Reenable on your phone, tablet, and laptop.
 * Dropbox: Log in and reconnect, but only if needed during travel.
 * Basecamp app: Reinstall on your phone, tablet, and laptop.
 * 1Password: Turn off Travel Mode. Go to https://basecamp.1password.com/profile and click Disable Travel Mode. Next time you open 1Password, you’ll have full access again.
@@ -107,4 +107,4 @@ What’s a work device? Anything you have company data on: your laptop where you
 
 ## Any Questions?
 
-Hitting a snag or have any questions? Ping Jeremy, Jane, or Andrea and we can help.
+Hitting a snag or have any questions? Ping Jeremy or Andrea and we can help.
