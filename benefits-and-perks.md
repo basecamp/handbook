@@ -41,7 +41,7 @@ The FSA is an account where you can set aside pre-tax money for out-of-pocket me
 
 ### Vacation Time
 
-Basecamp offers 18 days of paid time off plus [11 local holidays](https://3.basecamp.com/2914079/buckets/22311406/documents/4288588555) every year. We ask that you [track your time off](https://3.basecamp.com/2914079/projects/14971171) so we can properly compensate you for unused time. Your vacation time is prorated based on your start date during your first year at Basecamp. Your vacation time rolls over year to year, with a maximum bank of 27 days. If you are terminated or resign from Basecamp with vacation days in your bank, you’ll be paid the monetary equivalent for those unused days (based on your salary).
+Basecamp offers 18 days of paid time off plus [11 local holidays](https://3.basecamp.com/2914079/buckets/22311406/documents/4288588555) every year. We ask that you [track your time off](https://3.basecamp.com/2914079/projects/14971171) so we can properly compensate you for unused time. Your vacation time is prorated based on your start date during your first year at Basecamp. Your vacation time rolls over year to year, with a maximum bank of 27 days. If you are terminated or resign from Basecamp with vacation days in your bank, you’ll be paid the monetary equivalent for those unused days (prorated at the time of your departure, payment amount based on your salary).
 
 ### Sabbatical
 
