@@ -12,7 +12,7 @@ We hope, and fully expect, that your first 90 days will confirm what we learned 
 
 ## Mastery & Titles
 
-Advancing your career at Basecamp doesn’t mean giving up on your craft. Whether you work in programming, design, ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important since we’re a relatively small company with just two layers of managerial cake: executives and team managers. And both the [executives and managers](https://github.com/basecamp/handbook/blob/master/managers.md#executive-manager-and-individual-responsibilities) still spend the majority of their time doing technical work.
+Advancing your career at Basecamp doesn’t mean giving up on your craft. Whether you work in programming, design, ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important since we’re a relatively small company with few layers of managerial cake. And both the [executives and managers](https://github.com/basecamp/handbook/blob/master/managers.md#executive-manager-and-individual-responsibilities) still spend the majority of their time doing technical work.
 
 Within each of our job functions, we’ve mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different. Here’s an example of the titles for programming:
 
