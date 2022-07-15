@@ -34,7 +34,7 @@ A tool called Writeboards lives in Basecamp Classic and Backpack. A Writeboard f
 
 ## Campfire
 
-In 2006, we built Campfire to help businesses communicate better. It’s a simple, real-time web-based group chat tool that lets people set up password-protected chat rooms super quickly. At the very beginning it didn’t integrate with Basecamp, but when it did it took off. Signups for Campfire were closed in February 2017.
+In 2006, we built Campfire to help businesses communicate better. It’s a simple, real-time web-based group chat tool that lets people set up password-protected chat rooms super quickly. At the very beginning, it didn’t integrate with Basecamp, but when it did, it took off. Signups for Campfire were closed in February 2017.
 
 ## 37signals Suite
 
