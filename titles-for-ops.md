@@ -4,7 +4,7 @@ We use the following criteria to assess the level and title of ops at Basecamp. 
 
 It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the consistency and quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
 
-## Junior Systems Admin
+## Junior Site Reliability Engineer
 
 * Discussion about tasks and how to complete them prior to starting work is required.
 * Basic familiarity with networking, configuration management, containers, orchestration, and other major systems, and with common processes and procedures.
@@ -13,7 +13,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Does not participate in on-call rotation.
 * Self taught; may have worked at IT Help Desk for 1-2 years.
 
-## Systems Admin
+## Site Reliability Engineer
 
 * Work is reviewed with the occasional need for material direction or implementation changes.
 * Works on single system / variable problems.
@@ -23,7 +23,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Lacks institutional knowledge about our systems. Not completely familiar with documentation or procedures.
 * Usually at least 5 years of experience as sysadmin or programmer with site reliability experience.
 
-## Senior Systems Admin
+## Senior Site Reliability Engineer
 
 * Work doesn’t necessarily need to be reviewed, but general approach may be.
 * Can work independently on smaller projects and be a reliable contributor to larger projects.
@@ -34,7 +34,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Improves existing professional standards for the team.
 * Usually at least 6-10 years of experience being a professional sysadmin or network engineer; typically 5 years experience at Basecamp internalizing how we work.
 
-## Lead Systems Admin
+## Lead Site Reliability Engineer
 
 * Able to fill in and lead team for short periods.
 * Work happens completely autonomously with no regular need for review.
@@ -46,7 +46,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Sets new professional standards for the team.
 * Usually at least 8-12 years of experience being a professional sysadmin.
 
-## Principal Systems Admin
+## Principal Site Reliability Engineer
 
 * Can run large and complex Ops projects independently.
 * Carries significant responsibility for many domains of infrastructure.
