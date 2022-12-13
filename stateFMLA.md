@@ -6,9 +6,9 @@ If you’re an [eligible secondary caregiver](https://www.nysenate.gov/legislati
 
 ## Washington
 
-- This is a voluntary plan fully funded by Basecamp. Employees will not be taxed for this plan.
+- This is a voluntary plan fully funded by 37signals. Employees will not be taxed for this plan.
 - This plan is effective April 1, 2019, and in effect for no less than a year and continuously thereafter.
-- Current and future employees of Basecamp, LLC are eligible for this policy.
+- Current and future employees of 37signals LLC are eligible for this policy.
 - The definition of Family member can be found in the WA state law RCW 50A.04.010.
 - New child is defined as a new birth, adoption, or fostered minor.
 - A “Primary Caregiver” is the person who provides the child with the majority of their care during Parental Leave. A
@@ -21,5 +21,5 @@ If you’re an [eligible secondary caregiver](https://www.nysenate.gov/legislati
 - If one of your family members is under treatment or recovery for a serious medical condition and requires your care, you may take 4 weeks off at 100% pay. If after 4 weeks you need more time, you may take up to an additional 8 weeks at 70% of your pay for a total of 12 weeks.
 - A secondary caregiver in Washington State, on Family Leave may take an additional 6 weeks of Family Leave, at $1,000 per week for those 6 weeks. This is in addition to the Family Leave given to all employees regardless of their state of residence.
 - Family and personal leave may be taken together for a total of up to 16 weeks. If you are the birthing parent and require additional time to recover, you may take an additional 2 weeks at $1,000 per week for a total of 18 weeks.
-- If one of your family members is in the military and you experience an exigency circumstance, Basecamp has you covered. Exigency circumstances can include short-notice deployment, military events and related activities, childcare and school activities, counseling, and post- deployment activities. You may take 4 weeks off at 100% pay. If after 4 weeks you need more time, you may take up to an additional 8 weeks at 70% of your pay for a total of 12 weeks. Benefits will be calculated according to the Washington State policy — RCW 50A.04.020(4) and (5).
-- Basecamp will continue to maintain your health insurance and your job at Basecamp through the duration of your leave.
+- If one of your family members is in the military and you experience an exigency circumstance, 37signals has you covered. Exigency circumstances can include short-notice deployment, military events and related activities, childcare and school activities, counseling, and post- deployment activities. You may take 4 weeks off at 100% pay. If after 4 weeks you need more time, you may take up to an additional 8 weeks at 70% of your pay for a total of 12 weeks. Benefits will be calculated according to the Washington State policy — RCW 50A.04.020(4) and (5).
+- 37signals will continue to maintain your health insurance and your job at 37signals through the duration of your leave.
