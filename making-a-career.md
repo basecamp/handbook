@@ -46,7 +46,7 @@ When you get a promotion, that is you move from one level to another, you’ll g
 
 ## Performance Reviews
 
-You’ll meet with your manager for a formal performance reviews. When you're new to 37signals, you'll meet at the 3-month, 6-month, and 1-year marks. Then you'll meet once a year, around your anniversary with the company. Your manager will share performance expectations for your role when you start, and they'll keep you apprised of any changes to expectations should they evolve.
+You’ll meet with your manager for formal performance reviews. When you're new to 37signals, you'll meet at the 3-month, 6-month, and 1-year marks. Then you'll meet once a year, around your anniversary with the company. Your manager will share performance expectations for your role when you start, and they'll keep you apprised of any changes to expectations should they evolve.
 
 Managers are expected to document performance review outcomes and any action items or deadlines that come out of the meetings.
 
