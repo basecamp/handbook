@@ -2,7 +2,7 @@
 
 ## Cycles
 
-We work in 6-week or 8-week cycles at Basecamp. There are typically six cycles to a year. Two are 8-week cycles, during Summer Hours, and the rest 6-week cycles. This fixed cadence serves to give us an internal sense of urgency, work as a scope hammer to keep projects from ballooning, and provide a regular interval to decide what we’re working on.
+We work in 6-week or 8-week cycles at 37signals. There are typically six cycles to a year. Two are 8-week cycles, during Summer Hours, and the rest 6-week cycles. This fixed cadence serves to give us an internal sense of urgency, work as a scope hammer to keep projects from ballooning, and provide a regular interval to decide what we’re working on.
 
 The idea is not that everything we ever decide to work on has to take six or eight weeks or can be completed in that time. But rather that we think about how we can break big projects into smaller ones that can be done in that amount of time, and that we bundle smaller things into a presentable scope of work that can be discussed.
 
@@ -14,15 +14,17 @@ In between each cycle, we spend two weeks cooling down. That’s the time to dea
 
 ## Communication
 
-It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in Basecamp. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief mechanisms for keeping everyone in the loop about the work that’s going on.
+It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in 37signals. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief mechanisms for keeping everyone in the loop about the work that’s going on.
 
-First, there’s the daily question of What did you work on today?, which supplies the nitty gritty details, but as a personal narrative. They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Please do use them as such! You’re obliged to answer this question at least twice a week when you’re not out (or on team OMG).
+First, there’s the daily question of What did you work on today?, which supplies the nitty gritty details, but as a personal narrative. They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Please do use them as such! You’re obliged to answer this question at least twice a week.
 
 Second, there’s the weekly question of What will you be working on this week?, which details your intentions for the coming week. Everyone except team OMG is obliged to answer this question when they’re not out.
 
+Daily and weekly check-ins are subdivided by department so you're only subscribed to your team's answers. You're of course free to subscribe to other team check-ins, but you're not obligated to do so if you find it too noisy.
+
 Third, there are the heartbeats. These are the team versions of What did you work on this cycle? This is where we summarize and celebrate the work that’s been done. Every team lead is obliged to write, or designate someone on the team to write, this account one week after a cycle has ended.
 
-Fourth, and finally, there are the kickoffs. These are the team version of What are you going to work on next cycle? This is where the plan for the coming six or eight weeks is presented. Every team lead is obliged to write, or designate someone on the team to write, this account before the start of the new cycle (again, OMG exempt if there are no big new initiatives kicking off).
+Fourth, and finally, there are the kickoffs. These are the team version of What are you going to work on next cycle? This is where the plan for the coming six or eight weeks is presented. Every team lead is obliged to write, or designate someone on the team to write, this account before the start of the new cycle. 
 
 These mechanisms work together to free individuals and teams to run their days and cycles with confidence and independence. We have six opportunities per year to make big decisions about what to work on, and the rest of the time should chiefly be spent carrying out those short-term plans. By having clear expectations for communication, it’s easier for everyone to build trust in where we’re going and why.
 
@@ -38,11 +40,9 @@ There’ll always be more pitches than we have time to field, though. So it’s 
 
 While a few pitches might instantly strike a chord loud enough to go on the plate for the next cycle, it’s more likely that your pitch will sit for a while first. There are always more ideas than time, and we can only get a few things done each cycle. So chances are that even if everyone agrees the pitch is a great idea, it might not be the next most important thing for us to tackle. Don’t be discouraged by this. We’ve had many pitches that have sat for many cycles, if not years, before finally coming together and then happening.
 
-Jason, David, and Jeff are the team evaluating pitches for inclusion in the next cycle. Before the start of every cycle, Jason’s kickoff will list all the pitches that have been selected to be worked on.
-
 ## Asynchronously
 
-We have people working all sorts of different hours and from all sorts of different places at Basecamp. That alone makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature not a bug. Most of the work you do at Basecamp shouldn’t require you to be in constant communication throughout the entire day with someone.
+We have people working all sorts of different hours and from all sorts of different places at 37signals. That alone makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature not a bug. Most of the work you do at 37signals shouldn’t require you to be in constant communication throughout the entire day with someone.
 
 It’s far better for everyone’s concentration and sanity if you collaborate as though most things will get an answer eventually, but not necessarily right this second. Your first choice of action should be to post a message, a todo, or a document about what you need to explain or need to know. Then others can read it on their schedule, when the natural lulls of the day allow it, rather than being interrupted right in their peak flow time.
 
@@ -64,13 +64,13 @@ Similarly, a native feature that requires an API change should be carried out by
 
 When we need to use the staging database, that should be self-service too. Have a script anyone can run to restore it. Don’t require going to ops and waiting around for someone to do it for us.
 
-None of this means we can’t talk together or ask experts with more experience or expertise for their advice. It just means it shouldn’t be a required, necessary step to make Basecamp better.
+None of this means we can’t talk together or ask colleagues with more experience or expertise for their advice. It just means it shouldn’t be a required, necessary step to make 37signals better.
 
 As soon as organizational bottlenecks form, like a slew of features waiting for “the mobile integration”, we’re dragged towards more micro and detailed schedule management. It becomes a critical path with dependencies and making sure team Z is available just at the right moment for team A, such that nobody is blocked. That’s a poor fit for our organizational aspirations, so we have to work to counter that.
 
 ## With managers of one
 
-Managing at Basecamp is [part-time occupation](https://m.signalvnoise.com/moonlighting-managers-aint-got-no-time-for-bullshit/), next to being involved with doing the work itself. This means we rely on everyone at Basecamp to do a lot of self-management. People who do this well qualify as [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one), and we strive for everyone senior or above to embody this principle fully.
+We rely on everyone at 37signals to do a lot of self-management. People who do this well qualify as [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one), and we strive for everyone senior or above to embody this principle fully.
 
 That means setting your own direction when one isn’t given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There’s always more work to be done, always more initiatives to kick off, always more improvement to be had.
 
