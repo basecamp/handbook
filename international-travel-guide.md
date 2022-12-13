@@ -2,10 +2,10 @@
 
 If you travel out of your country of residence with your work laptop or other devices, you may face questions about business visitor visas, customs, and border security. We have answers!
 
-When you travel for Basecamp business, here’s what you need:
+When you travel for 37signals business, here’s what you need:
 
 1. Your passport! Apply for one now if you don’t have one already. Renew now if your passport expires in the next six months.
-2. A travel visa, waiver, or an electronic travel authorization. Basecamp will cover the cost of any documentation you need to travel on Basecamp business.
+2. A travel visa, waiver, or an electronic travel authorization. 37signals will cover the cost of any documentation you need to travel on 37signals business.
 3. An invitation letter that substantiates the purpose of your travel.
 4. Your lodging address and contact info.
 5. A security checklist for your laptop and phone. Clearing work data from your devices is *required* before crossing any border.
@@ -38,13 +38,13 @@ Please check the requirements for your nationality with your destination country
 
 ### Invitation Letter
 
-To substantiate the purpose of your travel to any country, we can provide an unofficial invitation letter that states that you’re traveling on behalf of Basecamp business. Verify in advance if the country you’re visiting *requires* a letter of purpose, and that you won’t need a work visa to accompany a letter.
+To substantiate the purpose of your travel to any country, we can provide an unofficial invitation letter that states that you’re traveling on behalf of 37signals business. Verify in advance if the country you’re visiting *requires* a letter of purpose, and that you won’t need a work visa to accompany a letter.
 
 ## Company Security at Border Crossings
 
 When you cross a border, you may be asked to unlock your phone or laptop for search, possibly exposing sensitive company data like source code, passwords, and customer account data. Yikes! We need to take some precautionary measures to safeguard our data.
 
-What’s a work device? Anything you have company data on: your laptop where you work with Basecamp source code; your tablet where you read Basecamp email; your phone where you use the Basecamp app; etc.
+What’s a work device? Anything you have company data on: your laptop where you work with source code; your tablet where you read work email; your phone where you use the Basecamp app; etc.
 
 ### TL;DR: Don’t Travel With Work Data
 
@@ -56,11 +56,11 @@ What’s a work device? Anything you have company data on: your laptop where you
 * Let us know! Share your travel plans and when you expect to arrive in the US.
 * Update your electronic travel authorization with your travel info when you have it.
 * Ensure you have your passport, visa/waiver, invitation letter, and travel details all in order.
-* If you run into general travel issues while on Basecamp business, contact Andrea.
+* If you run into general travel issues while on 37signals business, contact Andrea.
 * If you find yourself facing serious consequences like arrest or illegal detention in the United States, you can contact our attorney Jennifer Schaaf. Her contact information is in the teams vault in 1Password. You should also contact your home country’s embassy or consulate; please save that phone number prior to travel.
 * If you’re traveling to a country with privacy laws that concern you, please raise that concern internally with Andrea before you travel so we can discuss putting protections in place, including connecting you with a local, on-call attorney.
 * 1Password
-  * Check that your personal 1Password vault doesn’t have any work logins. If it does, move them to the Basecamp team vault instead. You have a personal vault inside the Basecamp team which is perfect for those logins.
+  * Check that your personal 1Password vault doesn’t have any work logins. If it does, move them to the team vault instead. You have a personal vault inside the 37signals team which is perfect for those logins.
   * Turn on Travel Mode. Go to https://basecamp.1password.com/profile and click Enable Travel Mode.
   * Open 1Password on each device you’re traveling with (laptop, phone, iPad, etc) so it can wipe its data while it’s in Travel Mode.
 * HEY
@@ -69,9 +69,9 @@ What’s a work device? Anything you have company data on: your laptop where you
   * Laptops: Clear cookies in Chrome, Safari, etc.
   * [iOS](https://support.apple.com/en-us/HT201265): Settings > Safari > Clear History and Website Data
   * [Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en): Chrome > Settings > Privacy > Clear browsing data. Check Cookies and site data; uncheck all the other items. > Clear data.
-* Basecamp source code.
-  * Make an encrypted archive on an external hard drive of your Basecamp git repos so you can download and restore it after you’re through customs. Here are [instructions](https://support.apple.com/en-us/HT201250) for doing that if you’re running a Mac OS. Please perform an equally secure file encryption for Windows or Linux OS & check with SIP if you’re unsure how to do that.
-  * Delete all Basecamp source code from your laptop.
+* Source code.
+  * Make an encrypted archive on an external hard drive of your git repos so you can download and restore it after you’re through customs. Here are [instructions](https://support.apple.com/en-us/HT201250) for doing that if you’re running a Mac OS. Please perform an equally secure file encryption for Windows or Linux OS & check with SIP if you’re unsure how to do that.
+  * Delete all source code from your laptop.
 * Other sensitive documents.
   * Same deal as source code. Make an encrypted backup on your external drive and remove from your laptop. Please refrain from using iCloud for any files/repos.
 * Dropbox
@@ -86,7 +86,7 @@ What’s a work device? Anything you have company data on: your laptop where you
 * Ensure your devices are charged up and turned on. Customs may balk at a bricked phone or laptop.
 * Common questions:
   * Purpose of your visit? Here for a business meeting in *city*.
-  * Here to do work? Nope! Here on business, meeting with Basecamp.
+  * Here to do work? Nope! Here on business, meeting with 37signals.
   * Where are you staying? Lodging name, address, phone number.
 * Be straightforward and truthful. You’re legit! No need to be cagey or misleading.
 
@@ -98,7 +98,7 @@ What’s a work device? Anything you have company data on: your laptop where you
 * Basecamp app: Reinstall on your phone, tablet, and laptop.
 * 1Password: Turn off Travel Mode. Go to https://basecamp.1password.com/profile and click Disable Travel Mode. Next time you open 1Password, you’ll have full access again.
 * HEY: Log back in on your device(s).
-* Basecamp source code: Download and restore the archive of your Basecamp git repos, but only if needed during travel.
+* Source code: Download and restore the archive of your git repos, but only if needed during travel.
 * Other sensitive documents: Download and restore, but only if needed during travel.
 
 ### Checklist: When You Return
