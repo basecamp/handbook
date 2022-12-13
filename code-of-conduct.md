@@ -1,6 +1,6 @@
-# Basecamp Code of Conduct
+# 37signals Code of Conduct
 
-Basecamp pledges to be a company with a healthy and friendly work environment. What follows is a set of guidelines on how we get there.
+37signals pledges to be a company with a healthy and friendly work environment. What follows is a set of guidelines on how we get there.
 
 Behavior that contributes to a healthy and friendly work environment:
 
@@ -35,4 +35,4 @@ An important note: Most interpersonal conflicts do not rise to the level of a Co
 - [Sexual Harassment](https://www.eeoc.gov/sexual-harassment)
 - [Retaliation](https://www.eeoc.gov/retaliation)
 
-Basecamp’s Code of Conduct is not meant to be a replacement for your EEO rights. You can pursue charges through Basecamp channels and through EEOC channels simultaneously. Visit the [EEOC website](https://www.eeoc.gov/how-file-charge-employment-discrimination) for more information about your employee rights.
+The 37signals Code of Conduct is not meant to be a replacement for your EEO rights. You can pursue charges through 37signals channels and through EEOC channels simultaneously. Visit the [EEOC website](https://www.eeoc.gov/how-file-charge-employment-discrimination) for more information about your employee rights.
