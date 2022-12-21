@@ -111,9 +111,11 @@ Employees are eligible for shares in the liquidity pool after two years of worki
 
 This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the liquidity pool if you resign or are terminated from 37signals before the distribution date.
 
-## Year-end Gift
+## Employee Gifts
 
 At the end of every year, 37signals gives a thank-you gift to employees. The gift changes year to year and is not intended to be a year-end bonus.
+
+Employees also receive a thank-you gift on their anniversaries with the company.
 
 ## Home Office Set-up
 
