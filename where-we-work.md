@@ -6,7 +6,7 @@ Most people at 37signals work from home most of the time. You can spend up to $2
 
 ## From coffee shops
 
-Working from home all the time isn’t everyone’s cup of coffee. Lots of us choose to work from coffee shops or other third spaces either some of the time or a lot of the time. Great for a buzz of other people and caffeine, but please do mind our [basic security rules](https://3.basecamp.com/2914079/buckets/34/documents/14419) and procedures to ensure that nothing leaks on to the cafe wifi.
+Working from home all the time isn’t everyone’s cup of coffee. Lots of us choose to work from coffee shops or other third spaces either some of the time or a lot of the time. Great for a buzz of other people and caffeine, but please do mind our [staff security checklist](https://3.basecamp.com/2914079/buckets/38/documents/5005159579) to ensure that nothing leaks on to the cafe WiFi.
 
 ## From a coworking space
 
