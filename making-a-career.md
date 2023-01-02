@@ -14,7 +14,7 @@ We hope, and fully expect, that your first 90 days will confirm what we learned 
 
 Advancing your career at 37signals doesn’t mean giving up on your craft. No matter your role, you can become better at the work itself and level-up that way. This is especially important since we’re a relatively small company with few layers of managerial cake.
 
-Within each of our job functions, we’ve mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different. Here’s an example of the titles for programming:
+Within each of our job functions, we’ve mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different. Here’s an example of the titles for engineering:
 
 * Junior Programmer
 * Programmer
@@ -28,7 +28,7 @@ But these titles make it clear to everyone where someone is in their career prog
 
 Day to day, though, these titles aren’t really much of a factor. But they do give newcomers another way of orienting themselves at the company and it gives everyone a clear way of tracking their personal career progression at 37signals.
 
-You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md), [Data](https://github.com/basecamp/handbook/blob/master/titles-for-data.md).
+You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/engineering-progression-framework.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md), [Data](https://github.com/basecamp/handbook/blob/master/titles-for-data.md).
 
 ## Pay & Promotions
 

@@ -50,7 +50,7 @@ Don’t take that as gospel, though. Some times you really DO need to tightly co
 
 All that being said, you should still ensure that there is ample overlap with the people you work with most of the time. While most roadblocks can just as well be cleared in 15-30-60 minutes, they become real annoying if it’s a one-day turn-around every time.
 
-In certain departments, like Support and Ops, it’s even more important that people are dependently available when they say they will be. That work has a lot of interrupt-based jobs that simply needs to be done right here, right now. So what applies to almost all work for design and programming and QA may well apply a little less frequently there.
+In certain departments, like Support and Ops, it’s even more important that people are dependently available when they say they will be. That work has a lot of interrupt-based jobs that simply needs to be done right here, right now. So what applies to almost all work for design and engineering and QA may well apply a little less frequently there.
 
 ## In self-sufficient, independent teams
 
