@@ -24,7 +24,7 @@ This is perhaps less of a system and more of an interface to all our other syste
 
 ### Sentry
 
-We track programming exceptions on Sentry. When a customer hits a “Oops, something went wrong!” screen, that means there’ll be an entry in Sentry explaining to programmers why they saw that screen. Keeping the exceptions under control and monitored is primarily the responsibility of SIP and Jim via on-call.
+We track application exceptions on Sentry. When a customer hits a “Oops, something went wrong!” screen, that means there’ll be an entry in Sentry explaining to programmers why they saw that screen. Keeping the exceptions under control and monitored is primarily the responsibility of SIP and Jim via on-call.
 
 [getsentry.com](https://getsentry.com)
 
