@@ -14,7 +14,7 @@ It’s important to note that meetups can be overwhelming when we’re so used t
 
 Once a year, you can get together with a small group of your coworkers on a mini meetup at a destination of your choosing. Mini meetups should have a work focus. They’re not meant to be social trips, and you’re not doing just your day-to-day work in the same room as your coworkers. You should be collaborating on something meaningful. It certainly doesn’t have to be big and you don’t have to produce something by the end of the meetup. Pick something you’d love to have a week to discuss in person and have fun with it.
 
-Keep in mind: your mini-meetup team does not have to be your formal team like Ops, Support, Mobile, etc. Colleagues who are working cross-team who have a project to get together on can meetup too. Limit yourself to 1 mini-meetup per year though, whether that’s with your dedicated team or with an offshoot team.
+Keep in mind: your mini meetup team does not have to be your formal team like Ops, Support, Mobile, etc. Colleagues who are working cross-team who have a project to get together on can meet up too. Limit yourself to 1 mini meetup per year though, whether that’s with your dedicated team or with an offshoot team.
 
 Budget guidelines for mini meetups can be found [in Basecamp.](https://3.basecamp.com/2914079/buckets/34/messages/1400415368#__recording_1400437120)
 
