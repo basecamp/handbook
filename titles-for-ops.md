@@ -1,8 +1,8 @@
 # Titles for Ops
 
-We use the following criteria to assess the level and title of ops at Basecamp. These criteria aren’t exhaustive, and they aren’t mere checklists. The criteria outline the shape of what work at a given level on the Ops team at Basecamp looks like.
+We use the following criteria to assess the level and title of ops at 37signals. These criteria aren’t exhaustive, and they aren’t mere checklists. The criteria outline the shape of what work at a given level on the Ops team at 37signals looks like.
 
-It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the consistency and quality of the execution itself. Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
+It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the consistency and quality of the execution itself. 37signals pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
 
 ## Junior Site Reliability Engineer
 
@@ -32,7 +32,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Plans and performs lower risk maintenance independently. Participates in higher risk maintenances.
 * Contributes to resolving major problems.
 * Improves existing professional standards for the team.
-* Usually at least 6-10 years of experience being a professional sysadmin or network engineer; typically 5 years experience at Basecamp internalizing how we work.
+* Usually at least 6-10 years of experience being a professional sysadmin or network engineer; typically 5 years experience at 37signals internalizing how we work.
 
 ## Lead Site Reliability Engineer
 
@@ -55,7 +55,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 * Pushes the whole organization forward regularly through implementing new systems and designs.
 * Writes new procedures and documentation regularly; trains others throughout the company.
 * Work is almost always free of mistakes; often helps others improve the quality of their work.
-* Completely comfortable working with all teams at Basecamp; frequently coordinates work across teams to solve complex problems.
+* Completely comfortable working with all teams at 37signals; frequently coordinates work across teams to solve complex problems.
 * When a site is down, something is broken, or work is crazy, this person is ready to save the day and lead us to a successful resolution.
 * Effectively delegates work to others; acts as a leader who has earned the respect of their peers.
 * Capable of coordinating company wide response to major issues and leading problem resolution via emergency procedures.

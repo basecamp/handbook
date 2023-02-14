@@ -5,7 +5,7 @@ Detailed information about all 37signals insurance policies and other benefits c
 
 ### Medical Insurance
 
-In the United States, medical insurance is provided through Blue Cross Blue Shield PPO. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally. You're eligible for coverage on your first day of employment. If you are terminated or resign from 37signals, your coverage will end on the last day of the month of your separation date and you may be eligible for continued coverage after that (COBRA).
+In the United States, medical insurance is provided through Blue Cross Blue Shield PPO. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally. You’re eligible for coverage on your first day of employment. If you are terminated or resign from 37signals, your coverage will end on the last day of the month of your separation date and you may be eligible for continued coverage after that (COBRA).
 
 Each pay period, you’ll see a payroll deduction for medical insurance:
 
@@ -16,24 +16,24 @@ Each pay period, you’ll see a payroll deduction for medical insurance:
 
 ### Dental Insurance
 
-Dental insurance in the US is provided through MetLife. The company pays 100% of the premium. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally. You're eligible for coverage on your first day of employment. If you are terminated or resign from 37signals, your coverage will end on the last day of the month of your separation date and you may be eligible for continued coverage after that (COBRA).
+Dental insurance in the US is provided through MetLife. The company pays 100% of the premium. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally. You’re eligible for coverage on your first day of employment. If you are terminated or resign from 37signals, your coverage will end on the last day of the month of your separation date and you may be eligible for continued coverage after that (COBRA).
 
 ### Vision Insurance
 
-Vision insurance in the US is provided through MetLife. The company pays 100% of the premium. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally. You're eligible for coverage on your first day of employment. If you are terminated or resign from 37signals, your coverage will end on the last day of the month of your separation date and you may be eligible for continued coverage after that (COBRA).
+Vision insurance in the US is provided through MetLife. The company pays 100% of the premium. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally. You’re eligible for coverage on your first day of employment. If you are terminated or resign from 37signals, your coverage will end on the last day of the month of your separation date and you may be eligible for continued coverage after that (COBRA).
 
 ### Health Insurance for Staff Outside the US
 If you’re outside of the US and pay out of pocket for private health insurance, you can request reimbursement for 75% of your insurance payments on your monthly invoice. Your monthly reimbursement is capped at the amount 37signals pays per employee per month on the US employee group plan. You may be asked to provide documentation to support your request for reimbursement.
 
 ### Life Insurance
 
-37signals offers a $400,000 life insurance/AD+D policy to all staff through MetLife. The company pays 100% of the premium. You're eligible for coverage on your first day of employment, and it’s terminated automatically on your final day of employment. Open enrollment is in November every year, and participants are auto-enrolled at that time.
+37signals offers a $400,000 life insurance/AD+D policy to all staff through MetLife. The company pays 100% of the premium. You’re eligible for coverage on your first day of employment, and it’s terminated automatically on your final day of employment. Open enrollment is in November every year, and participants are auto-enrolled at that time.
 
 ## Retirement Plan
 
 Our retirement plan for US employees is with Vanguard. 37signals matches 100% of what you contribute, up to 6% of your salary. You are eligible to enroll in the 401K plan with your first paycheck.
 
-If you're outside the US, 37signals will match what you contribute to a retirement account in your home country, up to 6% of your salary. In these cases, 37signals will pay you directly via your monthly invoice. It’s up to you to invest that payment and maintain administration of the retirement account and its taxes. You may be asked to provide documentation to support your request for a match.
+If you’re outside the US, 37signals will match what you contribute to a retirement account in your home country, up to 6% of your salary. In these cases, 37signals will pay you directly via your monthly invoice. It’s up to you to invest that payment and maintain administration of the retirement account and its taxes. You may be asked to provide documentation to support your request for a match.
 
 ## Flexible Spending Account (FSA)
 
@@ -69,7 +69,7 @@ We work 4-day work weeks from May 1 through August 31 every year. An employee wh
 
 ### Scheduling Time Off
 
-37signals doesn't have a formal time off request process. It's your responsibility to work with your manager and team to ensure coverage and manage your scheduled workload. The sooner you can inform your manager and team of your planned absence, the better, especially longer absences like sabbatical or long vacations. If your team has a defined process for scheduling time off, please follow that first.
+37signals doesn’t have a formal time off request process. It’s your responsibility to work with your manager and team to ensure coverage and manage your scheduled workload. The sooner you can inform your manager and team of your planned absence, the better, especially longer absences like sabbatical or long vacations. If your team has a defined process for scheduling time off, please follow that first.
 
 The only time we ask you *not* to schedule discretionary time off is during a CODE. At 37signals, we assign a CODE when urgent work needs to be done. We have three levels of criticality. A CODE RED is an emergency, a CODE YELLOW is less immediate but still critical, and a CODE LAUNCH is called when we’re in the final stages of launching a new product. If we’re in the midst of one of these and you can delay your vacation or sabbatical until after the code has ended, please do.
 
@@ -123,15 +123,15 @@ Since you work remotely, we want to make sure your home office is comfortable. D
 
 ## Coworking Space Stipend
 
-You can expense up to $200/month towards renting coworking space in your city. Please make sure you’re using a true coworking space that’s meant solely for working, not a club or social space like Soho House. 
+You can expense up to $200/month towards renting coworking space in your city. Please make sure you’re using a true coworking space that’s meant solely for working, not a club or social space like Soho House.
 
-Everyone at 37signals has a subscription to [Deskpass](https://www.deskpass.com), a co-working desk reservation service. You can use Deskpass to find co-working spaces near you, and your $200/month benefit is pre-fixed in your account. You're not required to use Deskpass to use your co-working space benefit. Your Deskpass budget is capped at $200/mo, but none of that gets paid out unless you book a desk.
+Everyone at 37signals has a subscription to [Deskpass](https://www.deskpass.com), a co-working desk reservation service. You can use Deskpass to find co-working spaces near you, and your $200/month benefit is pre-fixed in your account. You’re not required to use Deskpass to use your co-working space benefit. Your Deskpass budget is capped at $200/mo, but none of that gets paid out unless you book a desk.
 
 ## Expense Account
 
 All staff carries a 37signals Visa card that you can use for work expenses like the benefits described above, software, computer equipment, meet-up travel, or office supplies. Check with your manager or Andrea if you have any doubts about whether or not a purchase qualifies as a work expense.
 
-We use an expense management platform called [Airbase](https://www.airbase.com/). You're responsible for the monthly categorizing of your expenses and uploading receipts for purchases over $75. Full instructions on how to log your expenses in Airbase can be found in [Basecamp](https://3.basecamp.com/2914079/buckets/28168307/documents/5508145768).
+We use an expense management platform called [Airbase](https://www.airbase.com/). You’re responsible for the monthly categorizing of your expenses and uploading receipts for purchases over $75. Full instructions on how to log your expenses in Airbase can be found in [Basecamp](https://3.basecamp.com/2914079/buckets/28168307/documents/5508145768).
 
 Overall, we trust our employees to spend money wisely. If you’re booking a meet-up flight, you don’t need to buy the cheapest, 2-layover redeye; buy the convenient, well-priced seat. If you’re attending a conference on behalf of 37signals, we’ll buy your meals. Just try to stay away from caviar and champagne at dinner (okay, maybe once if you have a great day to celebrate).
 
