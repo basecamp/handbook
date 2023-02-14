@@ -22,7 +22,7 @@ Canadian passport holders don’t need a visa to enter the US for non-paid busin
 
 If your country does not participate in the Visa Waiver Program or you are not eligible for an ESTA, you’ll need to apply for a B-1 business visitor visa… the long way.
 
-We’ll work with you through this process. Start early, as soon as we have dates for a meetup or conference. Visa appointments and processing can take weeks to months. Ping Andrea as soon as you know that you’ll need a visa.
+We’ll work with you through this process. Start early, as soon as we have dates for a meet-up or conference. Visa appointments and processing can take weeks to months. Ping Andrea as soon as you know that you’ll need a visa.
 
 ### Trusted Traveler Programs
 
