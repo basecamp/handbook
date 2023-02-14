@@ -1,6 +1,6 @@
 # Titles for Support
 
-We use the following criteria to assess the level and title of our Support team members at Basecamp.
+We use the following criteria to assess the level and title of our Support team members at 37signals.
 
 ## Junior Customer Support Representative, level 1
 
@@ -8,7 +8,7 @@ We use the following criteria to assess the level and title of our Support team 
 * Adept at commonly asked questions and inquiries.
 * Uses HelpScout effectively.
 * Prefers email support over phone, as is not yet comfortable speaking adlib about product.
-* Works on routine emails or calls. Sometimes assigns emails to others versus finding the answers themselves, is new to Basecamp’s products
+* Works on routine emails or calls. Sometimes assigns emails to others versus finding the answers themselves, is new to 37signals products
 * less than 2 yrs support experience
 
 ## Customer Support Representative, level 2
