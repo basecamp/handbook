@@ -8,7 +8,7 @@ In general, our meetups are largely unstructured. Every morning, we gather for b
 
 Meeups are 1 week long. Most people arrive Sunday, we meet Monday through Thursday, and then we travel home on Friday. Everyone should come to every meet-up, but skipping one here and there is okay if you have an engagement you can’t cancel.
 
-It's important to note that meet-ups can be overwhelming when we're so used to working on our own and virtually. But meetups are also rewarding and energizing, and you'll probably find yourself looking forward to the next one within weeks of returning home.
+It’s important to note that meet-ups can be overwhelming when we’re so used to working on our own and virtually. But meetups are also rewarding and energizing, and you’ll probably find yourself looking forward to the next one within weeks of returning home.
 
 ## Mini Meetups
 
