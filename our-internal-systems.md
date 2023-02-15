@@ -28,12 +28,6 @@ We track programming exceptions on Sentry. When a customer hits a “Oops, somet
 
 [getsentry.com](https://getsentry.com)
 
-### Customer.IO
-
-All drip campaigns, welcome emails, and other email marketing campaigns for 37signals are run through Customer.IO. This allows the marketing team to independently tweak and measure the campaigns.
-
-[customer.io](https://customer.io)
-
 ### Shipshape
 
 Shipshape is how we make sure our work computers are up to our strict security protocol. When you’re given access to the company’s GitHub account, you can run Shipshape to be sure you’re up to code. Shipshape will also test your machine periodically to let you know (and our SIP team know) if your machine springs a leak and needs bailing out.
