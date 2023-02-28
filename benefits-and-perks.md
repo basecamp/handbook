@@ -129,11 +129,11 @@ Everyone at 37signals has a subscription to [Deskpass](https://www.deskpass.com)
 
 ## Personal 37signals Accounts
 
-All staff is eligible for a free personal Basecamp account and a free personal HEY account. This should be part of your on-boarding process if you already have existing accounts when you join the company. If you decide to sign up for either account later, you can comp the accounts in QueenBee so you won't be charged. Ping Andrea or Support if you need help with that.
+All employees can have a free personal Basecamp account and a free personal HEY account. We'll comp your existing accounts during your on-boarding process when you join the company. If you decide to sign up for either account later, you can comp the accounts in QueenBee so you won't be charged. Ping Andrea or Support if you need help with that.
 
 ## Expense Account
 
-All staff carries a 37signals Visa card that you can use for work expenses like the benefits described above, software, computer equipment, meet-up travel, or office supplies. Check with your manager or Andrea if you have any doubts about whether or not a purchase qualifies as a work expense.
+All staff carry a 37signals Visa card that you can use for work expenses like the benefits described above, software, computer equipment, meet-up travel, or office supplies. Check with your manager or Andrea if you have any doubts about whether or not a purchase qualifies as a work expense.
 
 We use an expense management platform called [Airbase](https://www.airbase.com/). You’re responsible for the monthly categorizing of your expenses and uploading receipts for purchases over $75. Full instructions on how to log your expenses in Airbase can be found in [Basecamp](https://3.basecamp.com/2914079/buckets/28168307/documents/5508145768).
 
