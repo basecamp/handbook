@@ -127,6 +127,10 @@ You can expense up to $200/month towards renting coworking space in your city. P
 
 Everyone at 37signals has a subscription to [Deskpass](https://www.deskpass.com), a co-working desk reservation service. You can use Deskpass to find co-working spaces near you, and your $200/month benefit is pre-fixed in your account. You’re not required to use Deskpass to use your co-working space benefit. Your Deskpass budget is capped at $200/mo, but none of that gets paid out unless you book a desk.
 
+## Personal 37signals Accounts
+
+All staff is eligible for a free personal Basecamp account and a free personal HEY account. This should be part of your on-boarding process if you already have existing accounts when you join the company. If you decide to sign up for either account later, you can comp the accounts in QueenBee so you won't be charged. Ping Andrea or Support if you need help with that.
+
 ## Expense Account
 
 All staff carries a 37signals Visa card that you can use for work expenses like the benefits described above, software, computer equipment, meet-up travel, or office supplies. Check with your manager or Andrea if you have any doubts about whether or not a purchase qualifies as a work expense.
