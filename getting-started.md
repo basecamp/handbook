@@ -3,13 +3,13 @@
 Getting started at 37signals involves a lot of little details, a number of big tasks, learning the details of your new job, meeting new coworkers, all while working remotely. Your teammates, your manager, your 37signals buddy, your Ops buddy, and our People team are all here to help as you navigate your first few days and weeks.
 
 ## Your First Few Days
-Before you start, Andrea will order you a new laptop with the specs you request and any accessories you need like an external keyboard, mouse, or display. Get what you need, while keeping in mind the demands of your work when choosing specs.
+Before you start, Andrea will order you a new Apple laptop with the specs you request and any accessories you need like an external keyboard, mouse, or display. Get what you need, while keeping in mind the demands of your work when choosing specs.
 
 A day or two before you start, your manager will email you instructions for your first day. Your manager will be your point of contact for your early projects and activities. You’ll also work with a member of our Ops team who will help you as you set up all the accounts you need to work at 37signals.
 
-On your first day, you’ll log into Basecamp to see a project dedicated to your onboarding called “Welcome, [your name]!”. Your welcome project will contain  a few to-do lists linking to accounts or services that you need to set up to get started. You’ll also see to-do lists that your Ops buddy and manager will be working through. Your Ops buddy and your manager will be in contact with you as you set up your environment, should you have questions or get stuck.
+On your first day, you’ll log into Basecamp to see a project dedicated to your onboarding called “Welcome, [your name]!”. Your welcome project will contain a few to-do lists, tailored to your role and linking to accounts or services that you need to set up. You’ll also see to-do lists that your Ops buddy and manager will be working through. Your Ops buddy and your manager will be in contact with you as you set up your environment, should you have questions or get stuck.
 
-The accounts you’re asked to set up depend on the role you’ve been hired for. But everyone at the company is asked to follow a stringent and specific security protocol, which we monitor after set-up using [Shipshape 🔒](https://github.com/basecamp/shipshape/). [Here’s a list 🔒](https://github.com/basecamp/shipshape/wiki) of what we require and why we require it.
+To keep everyone's devices safe and secure, we manage all our Mac devices using [Kandji](https://kandji.com) as well as our in-house tool [Shipshape 🔒](https://github.com/basecamp/shipshape/).
 
 Your training schedules and [onboarding expectations](https://github.com/basecamp/handbook/blob/master/making-a-career.md#your-first-90-days) will be in your welcome project. You’ll also find docs with helpful links to technical documentation, walkthrough videos, important Basecamp projects, and more.
 
