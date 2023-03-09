@@ -28,8 +28,12 @@ We track programming exceptions on Sentry. When a customer hits a “Oops, somet
 
 [getsentry.com](https://getsentry.com)
 
+### Kandji
+
+[Kandji](https://kandji.com) is how we make sure all work laptops are securely configured and running the latest software updates. It helps us reduce our exposure to security incidents.
+
 ### Shipshape
 
-Shipshape is how we make sure our work computers are up to our strict security protocol. When you’re given access to the company’s GitHub account, you can run Shipshape to be sure you’re up to code. Shipshape will also test your machine periodically to let you know (and our SIP team know) if your machine springs a leak and needs bailing out.
+Shipshape is the OG in-house tool for ensuring your work laptop is safe and secure. We still run it, but it's gradually being superceded by Kandji. When you’re given access to the company’s GitHub account, you can run Shipshape to be sure you’re up to code. Shipshape will also test your machine periodically to let you know (and our SIP team know) if your machine springs a leak and needs bailing out.
 
 [github.com/basecamp/shipshape](https://github.com/basecamp/shipshape)
