@@ -6,17 +6,17 @@ This doesn’t mean you are being monitored or tracked! Kandji is a configuratio
 
 ## Access to code and secrets
 
-Knowing our devices are safe and secure allows us to entrust our work computers with access to sensitive systems like Queenbee, Dash, our internal VPN and remote servers. This means checking out 37signals code and storing secrets must only be done on a managed work device.
+Knowing our devices are safe and secure allows us to entrust our work computers with access to sensitive systems like Queenbee, Dash, our internal VPN and remote servers. This means installing the VPN, checking out 37signals code, storing secrets, and connecting to the 37signals 1Password account must only be done on a managed work device, not a personal device.
 
 ## Personal data on a work device
 
-It's best to avoid mixing business with pleasure, so we recommend separating personal and work computer usage. Firstly, 37signals should not have access to your family photos, email, messages and personal files. Secondly, one high-profile hack after another is due to commingling personal and work use on a laptop that has access to sensitive systems. There are also hazards of exposing work to your personal data:
+It's best to avoid mixing business with pleasure, so you must separate personal and work computer usage. Firstly, 37signals should not have access to your family photos, email, messages and personal files. Secondly, one high-profile hack after another is due to commingling personal and work use on a laptop that has access to sensitive systems. There are also hazards of exposing work to your personal data:
 
 * If we need to wipe a laptop remotely, there should be no risk of destruction of your personal data.
 * If there's a hack and we need to do forensics or take a device snapshot, employees shouldn't be saddled with sifting through someone else's highly personal data.
 * If we do malware or secrets scanning, we shouldn't have to look at employee bank account details, government ID numbers and such that turn up in personal documents interspersed with work documents.
 
-Ultimately, work computers are for work, so please keep personal computer usage to your own devices.
+Ultimately, work computers are for work, so please make sure personal data and personal computer usage is kept to your own device.
 
 ## Mobile devices, Windows and Linux
 
