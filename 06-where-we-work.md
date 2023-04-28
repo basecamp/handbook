@@ -1,3 +1,9 @@
+---
+chapter: 6
+chapter-title: "Where We Work"
+title: "Where We Work | 37signals Employee Handbook"
+---
+
 # Where We Work
 
 ## From home

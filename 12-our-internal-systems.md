@@ -1,3 +1,9 @@
+---
+chapter: 12
+chapter-title: "Our Internal Systems"
+title: "Our Internal Systems | 37signals Employee Handbook"
+---
+
 # Our Internal Systems
 
 Besides the customer-facing applications, like the different versions of Basecamp, we have a number of internal systems that help us support, report, and operate the company. They are as follows:
@@ -30,7 +36,7 @@ We track programming exceptions on Sentry. When a customer hits a “Oops, somet
 
 ### Kandji
 
-[Kandji](https://kandji.com) is how we make sure all work laptops are securely configured and running the latest software updates. It helps us reduce our exposure to security incidents. You can read more about this in [Managing work devices](https://github.com/basecamp/handbook/blob/master/managing-work-devices.md).
+[Kandji](https://kandji.com) is how we make sure all work laptops are securely configured and running the latest software updates. It helps us reduce our exposure to security incidents. You can read more about this in [Managing work devices](https://github.com/basecamp/handbook/blob/master/14-managing-work-devices.md).
 
 ### Shipshape
 

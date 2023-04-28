@@ -1,3 +1,9 @@
+---
+chapter: 2
+chapter-title: "What We Stand For"
+title: "What We Stand For | 37signals Employee Handbook"
+---
+
 # What We Stand For
 
 ## Values

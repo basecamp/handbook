@@ -1,3 +1,9 @@
+---
+chapter: 11
+chapter-title: "Making A Career"
+title: "Making A Career | 37signals Employee Handbook"
+---
+
 # Making A Career
 
 ## Your First 90 Days
@@ -28,7 +34,7 @@ But these titles make it clear to everyone where someone is in their career prog
 
 Day to day, though, these titles aren’t really much of a factor. But they do give newcomers another way of orienting themselves at the company and it gives everyone a clear way of tracking their personal career progression at 37signals.
 
-You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md), [Data](https://github.com/basecamp/handbook/blob/master/titles-for-data.md).
+You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/appendix-02-titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/appendix-03-titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/appendix-04-titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/appendix-05-titles-for-support.md), [Data](https://github.com/basecamp/handbook/blob/master/appendix-01-titles-for-data.md).
 
 ## Pay & Promotions
 
@@ -52,4 +58,4 @@ Managers are expected to document performance review outcomes and any action ite
 
 ## Performance Improvement Plans
 
-If your work performance is not meeting expectations, you may be put on a Performance Improvement Plan (PIP). We only initiate PIPs if your manager’s concern is correctable in the short term. We do not initiate PIPs for fundamental performance issues that relate to your core job skills. If you’re a Programmer whose coding skills are not at the level they need to be, we’d forego a PIP. However we may initiate a PIP to help you improve your performance in a coachable skill like project management. In those cases, we’ll follow our [performance plan process](https://github.com/basecamp/handbook/blob/master/performance-plans.md#performance-plan-process).
+If your work performance is not meeting expectations, you may be put on a Performance Improvement Plan (PIP). We only initiate PIPs if your manager’s concern is correctable in the short term. We do not initiate PIPs for fundamental performance issues that relate to your core job skills. If you’re a Programmer whose coding skills are not at the level they need to be, we’d forego a PIP. However we may initiate a PIP to help you improve your performance in a coachable skill like project management. In those cases, we’ll follow our [performance plan process](https://github.com/basecamp/handbook/blob/master/appendix-07-performance-plans.md#performance-plan-process).

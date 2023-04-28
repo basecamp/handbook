@@ -1,3 +1,9 @@
+---
+chapter: 5
+chapter-title: "Product Histories"
+title: "Product Histories | 37signals Employee Handbook"
+---
+
 # Product Histories
 
 ## Basecamp

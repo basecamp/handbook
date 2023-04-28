@@ -1,3 +1,9 @@
+---
+chapter: A3
+chapter-title: "Titles for Designers"
+title: "Titles for Designers | 37signals Employee Handbook"
+---
+
 # Titles for Designers
 
 We use the following criteria to assess the level and title of designers at 37signals. These criteria aren’t exhaustive, and they aren’t mere checklists. We use the criteria as a guide for having individualized discussions about career progression.

@@ -1,3 +1,9 @@
+---
+chapter: A4
+chapter-title: "Titles for Ops"
+title: "Titles for Ops | 37signals Employee Handbook"
+---
+
 # Titles for Ops
 
 We use the following criteria to assess the level and title of ops at 37signals. These criteria aren’t exhaustive, and they aren’t mere checklists. The criteria outline the shape of what work at a given level on the Ops team at 37signals looks like.

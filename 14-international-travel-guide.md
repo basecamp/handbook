@@ -1,3 +1,9 @@
+---
+chapter: 14
+chapter-title: "International Travel Guide"
+title: "International Travel Guide | 37signals Employee Handbook"
+---
+
 # International Travel Guide
 
 If you travel out of your country of residence with your work laptop or other devices, you may face questions about business visitor visas, customs, and border security. We have answers!

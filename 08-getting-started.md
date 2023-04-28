@@ -1,3 +1,9 @@
+---
+chapter: 8
+chapter-title: "Getting Started"
+title: "Getting Started | 37signals Employee Handbook"
+---
+
 # Getting Started
 
 Getting started at 37signals involves a lot of little details, a number of big tasks, learning the details of your new job, meeting new coworkers, all while working remotely. Your teammates, your manager, your 37signals buddy, your Ops buddy, and our People team are all here to help as you navigate your first few days and weeks.
@@ -11,7 +17,7 @@ On your first day, you’ll log into Basecamp to see a project dedicated to your
 
 To keep everyone's devices safe and secure, we manage all our Mac devices using [Kandji](https://kandji.com) as well as our in-house tool [Shipshape 🔒](https://github.com/basecamp/shipshape/).
 
-Your training schedules and [onboarding expectations](https://github.com/basecamp/handbook/blob/master/making-a-career.md#your-first-90-days) will be in your welcome project. You’ll also find docs with helpful links to technical documentation, walkthrough videos, important Basecamp projects, and more.
+Your training schedules and [onboarding expectations](https://github.com/basecamp/handbook/blob/master/11-making-a-career.md#your-first-90-days) will be in your welcome project. You’ll also find docs with helpful links to technical documentation, walkthrough videos, important Basecamp projects, and more.
 
 Your welcome project will also contain a list of people to meet over the course of your first few weeks.
 * your manager. You and your manager will meet on your first day to sort out a recurring 1:1 schedule and to review your specific onboarding expectations.

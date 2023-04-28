@@ -1,3 +1,9 @@
+---
+chapter: 09
+chapter-title: "How We Work"
+title: "How We Work | 37signals Employee Handbook"
+---
+
 # How We Work
 
 ## Cycles

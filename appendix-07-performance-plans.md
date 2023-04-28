@@ -1,3 +1,9 @@
+---
+chapter: A8
+chapter-title: "Performance Improvement Plan Process"
+title: "Performance Improvement Plan Process | 37signals Employee Handbook"
+---
+
 # Performance Improvement Plan Process
 
 If your work performance is not meeting expectations, you may be put on a Performance Improvement Plan (PIP). We only initiate PIPs if your manager’s concern is correctable in the short term. We do not usually initiate PIPs for fundamental performance issues that relate to your core job skills.

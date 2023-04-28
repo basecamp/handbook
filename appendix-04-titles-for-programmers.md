@@ -1,3 +1,9 @@
+---
+chapter: A5
+chapter-title: "Titles for Programmers"
+title: "Titles for Programmers | 37signals Employee Handbook"
+---
+
 # Titles for Programmers
 
 We use the following criteria to assess the level and title of programmers of 37signals. These criteria aren’t exhaustive, and they aren’t mere checklists. They’re a guidance to having an individualized discussion about career progression.

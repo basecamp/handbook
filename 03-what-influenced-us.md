@@ -1,6 +1,12 @@
+---
+chapter: 3
+chapter-title: "What Influenced Us"
+title: "What Influenced Us | 37signals Employee Handbook"
+---
+
 # What Influenced Us
 
-If you want to learn the 37signals view of the world, it helps to know the influences that helped form it. We’ve been around since 1999. Since then there’s been a number of key influencers that have marked the company culture.
+If you want to learn the 37signals view of the world, it helps to know the influences that helped form it. We've been around since 1999. Since then there’s been a number of key influencers that have marked the company culture.
 
 ## Books
 

@@ -1,3 +1,9 @@
+---
+chapter: 10
+chapter-title: "Our Rituals"
+title: "Our Rituals | 37signals Employee Handbook"
+---
+
 # Our Rituals
 
 ## Meet-ups

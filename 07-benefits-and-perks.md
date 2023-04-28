@@ -1,6 +1,13 @@
+---
+chapter: 7
+chapter-title: "Benefits & Perks"
+title: "Benefits & Perks | 37signals Employee Handbook"
+---
+
 # Benefits & Perks
 
 ## Health Insurance
+
 Detailed information about all 37signals insurance policies and other benefits can be found in [Basecamp](https://3.basecamp.com/2914079/buckets/28168307/vaults/5060979274).
 
 ### Medical Insurance
@@ -23,6 +30,7 @@ Dental insurance in the US is provided through MetLife. The company pays 100% of
 Vision insurance in the US is provided through MetLife. The company pays 100% of the premium. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally. You’re eligible for coverage on your first day of employment. If you are terminated or resign from 37signals, your coverage will end on the last day of the month of your separation date and you may be eligible for continued coverage after that (COBRA).
 
 ### Health Insurance for Staff Outside the US
+
 If you’re outside of the US and pay out of pocket for private health insurance, you can request reimbursement for 75% of your insurance payments on your monthly invoice. Your monthly reimbursement is capped at the amount 37signals pays per employee per month on the US employee group plan. You may be asked to provide documentation to support your request for reimbursement.
 
 ### Life Insurance
@@ -77,7 +85,7 @@ The only time we ask you *not* to schedule discretionary time off is during a CO
 
 If you become the primary caregiver of a child, you can take up to 16 weeks leave at 100% pay. If you become the secondary caregiver of a new child, you can take up to 6 weeks leave at 100% pay. You may choose to take an additional unpaid leave as the primary or secondary caregiver.
 
-Some states require us to provide additional [benefits](https://github.com/basecamp/handbook/blob/master/stateFMLA.md#new-york).
+Some states require us to provide additional [benefits](https://github.com/basecamp/handbook/blob/master/appendix-09-state-fmla.md#new-york).
 
 ## Bereavement Leave
 
