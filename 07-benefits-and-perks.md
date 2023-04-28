@@ -4,8 +4,6 @@ chapter-title: "Benefits & Perks"
 title: "Benefits & Perks | 37signals Employee Handbook"
 ---
 
-# Benefits & Perks
-
 ## Health Insurance
 
 Detailed information about all 37signals insurance policies and other benefits can be found in [Basecamp](https://3.basecamp.com/2914079/buckets/28168307/vaults/5060979274).

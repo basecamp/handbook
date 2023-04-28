@@ -4,8 +4,6 @@ chapter-title: "State FMLA Laws"
 title: "State FMLA Laws | 37signals Employee Handbook"
 ---
 
-# State FMLA Laws
-
 ## New York
 
 If you’re an [eligible secondary caregiver](https://www.nysenate.gov/legislation/laws/WKC/201) in the state of New York, you may be able to take up to 10 weeks leave.

@@ -4,8 +4,6 @@ chapter-title: "What We Stand For"
 title: "What We Stand For | 37signals Employee Handbook"
 ---
 
-# What We Stand For
-
 ## Values
 
 Before anything else, values come first. Without clear, shared values, we wander independently and contradict one another. Everything’s harder when we all believe different things about what’s important to *us*, our company.

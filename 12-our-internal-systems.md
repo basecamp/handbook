@@ -4,8 +4,6 @@ chapter-title: "Our Internal Systems"
 title: "Our Internal Systems | 37signals Employee Handbook"
 ---
 
-# Our Internal Systems
-
 Besides the customer-facing applications, like the different versions of Basecamp, we have a number of internal systems that help us support, report, and operate the company. They are as follows:
 
 ### Dash

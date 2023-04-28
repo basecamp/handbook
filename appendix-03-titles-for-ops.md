@@ -4,8 +4,6 @@ chapter-title: "Titles for Ops"
 title: "Titles for Ops | 37signals Employee Handbook"
 ---
 
-# Titles for Ops
-
 We use the following criteria to assess the level and title of ops at 37signals. These criteria aren’t exhaustive, and they aren’t mere checklists. The criteria outline the shape of what work at a given level on the Ops team at 37signals looks like.
 
 It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the consistency and quality of the execution itself. 37signals pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.

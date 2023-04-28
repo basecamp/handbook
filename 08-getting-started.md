@@ -4,8 +4,6 @@ chapter-title: "Getting Started"
 title: "Getting Started | 37signals Employee Handbook"
 ---
 
-# Getting Started
-
 Getting started at 37signals involves a lot of little details, a number of big tasks, learning the details of your new job, meeting new coworkers, all while working remotely. Your teammates, your manager, your 37signals buddy, your Ops buddy, and our People team are all here to help as you navigate your first few days and weeks.
 
 ## Your First Few Days

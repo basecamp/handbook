@@ -4,8 +4,6 @@ chapter-title: "37signals Code of Conduct"
 title: "37signals Code of Conduct | 37signals Employee Handbook"
 ---
 
-# 37signals Code of Conduct
-
 37signals pledges to be a company with a healthy and friendly work environment. What follows is a set of guidelines on how we get there.
 
 Behavior that contributes to a healthy and friendly work environment:

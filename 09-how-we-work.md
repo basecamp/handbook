@@ -4,8 +4,6 @@ chapter-title: "How We Work"
 title: "How We Work | 37signals Employee Handbook"
 ---
 
-# How We Work
-
 ## Cycles
 
 We work in 6-week or 8-week cycles at 37signals. There are typically six cycles to a year. Two are 8-week cycles, during Summer Hours, and the rest 6-week cycles. This fixed cadence serves to give us an internal sense of urgency, work as a scope hammer to keep projects from ballooning, and provide a regular interval to decide what we’re working on.

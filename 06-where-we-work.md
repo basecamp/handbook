@@ -4,8 +4,6 @@ chapter-title: "Where We Work"
 title: "Where We Work | 37signals Employee Handbook"
 ---
 
-# Where We Work
-
 ## From home
 
 Most people at 37signals work from home most of the time. You can spend up to $2,000 during your first year at 37signals outfitting your home office. Getting the basics right will make a big difference: a good chair and a good desk.

@@ -4,8 +4,6 @@ chapter-title: "Titles for Support"
 title: "Titles for Support | 37signals Employee Handbook"
 ---
 
-# Titles for Support
-
 We use the following criteria to assess the level and title of our Support team members at 37signals.
 
 ## Junior Customer Support Representative, level 1

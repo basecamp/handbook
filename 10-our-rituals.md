@@ -4,8 +4,6 @@ chapter-title: "Our Rituals"
 title: "Our Rituals | 37signals Employee Handbook"
 ---
 
-# Our Rituals
-
 ## Meet-ups
 
 The entire company gathers in person twice a year. We meet-up in a different city every time. In 2022, we traveled to Miami and Amsterdam. Most of the planning is taken care of for you; you just need to book your flights. Lodging, meeting space, agenda, and social outings will be planned and communicated well in advance.

@@ -4,8 +4,6 @@ chapter-title: "A Note About Moonlighting "
 title: "A Note About Moonlighting | 37signals Employee Handbook"
 ---
 
-# A Note About Moonlighting
-
 Moonlighting means working other professional, paid jobs outside of your work at 37signals. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavors outside of 37signals don’t create conflicts of interest or affect your time, dedication, or performance at 37signals. So it’s a delicate balance.
 
 With that in mind, here are some examples of what we’d consider OK and what we would consider a conflict of interest and not OK:

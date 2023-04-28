@@ -4,8 +4,6 @@ chapter-title: "Vocabulary"
 title: "Vocabulary | 37signals Employee Handbook"
 ---
 
-# Vocabulary
-
 37signals has over time developed a vocabulary specific to our work and company.
 
 ## Chowder

@@ -4,8 +4,6 @@ chapter-title: "37signals Is You"
 title: "37signals Is You | 37signals Employee Handbook"
 ---
 
-# 37signals Is You
-
 Everyone working at 37signals represents 37signals. When a customer gets a response from Merissa on support, Merissa is 37signals. When a customer reads a tweet by Eron that our systems are down, Eron is 37signals. In those situations, all the other stuff we do to cultivate our best image is secondary. What’s right in front of someone in a time of need is what they’ll remember.
 
 That’s what we mean when we say marketing is everyone’s responsibility, and that it pays to spend the time to recognize that. This means avoiding the [bullshit of outage language](https://signalvnoise.com/posts/1528-the-bullshit-of-outage-language) and [bending our policies, not just lending your ears](https://signalvnoise.com/posts/3513-when-empathy-becomes-insulting). It means taking the time to get the writing right and consider how you’d feel if you were on the other side of the interaction.

@@ -4,8 +4,6 @@ chapter-title: "Making A Career"
 title: "Making A Career | 37signals Employee Handbook"
 ---
 
-# Making A Career
-
 ## Your First 90 Days
 
 Congratulations! You’re part of the team!
