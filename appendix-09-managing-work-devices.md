@@ -26,3 +26,7 @@ Ultimately, work computers are for work, so please make sure personal data and p
 ## Mobile devices, Windows and Linux
 
 Devices running Android, iOS/iPadOS, Windows or Linux are currently unmanaged. It’s fine to install our BC4 and HEY apps on these devices to access work projects and email, but since they’re unmanaged – and therefore ‘untrusted’ – it’s not fine to store 37signals code or secrets on them. If you're coding or accessing secure systems, you should be doing so on a Kandji-managed Mac.
+
+## FAQ
+
+There are many questions that arise from IT policies such as this, so we've produced [an FAQ in BC4](https://3.basecamp.com/2914079/buckets/31986799/documents/6044843594) to help answer them.
