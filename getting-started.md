@@ -9,7 +9,7 @@ A day or two before you start, your manager will email you instructions for your
 
 On your first day, you’ll log into Basecamp to see a project dedicated to your onboarding called “Welcome, [your name]!”. Your welcome project will contain a few to-do lists, tailored to your role and linking to accounts or services that you need to set up. You’ll also see to-do lists that your Ops buddy and manager will be working through. Your Ops buddy and your manager will be in contact with you as you set up your environment, should you have questions or get stuck.
 
-To keep everyone's devices safe and secure, we manage all our Mac devices using [Kandji](https://kandji.com) as well as our in-house tool [Shipshape 🔒](https://github.com/basecamp/shipshape/).
+To keep everyone's devices safe and secure, we manage all our Mac devices using [Kandji](https://kandji.io) as well as our in-house tool [Shipshape 🔒](https://github.com/basecamp/shipshape/).
 
 Your training schedules and [onboarding expectations](https://github.com/basecamp/handbook/blob/master/making-a-career.md#your-first-90-days) will be in your welcome project. You’ll also find docs with helpful links to technical documentation, walkthrough videos, important Basecamp projects, and more.
 
