@@ -34,7 +34,7 @@ Citizens of some countries are eligible for [Global Entry](https://www.cbp.gov/t
 
 The visa requirements for your nationality will vary depending on the country you plan to visit, as individual visa policies and requirements vary for different foreign citizens. It may or may not be necessary to obtain a travel document to visit your country of destination.
 
-Please check the requirements for your nationality with your destination country as far in advance of travel as you can. You can also use a [visa checker](https://www.onlinevisa.com/visa-requirements/). You may be able to travel visa-free, or you may need to obtain a visa, a waiver, or an electronic travel authorization.
+Please check the requirements for your nationality with your destination country as far in advance of travel as you can. You can also use a [visa checker](https://www.handyvisas.com/visa-requirements/). You may be able to travel visa-free, or you may need to obtain a visa, a waiver, or an electronic travel authorization.
 
 ### Invitation Letter
 
