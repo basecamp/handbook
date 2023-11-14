@@ -3,7 +3,7 @@
 Getting started at 37signals involves a lot of little details, a number of big tasks, learning the details of your new job, meeting new coworkers, all while working remotely. Your teammates, your manager, your 37signals buddy, your Ops buddy, and our People team are all here to help as you navigate your first few days and weeks.
 
 ## Your First Few Days
-Before you start, Andrea will order you a new Apple laptop with the specs you request and any accessories you need like an external keyboard, mouse, or display. Get what you need, while keeping in mind the demands of your work when choosing specs.
+Before you start, the People team will order you a new Apple laptop with the specs you request and any accessories you need like an external keyboard, mouse, or display. Get what you need, while keeping in mind the demands of your work when choosing specs.
 
 A day or two before you start, your manager will email you instructions for your first day. Your manager will be your point of contact for your early projects and activities. You’ll also work with a member of our Ops team who will help you as you set up all the accounts you need to work at 37signals.
 
