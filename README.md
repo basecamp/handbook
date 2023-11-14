@@ -12,7 +12,6 @@ If you’re reading this just after joining the company, it’s particularly on 
 
 ## Sections
 
-* [37signals Is You](https://github.com/basecamp/handbook/blob/master/37signals-is-you.md)
 * [What We Stand For](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)
 * [What Influenced Us](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
 * [Vocabulary](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
