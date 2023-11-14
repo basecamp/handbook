@@ -5,14 +5,14 @@ Detailed information about all 37signals insurance policies and other benefits c
 
 ### Medical Insurance
 
-In the United States, medical insurance is provided through Blue Cross Blue Shield PPO. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally. You’re eligible for coverage on your first day of employment. If you are terminated or resign from 37signals, your coverage will end on the last day of the month of your separation date and you may be eligible for continued coverage after that (COBRA).
+In the United States, medical insurance is provided through Blue Cross Blue Shield PPO. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered. You’re eligible for coverage on your first day of employment. If you are terminated or resign from 37signals, your coverage will end on the last day of the month of your separation date and you may be eligible for continued coverage after that (COBRA).
 
 Each pay period, you’ll see a payroll deduction for medical insurance:
 
-* Employee-only medical coverage: $76.93
-* Employee-partner medical coverage: $160.26
-* Employee-child(ren) medical coverage: $171.29
-* Employee-family medical coverage: $254.61
+* Employee-only medical coverage: $78.46
+* Employee-partner medical coverage: $160.22
+* Employee-child(ren) medical coverage: $167.23
+* Employee-family medical coverage: $248.99
 
 ### Dental Insurance
 
@@ -63,10 +63,6 @@ If you are unable to work for more than 1 week because of illness or injury, let
 
 We work 4-day work weeks from May 1 through August 31 every year. An employee who has just been hired may have to complete a training program per their team lead to be eligible. When a holiday occurs during summer hours, you can take the holiday off *or* your normal summer day off. Any additional days off would count as vacation days.
 
-### Day of Service
-
-37signals also allows a Day of Service. You can take one day off every year to volunteer for a charitable or community organization of your choice. No need to use a vacation day or personal day, just let your team know you’ll be out. 37signals does not pay out for unused Days of Service if you resign or are terminated from 37signals.
-
 ### Scheduling Time Off
 
 37signals doesn’t have a formal time off request process. It’s your responsibility to work with your manager and team to ensure coverage and manage your scheduled workload. The sooner you can inform your manager and team of your planned absence, the better, especially longer absences like sabbatical or long vacations. If your team has a defined process for scheduling time off, please follow that first.
@@ -91,7 +87,7 @@ The 37signals EAP is through ComPsych, and it provides a *confidential* avenue f
 
 ## Pet Insurance
 
-For your fur babies! 37signals doesn’t contribute to this plan at all, but everyone gets a 10% discount on this insurance you might otherwise buy. There are no set rates, and you can visit our portal on [Figo’s website](https://figopetinsurance.com) to get your quote and sign up. There’s no open enrollment period to sign up for pet insurance.
+Everyone has the option to purchase pet insurance through Figo at a 10% discount. There are no set rates, and you can visit our portal on [Figo’s website](https://figopetinsurance.com) to get your quote and sign up. There’s no open enrollment period to sign up for pet insurance, and 37signals doesn't administer or contribute towards your policy.
 
 ## Employee Profit Sharing
 
