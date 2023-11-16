@@ -8,8 +8,6 @@ In general, our meet-ups are largely unstructured. Every morning, we gather for 
 
 Meet-ups are 1 week long. Most people arrive Sunday, we meet Monday through Thursday, and then we travel home on Friday. Everyone should come to every meet-up, but skipping one here and there is okay if you have an engagement you can’t cancel.
 
-It’s important to note that meet-ups can be overwhelming when we’re so used to working on our own and virtually. But meet-ups are also rewarding and energizing, and you’ll probably find yourself looking forward to the next one within weeks of returning home.
-
 ## Mini Meet-ups
 
 Once a year, you can get together with a small group of your coworkers on a mini meet-up at a destination of your choosing. Mini meet-ups should have a work focus. They’re not meant to be social trips, and you’re not doing just your day-to-day work in the same room as your coworkers. You should be collaborating on something meaningful. It certainly doesn’t have to be big and you don’t have to produce something by the end of the meet-up. Pick something you’d love to have a week to discuss in person and have fun with it.
