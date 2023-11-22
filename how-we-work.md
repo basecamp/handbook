@@ -14,7 +14,7 @@ In between each cycle, we spend two weeks cooling down. That’s the time to dea
 
 ## Communication
 
-We are a company of doers that run low on ceremony. The essential ingredient is a culture of radiating information. We don't use catch-up meetings to see what you have been up to, and we don't have managers dedicated to making sense of people's work. We don't expect _anyone_ to _pull_ information from you, but you to _push_ the information out there for _everyone_. This lets us remove the disruptive and lousy rituals we loathe and enables you to dedicate most of your time to your craft.
+We are a company of doers that runs low on ceremony. The essential ingredient is a culture of radiating information. We don't use catch-up meetings to see what you have been up to, and we don't have managers dedicated to making sense of people's work. We don't expect _anyone_ to _pull_ information from you, but you to _push_ the information out there for _everyone_. This lets us remove the disruptive and lousy rituals we loathe and enables you to dedicate most of your time to your craft.
 
 We believe it's your responsibility to curate the story of your work. We use several mechanisms to do it.
 
