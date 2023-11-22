@@ -14,6 +14,12 @@ In between each cycle, we spend two weeks cooling down. That’s the time to dea
 
 ## Communication
 
+We are a company of doers that run low on ceremony. The essential ingredient is a culture of radiating information. We don't use catch-up meetings to see what you have been up to, and we don't have managers dedicated to making sense of people's work. We don't expect _anyone_ to _pull_ information from you, but you to _push_ the information out there for _everyone_. This lets us remove the disruptive and lousy rituals we loathe and enables you to dedicate most of your time to your craft.
+
+We believe it's your responsibility to curate the story of your work. We use several mechanisms to do it.
+
+### The mechanisms
+
 It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in 37signals. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief mechanisms for keeping everyone in the loop about the work that’s going on.
 
 First, there’s the daily question of What did you work on today?, which supplies the nitty gritty details, but as a personal narrative. They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Please do use them as such! You’re obliged to answer this question at least twice a week.
