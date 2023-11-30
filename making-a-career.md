@@ -28,7 +28,7 @@ But these titles make it clear to everyone where someone is in their career prog
 
 Day to day, though, these titles aren’t really much of a factor. But they do give newcomers another way of orienting themselves at the company and it gives everyone a clear way of tracking their personal career progression at 37signals.
 
-You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md), [Data](https://github.com/basecamp/handbook/blob/master/titles-for-data.md).
+You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md).
 
 ## Pay & Promotions
 
