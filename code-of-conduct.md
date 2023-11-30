@@ -4,17 +4,17 @@
 
 Behavior that contributes to a healthy and friendly work environment:
 
-- Using courteous language.
-- Being respectful and empathetic, especially when it comes to differing viewpoints and experiences.
-- Gracefully accepting constructive criticism and direct feedback, as well as offering it in that spirit.
-- Assuming good intentions. Approaching work relationships with a default of trust and positivity.
+* Using courteous language.
+* Being respectful and empathetic, especially when it comes to differing viewpoints and experiences.
+* Gracefully accepting constructive criticism and direct feedback, as well as offering it in that spirit.
+* Assuming good intentions. Approaching work relationships with a default of trust and positivity.
 
 Unacceptable behavior:
 
-- The use of any sexualized language or imagery.
-- The use of any violent language or imagery.
-- Making unwelcome sexual advances or giving unwanted sexual attention.
-- Any form of discrimination and harassment. Particularly on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, age, disability, marital status, citizenship, national origin, genetic information, or any other characteristic protected by law.
+* The use of any sexualized language or imagery.
+* The use of any violent language or imagery.
+* Making unwelcome sexual advances or giving unwanted sexual attention.
+* Any form of discrimination and harassment. Particularly on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, age, disability, marital status, citizenship, national origin, genetic information, or any other characteristic protected by law.
 
 These expectations apply to all current employees. Unacceptable employee conduct will not be tolerated virtually (e.g. in Basecamp, GitHub) or at in-person events.
 
@@ -30,9 +30,9 @@ An important note: Most interpersonal conflicts do not rise to the level of a Co
 
 ## Some Definitions & Resources
 
-- [Discrimination](https://www.eeoc.gov/discrimination-type)
-- [Harassment](https://www.eeoc.gov/harassment)
-- [Sexual Harassment](https://www.eeoc.gov/sexual-harassment)
-- [Retaliation](https://www.eeoc.gov/retaliation)
+* [Discrimination](https://www.eeoc.gov/discrimination-type)
+* [Harassment](https://www.eeoc.gov/harassment)
+* [Sexual Harassment](https://www.eeoc.gov/sexual-harassment)
+* [Retaliation](https://www.eeoc.gov/retaliation)
 
 The 37signals Code of Conduct is not meant to be a replacement for your EEO rights. You can pursue charges through 37signals channels and through EEOC channels simultaneously. Visit the [EEOC website](https://www.eeoc.gov/how-file-charge-employment-discrimination) for more information about your employee rights.
