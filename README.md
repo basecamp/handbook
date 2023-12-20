@@ -12,7 +12,6 @@ If you’re reading this just after joining the company, it’s particularly on 
 
 ## Sections
 
-* [Vocabulary](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
 * [Product Histories](https://github.com/basecamp/handbook/blob/master/product-histories.md)
 * [Where We Work](https://github.com/basecamp/handbook/blob/master/where-we-work.md)
 * [Benefits & Perks](https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md)
