@@ -12,8 +12,6 @@ If you’re reading this just after joining the company, it’s particularly on 
 
 ## Sections
 
-* [What We Stand For](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)
-* [What Influenced Us](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
 * [Vocabulary](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
 * [Product Histories](https://github.com/basecamp/handbook/blob/master/product-histories.md)
 * [Where We Work](https://github.com/basecamp/handbook/blob/master/where-we-work.md)
@@ -25,4 +23,3 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)
 * [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
 * [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
-* [FAQ](https://github.com/basecamp/handbook/blob/master/faq.md)
