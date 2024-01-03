@@ -1,63 +1,23 @@
-# Titles for Support
+# Titles for Customer Support
 
-We use the following criteria to assess the level and title of our Support team members at 37signals.
+| Category | Customer Support L1 | Customer Support L2 | Customer Support L3 | Customer Support L4 | Customer Support L5 |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| **Skill** |  |  |  |  |  | 
+| *Technical* | Communicates basic product knowledge to customers well and with enthusiasm. | Confident in product knowledge and well versed in one product. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. | Proficient in one or more products. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. | Proficient in multiple products. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. | Expert in multiple products. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. | 
+| *Technical* | Customer emails adhere to the style guide with occasional need for redirection. Able to work independently on routine emails, and doesn't need help answering commonly asked questions. | Customer emails adhere to the style guide with little need for redirection. Able to work independently on all emails or calls. | Customer emails adhere to the style guide with no need for redirection.Able to work independently on all emails or calls, and doesn't need help answering questions. | Customer emails adhere to the style guide, and contributes to the style guide and snippets repo. Able to work independently on all emails and calls, and can handle difficult cases and frustrated customers. | Customer emails adhere to the style guide, and contributes to the style guide and snippets repo. Able to work independently on all emails and calls, and can handle the most difficult cases and frustrated customers. | 
+| *Tech and Tooling* | Demonstrated good technical understanding of most of the software systems and tools needed in daily work. Technical knowledge of the products is limited and developing. | Demonstrated technical understanding of the software systems and tools used in your daily work. Good technical understanding of one product. | Able to diagnose and escalate low-level technical issues appropriately. Good technical understanding of all products. | Able to diagnose and escalate most technical issue appropriately. Capable of correcting low-level customer technical issues independently, with support from on-call. | Able to diagnose and escalate all technical issues appropriately. Capable of correcting many customer technical issues independently. | 
+| *Scope* | Works primarily on customer communication; no project work or limited involvement. | Participates in project work with oversight from a senior teammate. | Works independently on small projects and are a reliable contributor to larger projects. | Elevates team and company standards through developing new processes, procedures, and effective communication. Major contributor on special project work. | Capable of conceptualizing and executing large special projects and working with a team to complete them. | 
+| *Judgment* | Capable of managing individual to-dos. Pitches in on project work when asked, with oversight. | Manages daily workflow and to-dos without oversight. | Manages daily workflow and special projects with minimal oversight or approval. Good sense for when to cut scope to deliver projects on time, within appetite. | Strong ability to set scope and manage large ongoing projects with minimal oversight or approval. Sought out for advice by teammates and outside the team. | A leader in ensuring robust and effective best practices are understood and followed across the team and organization. Has a wide range of focus and finds opportunities to make improvements to work, without it being assigned. |
+| **Engagement** |  |  |  |  |  | 
+| *Ownership - Manager of One* | Manages the individual steps to arrive to solutions once assigned work. | Sets their own direction once assigned work. Asks questions but does not need status checks outside of email reviews. | Sets their own direction and works with little to no oversight or help. Conceptualizes new work to be done, steps to get there, and then executes the steps to complete it. | Capable of setting small team direction. Manages projects and resources, requiring little to no redirection or input from leadership. | Capable of setting team direction. Manages projects and resources, requiring little to no redirection or input from leadership. | 
+| *Communication* | Communicates well on team calls and in Basecamp check-ins. Asks questions of more senior teammates after doing research to find answers. | Attempts to unblock themselves but asks for help when needed. Communicates well within the team structure, sharing knowledge and bringing in more experienced teammates when needed. | Attempts to unblock themselves but ask for help when needed. Communicates well within the team structure, sharing knowledge and bringing in more experienced teammates when needed. | Acts as a representative to the company, weighing in on larger discussions and making recommendations. Rarely need help unblocking themselves, and acts as a resource for others. | Demonstrate project management and communication best practices. Ensures leadership is informed on team progress. |
+| *Planning* | Able to plan individual daily tasks with little feedback or oversight. Able to call attention to opportunities for small improvements to projects and product. | Able to plan individual daily tasks with minimal oversight. Routinely calls attention to opportunities for small improvements to projects and product. | Plans individual projects effectively with little oversight. Contributes to cycle planning. Identifies work without having it assigned and without asking others what's important. Able to pitch projects to the team and explain why it's important and should be prioritized. | Key contributor to cycle planning. Able to plan and execute large projects. | Able to plan and execute large projects while keeping team and company strategy in mind. |
+| *Flexibility* | Has some points of view about technical solutions and best practices, but mostly observes and learns from the more senior members of your team. | Demonstrated willingness to express a viewpoint and opinion, and able to disagree and commit. | Demonstrated strong points of view about technical approaches and solutions that are rooted in experience. Willing to express a viewpoint and opinion, and also able to disagree and commit. | Strong points of view rooted in experience, technical expertise, and industry best practices. Expresses opinions confidently and effectively, and can balance recommendations with the larger needs of the team. | Demonstrated abiility to think through problems and devise and apply novel solultions that are outside the box. |
+| *Trust* | Work is reviewed, and mistakes in quality and general approach do not repeat often. | Productive member of the team, able to contribute effectively to small projects. Work is reviewed with the occasional need for edits. | Fully productive member of the team, able to contribute to almost any project. Work doesn’t necessarily need to be reviewed, but general approach may be. | Able to contribute to any project and able to resolve almost any customer interaction. Work happens autonomously with no regular need for review. Work is almost always free of mistakes, and often helps others improve the quality of their work. | Significant contributor to problem resolution and code resolution; demonstrate consistent maturity and leadership. | 
+| **Coachability** |  |  |  |  |  | 
+| *Feedback* | Actively seeks feedback. Receives feedback with a positive attitude, and applies corrective feedback well. Hungry for growth & development. | Able to weigh in on larger discussions at the team level with helpful, relevent feedback. Receives feedback with a growth mindset. | Able to act as informal mentor, and provides helpful, direct, specific feedback to more junior teammates. | Sought by colleagues on and off the team for help with critical work or decisions. | A leader on the team. Sought by colleagues on and off the team for help with critical work or decisions. |
 
-## Junior Customer Support Representative, level 1
 
-* Throughput and productivity is uneven/unpredictable.
-* Adept at commonly asked questions and inquiries.
-* Uses HelpScout effectively.
-* Prefers email support over phone, as is not yet comfortable speaking adlib about product.
-* Works on routine emails or calls. Sometimes assigns emails to others versus finding the answers themselves, is new to 37signals products
-* less than 2 yrs support experience
 
-## Customer Support Representative, level 2
 
-* Work beyond customer support emails is reviewed with a frequent need for material direction or implementation changes. Guidance is often required. Understands when to initiate on-call workflow with guidance from peers.
-* Throughput and productivity is predictable. Is able to adhere to our customer service values a majority of the time. Is adept at working with HelpScout and finds productivity shortcuts. Works evenly on calls and email, is able to field inquiries that are multi-faceted. Understands most, if not all, of the product features and can provide support on all mobile platforms.
-* Teaches classes and/or contributes to the knowledge database, works with software developers and others in the company to resolve issues.
-* Pattern recognition regarding problem areas in app is developing. Begins to recommend new features and enhancements.
-* Usually at least 2-5 years of experience being a customer support professional.
 
-## Senior Customer Support Representative, level 3
-
-* Work beyond customer support tickets is self-directed and doesn’t necessarily need to be reviewed, occasionally needs help with choosing items that are impactful. Understands when to initiate on-call workflow without guidance from peers. Complete and deep expertise with all versions of Basecamp. Can handle any inquiry.
-* Has predictable and high throughput, exceeds CS values, while also maintaining a high level of customer satisfaction. Generates new ideas and systems in order to deliver better customer support. Is creative and customer-centric. Works independently.
-* Can provide material feedback on the work of Level 1-2 customer support and still maintain productivity. Can work very effectively with difficult or upset customers. Initiates training, publishes to SvN is seen as a leader, “go-to” person on the team.
-* Tests on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations.
-* Can single-handedly handle a crisis either by taking control over reporting and channels, or delegating tasks to others.
-* Pattern recognition fully developed in order to contribute significantly to product features/enhancements.
-* Usually at least 5-8 years of experience being a customer support professional.
-
-## Lead Customer Support Representative, level 4
-
-* Work happens completely autonomously with no regular need for review.
-* Understands when to initiate on-call workflow without guidance from peers. Uses console access to resolve cases that require pre-written scripts or other basic code touches to fix common issues.
-* Tier 2/UX skills developing:
-  * Has console experience, including bug investigation via On Call work while maintaining regular customer conversations.
-  * AND/OR
-  * Demonstrates product dedication via User Experience work while maintaining regular customer conversations.
-* Demonstrates product dedication via testing on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations.
-* Fully capable of owning and resolving any type of ticket. Clearly articulates new issues for software development engineers, suggests changes to website. Authors help desk, contributes original content to knowledge base. Designs new programs that have high customer impact.
-* Helps set and maintain professional standards for the entire organization. Is highly regarded and respected by others on the team.
-* Deep, substantial expertise in multiple environments (all versions of Basecamp, other products, our apps, security, sign on, email logs, Dash and trollcop, sign on, trace routes, network issues, desktop issues — Macs, PCs and a variety of handhelds, etc.)
-* Capable of running and directing small teams for substantial projects. Expert within technology beyond Basecamp, like browsers, both OS. Is good at getting to root causes of issues and then writing them up in a way that can be acted upon by software development. Consulted by developers and designers for input.
-* Pattern recognition fully developed in order to pitch new product features/enhancements.
-* Usually at least 8-12 years of experience being a customer support professional.
-
-## Principal Customer Support Representative, level 5
-
-* Work happens completely autonomously with no regular need for review.
-* Uses console access to resolve cases that require pre-written scripts or other basic code touches to fix common issues.
-* Tier 2/UX skills developed:
-  * Trains others on console and performs significant amount of On Call work while maintaining regular customer conversations.
-  * OR
-  * Demonstrates significant product expertise via User Experience work while maintaining regular customer conversations. Can introduce others/train others in this pathway.
-* Demonstrates significant product expertise via testing on multiple platforms and reporting findings as Advanced Troubleshooting/Quality Documentation while maintaining regular customer conversations. Can introduce others/train others in this pathway.
-* Expert within technology beyond Basecamp, like browsers, both OS, and many third-party API extensions. Excels at getting to root causes of issues and then writing them up in a way that can be acted upon by software development. Does not necessarily need help from developers, marketing, or design for input.
-* Authors help desk, contributes original content to knowledge base. Designs new programs that have high customer impact. Writes new classes and delegates/trains others on them.
-* Helps set and maintain professional standards for the entire organization. Is highly regarded and respected by others on the team.
-* Conceives of, writes, and trains others on new policies.
-* Deep, substantial expertise in multiple environments (all versions of Basecamp, other products, our apps, security, sign on, email logs, Dash and trollcop, sign on, trace routes, network issues, desktop issues — Macs, PCs and a variety of handhelds, etc.)
-* Runs and directs small teams for substantial projects. Can delegate without pause, yet leads by following. Understands expertise of each programmer, designer, and site reliability engineer in order to expediently consult and problem-solve. Pattern recognition fully developed in order to pitch new product features/enhancements. Helps find budgetable time and resources to get a problem solved; offers to help code/design initial first drafts in part of pitch.
-* Usually at least 12-16 years of experience being a customer support professional.
