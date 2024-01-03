@@ -1,62 +1,19 @@
 # Titles for Ops
 
-We use the following criteria to assess the level and title of ops at 37signals. These criteria aren’t exhaustive, and they aren’t mere checklists. The criteria outline the shape of what work at a given level on the Ops team at 37signals looks like.
-
-It should also be noted that these criteria chiefly examine the scope of work someone is capable of tackling independently. In addition to that assessment, we also look at the consistency and quality of the execution itself. 37signals pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target.
-
-## Junior Site Reliability Engineer
-
-* Discussion about tasks and how to complete them prior to starting work is required.
-* Basic familiarity with networking, configuration management, containers, orchestration, and other major systems, and with common processes and procedures.
-* Mostly carries out low-risk, isolated system maintenance tasks; passively participates in emergency problem resolution.
-* Many questions to more senior team members.
-* Does not participate in on-call rotation.
-* Self taught; may have worked at IT Help Desk for 1-2 years.
-
-## Site Reliability Engineer
-
-* Work is reviewed with the occasional need for material direction or implementation changes.
-* Works on single system / variable problems.
-* Can handle on call with the backing of a more senior team member.
-* Can perform work on production systems by following existing procedures.
-* Shows strength in some areas of specialization, but lacks the balance of experience in all areas.
-* Lacks institutional knowledge about our systems. Not completely familiar with documentation or procedures.
-* Usually at least 5 years of experience as sysadmin or programmer with site reliability experience.
-
-## Senior Site Reliability Engineer
-
-* Work doesn’t necessarily need to be reviewed, but general approach may be.
-* Can work independently on smaller projects and be a reliable contributor to larger projects.
-* Fully participates in on call rotation.
-* Subject matter expert in at least one major system.
-* Plans and performs lower risk maintenance independently. Participates in higher risk maintenances.
-* Contributes to resolving major problems.
-* Improves existing professional standards for the team.
-* Usually at least 6-10 years of experience being a professional sysadmin or network engineer; typically 5 years experience at 37signals internalizing how we work.
-
-## Lead Site Reliability Engineer
-
-* Able to fill in and lead team for short periods.
-* Work happens completely autonomously with no regular need for review.
-* Expert on multiple systems. Helps make strategic decisions around major components.
-* Elevates the standards through new tooling, processes, procedures and effective communication. Able to carry out research, testing, implementation and improvement for new systems.
-* Leads high risk maintenance with limited to no customer impact.
-* Significant technical contributor to problem resolution; demonstrates consistent maturity in communication and demeanor under stress.
-* Performs more complex work like capacity planning, load testing, security improvements, etc.
-* Sets new professional standards for the team.
-* Usually at least 8-12 years of experience being a professional sysadmin.
-
-## Principal Site Reliability Engineer
-
-* Can run large and complex Ops projects independently.
-* Carries significant responsibility for many domains of infrastructure.
-* Multiple areas of expertise: configuration management, containers, continuous integration / development, debugging, orchestration, optimization, networking, performance, reliability, security.
-* Makes what is new normal; what is old reliable; evangelizes what is next.
-* Pushes the whole organization forward regularly through implementing new systems and designs.
-* Writes new procedures and documentation regularly; trains others throughout the company.
-* Work is almost always free of mistakes; often helps others improve the quality of their work.
-* Completely comfortable working with all teams at 37signals; frequently coordinates work across teams to solve complex problems.
-* When a site is down, something is broken, or work is crazy, this person is ready to save the day and lead us to a successful resolution.
-* Effectively delegates work to others; acts as a leader who has earned the respect of their peers.
-* Capable of coordinating company wide response to major issues and leading problem resolution via emergency procedures.
-* Usually 12-15 years of experience being a professional sysadmin.
+| Category | SRE L1 | SRE L2 | SRE L3 | SRE L4 | SRE L5 |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| **Skill** |  |  |  |  |  | 
+| *Mastery* | Competent in 1-2 areas (e.g. networking, configuration management, containers, orchestration) and with common processes and procedures. | Proficient in one or more areas of expertise (e.g. networking, configuration management, containers, orchestration), and experienced with common processes and procedures. | Proficient in multiple areas of expertise (e.g. networking, configuration management, containers, orchestration), and fully understands common processes and procedures. | Expert in multiple areas. Leads the team and mentors others on common processes and procedures. | Has multiple, broad areas of expertise: configuration management, containers, continuous integration / development, debugging, orchestration, optimization, networking, performance, reliability, security. Makes what is new normal; what is old reliable; evangelize what is next. | 
+| *Mastery* | Assists with performing work on production systems with help from more senior teammates. Performs low-risk maintenance with help. | Performs work on production systems by following existing procedures. Plans and performs low-risk maintenance independently. | Plans and performs maintenance independently. Participates in higher risk maintenances. | Performs complex work like capacity planning, load testing, and security improvements. Leads high-risk maintenance with limited to no customer impact. | Leads high-risk maintenance with limited to no customer impact. When a site is down, something is broken, or work is crazy, ready to save the day and lead us to a successful resolution. | 
+| *Mastery* | Shadows on call shifts and assists with triaging on-call issues. | Participates in on call shifts with the backing of a more senior team member. Confidently handles or triages production issues. | Full participant in regular on-call shifts and confident in ability to handle or triage production issues. | Can lead the resolution of any problem. Significant technical contributor to problem resolution; demonstrates consistent maturity in communication and demeanor under stress. | Fully capable of leading critical incident response. Coordinates internal and external responses to major issues. Leads problem resolution via emergency procedures. | 
+| *Tech and Tooling* | Uses our most common tools & systems in day to day work. | Familiar with all the major tools, systems, and documentation. | Subject matter expert in at least one of our major systems. | Subject matter expert on multiple systems. You help make strategic decisions around major components. | Leader on the team, technically and culturally. Manages critical, complex projects independently and capable of effectively delegating large subsections of work to your teammates. Spends considerable time helping others improve. |
+| *Scope* | Works independently on smaller projects. Shows strength in some areas of specialization, but lacks experience in all areas yet. | Works independently on small projects and is a reliable contributor to larger projects and resolving major problems. Shows strength in some areas of specialization, but lack experience in all areas yet. | Works independently on small projects and are a reliable contributor to larger projects and resolving major problems. | Elevates team and company standards through developing new tooling, processes, procedures, and effective communication. Carries out research, testing, implementation and improvement for new systems. | Elevates team and company standards through developing new tooling, processes, procedures, and effective communication. Carries out research, testing, implementation and improvement for new systems. You push the whole organization forward regularly through implementing new systems and designs. | 
+| *Judgment* | Manages projects with help scoping and planning.Demonstrates curiosity in their discipline and seeks out advice from more senior teammates. | Scopes and manages small projects with minimal oversight and approval. Has a good sense for when to cut scope to deliver projects on time. Identifies and resolves problems, improves work they touch/leaves work in better shape. Pays attention to detail. | Scopes and manages large projects with minimal assistance. Experience is sought by peers for advice. Improves existing professional standards for the team. | Strong ability to set scope and manage critical projects with minimal oversight or approval. Defines professional standards. Is sought out for advice. | Able to apply agility and judo to even the most complex of deep technical work. Ensures that team's output is at the highest technical standards. A leader in ensuring robust and effective best practices are understood and followed across the organization. | 
+| **Engagement** |  |  |  |  |  | 
+| *Ownership - Manager of One* | Requires help setting a direction when assigned work. Asks questions when you need help, researches what's been done in the past and why, attempts to solve problems independently. | Set their own direction once assigned work. Asks questions but you don't need regular status checks. | Sets their own direction and works with little to no oversight or help. Conceptualizes new work to be done, steps to get there, and then executes the steps to complete it. | Capable of setting team direction. Skillfully manages projects and resources, requiring little to no redirection or input from leadership. | Fully capable of leading the most critical production incidents to successful resolution, coordinating company-wide responses and advising on public communications. | 
+| *Communication* | Communicates well in team calls and check-ins, heartbeats, and kick-offs. | Attempts to unblock themselves but ask for help when needed. Communicates well within the team structure, sharing knowledge and bringing in more experienced teammates when needed. | Attempts to unblock themselves but ask for help when needed. Communicates well within the team structure, sharing knowledge and bringing in more experienced teammates when needed. | Acts as a representative to the company, weighing in on larger discussions and making recommendations. Rarely need help unblocking themselves, and acts as a resource for others. | Demonstrate project management and communication best practices. Ensures leadership is informed on team progress. Responsible for cycle planning. |
+| *Planning* | Plans individual tasks with little oversight. Can identify small pieces of work without having them assigned. Able to pitch small projects or improvements to the team and explain why it's important and should be prioritized. | Plans individual projects effectively with little oversight. Contributes to cycle planning. Identifies work without having it assigned and without askin gothers what's important. Able to pitch projects to the team and explain why it's important and should be prioritized. | Plans individual projects. Contributes to cycle planning. Identifies work without having it assigned and without asking others what's important. Able to pitch projects to the team and explain why it's important and should be prioritized. | Key contributor to cycle planning. Able to plan and execute large projects while keeping team and company strategy in mind. | Regularly challenges their team or discipline to help drive projects forward,to better deliver on team/discipline priorities. |
+| *Flexibility* | Has some points of view about technical solutions and best practices, but mostly observes and learns from the more senior members of your team. | Demonstrated willingness to express a viewpoint and opinion, and able to disagree and commit. | Demonstrated strong points of view about technical approaches and solutions that are rooted in experience. Willing to express a viewpoint and opinion,and also able to disagree and commit. | Strong points of view rooted in experience, technical expertise, and industry best practices. Expresses opinions confidently and effectively,and can balance your recommendations with the larger needs of the team. Able to disagree and commit. | Demonstrated abiility to think through problems and devise and apply novel solultions that are outside the box. Able to disagree and commit. | 
+| *Trust* | Contributes to small projects with direction and help. Work is reviewed. | Productive member of the team, able to contribute effectively to small projects. Work is reviewed with the occasional need for material direction or implementation changes. | Fully productive member of the team, able to contribute to almost any project. Work doesn’t necessarily need to be reviewed, but general approach may be. | Able to contribute to any project. Work happens completely autonomously with no regular need for review. Work is almost always free of mistakes, and you often help others improve the quality of their work. | Significant technical contributor to complex problem resolution; demonstrates consistent maturity in communication and demeanor under stress. | 
+| **Coachability** |  |  |  |  |  | 
+| *Feedback* | Actively seeks feedback. Receives feedback with a positive attitude, and applies corrective feedback. Hungry for growth & development. | Able to weigh in on larger discussions at the team level with helpful, relevent feedback. Receives feedback with a growth mindset. | Able to act as informal mentor, and provides helpful, direct, specific feedback to more junior teammates. | Capable of being a technical lead. Sought by colleagues on and off the team for help with critical work or decisions. Able to disagree and commit. | Capable of being a team lead to any size team. Sought by colleagues on and off the team for help with critical work or decisions. Able to disagree and commit. | 
