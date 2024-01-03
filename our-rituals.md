@@ -16,4 +16,4 @@ Our COO runs the All Hands, but many people across departments may present on to
 
 ## Everyone on Support (EOS)
 
-Everyone in the company is encouraged to do periodic Customer Support shifts. We call it Everyone on Support (EOS). Talking directly to customers helps us realize what’s wrong and what’s right with our products. You’ll always have access to our wonderful Support team if you need help writing clear and correct answers to customer questions through Help Scout, our support response tool. There's no set schedule for EOS.
+Everyone in the company is encouraged to do periodic Customer Support shifts. We call it Everyone on Support (EOS). Talking directly to customers helps us realize what’s wrong and what’s right with our products. You’ll always have access to our wonderful Support team if you need help writing clear and correct answers to customer questions through Help Scout, our support response tool.
