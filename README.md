@@ -10,8 +10,6 @@ Please reach out to the People Ops team or to your manager if you have any quest
 
 ## Sections
 
-* [Product Histories](https://github.com/basecamp/handbook/blob/master/product-histories.md)
-* [Where We Work](https://github.com/basecamp/handbook/blob/master/where-we-work.md)
 * [Benefits & Perks](https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md)
 * [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md)
 * [How We Work](https://github.com/basecamp/handbook/blob/master/how-we-work.md)
