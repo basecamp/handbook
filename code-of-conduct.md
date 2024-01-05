@@ -28,6 +28,10 @@ In extreme circumstances, you can [report an incident anonymously](https://3.bas
 
 An important note: Most interpersonal conflicts do not rise to the level of a Code of Conduct report. If you find a colleague rude or difficult to work with, you should address that with your manager or better yet with that colleague directly. Code of Conduct reports are reserved for the kind of unacceptable behavior outlined above and other serious transgressions — illegal or egregiously unethical behavior.
 
+## Politics at work
+
+We respect everyone’s right to participate in political expression and activism, but we avoid having political debates on our internal communication systems. 37signals as a company also does not weigh in on politics publicly, outside of topics directly related to our business. You should be at peace with both of these stances.
+
 ## Some Definitions & Resources
 
 * [Discrimination](https://www.eeoc.gov/discrimination-type)
