@@ -9,12 +9,20 @@ If you’re new to the company, welcome! It’s important that you review everyt
 Please reach out to the People Ops team or to your manager if you have any questions about the information contained in this handbook.
 
 ## Sections
-
-* [Benefits & Perks](https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md)
 * [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md)
+* [Benefits & Perks](https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md)
 * [How We Work](https://github.com/basecamp/handbook/blob/master/how-we-work.md)
-* [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md)
 * [Making a Career](https://github.com/basecamp/handbook/blob/master/making-a-career.md)
+* [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md)
+* [Managing Work Devices](https://github.com/basecamp/handbook/blob/master/managing-work-devices.md)
 * [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)
 * [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
 * [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
+* [Code of Conduct](https://github.com/basecamp/handbook/blob/master/code-of-conduct.md)
+* [State Leave Provisions](https://github.com/basecamp/handbook/blob/master/stateFMLA.md)
+* [Titles for Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md)
+* [Titles for Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md)
+* [Titles for Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
+* [Titles for QA](https://github.com/basecamp/handbook/blob/master/titles-for-QA.md)
+* [Titles for Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md)
+
