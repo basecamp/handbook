@@ -31,6 +31,14 @@ If you’re outside of the US and pay out of pocket for private health insurance
 
 37signals offers a $400,000 life insurance/AD+D policy to all staff through MetLife. The company pays 100% of the premium. You’re eligible for coverage on your first day of employment, and it’s terminated automatically on your final day of employment. Open enrollment is in November every year, and participants are auto-enrolled at that time.
 
+### Short Term Disability Insurance
+
+37signals provides a MetLife short-term disability policy to all US employees, at no cost to the employee. The policy may replace up to 70% of your salary on a weekly basis, for up to 12 weeks and up to $3,000 per week. There is a 7-calendar-day waiting period when you become ill or injured. 
+
+You’re eligible for coverage on your first day of employment, and the policy will be terminated on your final day of employment.
+
+More information about the policy and filing claims can be found [in Basecamp](https://3.basecamp.com/2914079/buckets/28168307/vaults/6902906404).
+
 ## Retirement Plan
 
 Our retirement plan for US employees is with Vanguard. 37signals matches 100% of what you contribute, up to 6% of your salary. You are eligible to enroll in the 401K plan with your first paycheck.
@@ -39,53 +47,45 @@ If you’re outside the US, 37signals will match what you contribute to a retire
 
 ## Flexible Spending Account (FSA)
 
-The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $3,050/year. There is a separate type of FSA for dependent care, and the max for that plan is $5,000/year or $2,500/year if you split this with a partner. This is an entirely optional program. Open enrollment is in December every year, with new coverage beginning January 1. Both FSAs are with Paychex, our payroll provider.
+The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $3,200/year per person in your household. There is a separate type of FSA for dependent care, and the max for that plan is $5,000/year or $2,500/year if you split this with a partner. This is an entirely optional program. Open enrollment is in December every year, with new coverage beginning January 1. Both FSAs are with Paychex, our payroll provider.
 
 ## Paid Time Off
 
-### Vacation Time
-
-37signals offers 18 days of paid time off plus [11 local holidays](https://3.basecamp.com/2914079/buckets/28168307/documents/5061131347) every year. We ask that you [track your time off](https://3.basecamp.com/2914079/projects/14971171). Your vacation time is prorated based on your start date during your first year at 37signals. Your vacation time rolls over year to year with a maximum bank of 27 days at any time. If you are terminated or resign from 37signals with vacation days in your bank, you’ll be paid the monetary equivalent for those unused days (prorated at the time of your departure).
+37signals offers 20 days of vacation and personal days  plus [11 local holidays](https://3.basecamp.com/2914079/buckets/28168307/documents/5061131347) every year. We ask that you [track your time off](https://3.basecamp.com/2914079/projects/14971171). Your vacation time is prorated based on your start date during your first year at 37signals. Your vacation time rolls over year to year with a maximum bank of 27 days at any time. If you are terminated or resign from 37signals with vacation days in your bank, you’ll be paid the monetary equivalent for those unused days (prorated at the time of your departure). Unused holidays are not paid upon termination or resignation.
 
 ### Sabbatical
 
-In addition to annual PTO and holidays, every *three* years employees may take a 30-day paid sabbatical. Give your team a heads-up preferably three months in advance so they can coordinate. If you’re terminated or resign from 37signals with an unused sabbatical, 37signals will pay you the monetary equivalent of those unused days only if your unused sabbatical was earned within the previous 12 months.
+In addition to annual PTO and holidays, every *three* years employees may take a 6-week paid sabbatical. Give your team a heads-up, preferably three months in advance, so they can coordinate. If you’re terminated or resign from 37signals with an unused sabbatical, 37signals will pay you the monetary equivalent of those unused days only if your unused sabbatical was earned within the previous 12 months.
 
-### Sick Time
+### Paid Sick Time
 
-We don’t offer a bank of sick days nor do we ask you to track your sick days. However if you’re unexpectedly away from work due to illness or injury for more than 5 consecutive work days, you’ll transition from sick time to Personal Leave. 37signals does not pay out for unused sick time upon resignation or termination, since we have no sick time bank.
+We don’t offer a bank of sick days, nor do we ask you to track your sick days. When you’re sick, please notify your manager as soon as you know you’ll be out, and for how long you expect to be out. 
 
-Your manager will check in with you if you’re consistently taking 3+ unplanned sick days per month. Excessive use of sick time may result in disciplinary measures. If you have a medical condition you know will take you away from work regularly, please work with your manager for accommodations.
+If you’ll be away from work due to illness or injury for more than 7 consecutive work days, you may be required to file a short-term disability claim.. 
 
-### Personal Leave
+37signals does not pay out for unused sick time upon resignation or termination. 
 
-If you are unable to work for more than 1 week because of illness or injury, let your manager know as soon as you can. You can take four weeks off at 100% pay. If after 4 weeks, you’re still unable to work, your salary will drop to 70% for an additional 8 weeks. Your medical insurance will remain in force throughout your Leave. If after 12 weeks, you still cannot work, talk to your manager, and we will discuss what comes next on a case-by-case basis. You may be asked to provide medical documentation to support your request for Personal Leave, and Personal Leave is limited to one instance of paid leave per 12-month period.
+Your manager will check in with you if you’re taking frequent unplanned sick days. Excessive use of sick time may result in disciplinary measures. If you have a medical condition that you know will take you away from work regularly, please work with your People Ops team and your manager.
 
 ### Summer Hours
 
-We work 4-day work weeks from May 1 through August 31 every year. An employee who has just been hired may have to complete a training program per their team lead to be eligible. When a holiday occurs during summer hours, you can take the holiday off *or* your normal summer day off. Any additional days off would count as vacation days.
+We work 4-day work weeks from May 1 through August 31 every year. An employee who has just been hired may have to complete a training program, designated by their team lead, to be eligible. When a holiday occurs during summer hours, you can take the holiday off *or* your normal summer day off. Any additional days off count as vacation days.
 
 ### Scheduling Time Off
 
 37signals doesn’t have a formal time off request process. It’s your responsibility to work with your manager and team to ensure coverage and manage your scheduled workload. The sooner you can inform your manager and team of your planned absence, the better, especially longer absences like sabbatical or long vacations. If your team has a defined process for scheduling time off, please follow that first.
 
-The only time we ask you *not* to schedule discretionary time off is during a CODE. At 37signals, we assign a CODE when urgent work needs to be done. We have three levels of criticality. A CODE RED is an emergency, a CODE YELLOW is less immediate but still critical, and a CODE LAUNCH is called when we’re in the final stages of launching a new product. If we’re in the midst of one of these and you can delay your vacation or sabbatical until after the code has ended, please do.
-
 ## Family Leave
 
-If you become the primary caregiver of a child, you can take up to 16 weeks leave at 100% pay. If you become the secondary caregiver of a new child, you can take up to 6 weeks leave at 100% pay. You may choose to take an additional unpaid leave as the primary or secondary caregiver.
+If you become the primary caregiver of a child, you can take up to 16 weeks leave at 100% pay. If you become the secondary caregiver of a new child, you can take up to 6 weeks leave at 100% pay. You may choose to take an additional unpaid leave as the primary or secondary caregiver. All parental leave must be taken within the first year of the child’s birth or placement.
 
-Some states require us to provide additional [benefits](https://github.com/basecamp/handbook/blob/master/stateFMLA.md#new-york).
+Some states offer additional [benefits](https://github.com/basecamp/handbook/blob/master/stateFMLA.md) to their residents.
 
 ## Bereavement Leave
 
 When you lose a loved one, you can take paid time off from work for bereavement, making arrangements, settling family affairs, and attending the funeral or memorial service. Let your manager know your plans as soon as you can so they can arrange for your absence.
 
-You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave. And if you know you’ll be away from work for much longer than outlined above, please talk to your manager to discuss that special case.
-
-## Employee Assistance Program (EAP)
-
-The 37signals EAP is through ComPsych, and it provides a *confidential* avenue for you to get assistance with issues regarding health, family, legal, financial, wellness or other personal matters. When you call or email ComPsych, you’ll be connected to a certified representative who can help you one-on-one at that time, or who can refer you to someone in your area for longer-term help. Services range from immediate or crisis mental health care to phone-help on your 401k investments to a referral to a lawyer in your area to help with your estate planning. Because we use the EAP, you also receive discounts on those referrals to professionals.
+You can take ten days of bereavement leave for the death of an immediate family member, and three days leave for the death of an extended family member. If you know you’ll be away from work for much longer, please talk to your manager to discuss that special case.
 
 ## Pet Insurance
 
@@ -109,15 +109,15 @@ Employees are eligible for shares in the liquidity pool after two years of worki
 
 This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the liquidity pool if you resign or are terminated from 37signals before the distribution date.
 
-## Employee Gifts
+## Laptop Policy
 
-At the end of every year, 37signals gives a thank-you gift to employees. The gift changes year to year and is not intended to be a year-end bonus.
-
-Employees also receive a thank-you gift on their anniversaries with the company.
+We order a new MacBook for everyone hired at 37signals. You can choose the model and specs, within reason and considering the demands of your role. You can upgrade your laptop at any time – when yours breaks, gets too old, or if a more efficient model is released and replacing your machine would benefit your work. Please get approval from Finance before purchasing a new laptop.
 
 ## Home Office Set-up
 
-Since you work remotely, we want to make sure your home office is comfortable. During your first year at 37signals, you can expense up to $2,000 on things like a new desk, new desk chair, or other office furniture. This benefit expires on your first anniversary with the company.
+During your first year at 37signals, you can expense up to $,3,000 on a new desk, new desk chair, computer accessories, or other office furniture.
+
+When your office furniture needs to be replaced, you can do so with approval from People Ops.
 
 ## Coworking Space Stipend
 
@@ -131,10 +131,6 @@ All employees can have a free personal Basecamp account and a free personal HEY 
 
 ## Expense Account
 
-All staff carry a 37signals Visa card that you can use for work expenses like the benefits described above, software, computer equipment, meet-up travel, or office supplies. Check with your manager or Andrea if you have any doubts about whether or not a purchase qualifies as a work expense.
+All staff carry a 37signals Visa card that you can use for work expenses like the benefits described above, software, computer equipment, meet-up travel, or office supplies. Check with your manager or your People Ops team if you have any doubts about whether or not a purchase qualifies as a work expense.
 
 We use an expense management platform called [Airbase](https://www.airbase.com/). You’re responsible for the monthly categorizing of your expenses and uploading receipts for purchases over $75. Full instructions on how to log your expenses in Airbase can be found in [Basecamp](https://3.basecamp.com/2914079/buckets/28168307/documents/5508145768).
-
-Overall, we trust our employees to spend money wisely. If you’re booking a meet-up flight, you don’t need to buy the cheapest, 2-layover redeye; buy the convenient, well-priced seat. If you’re attending a conference on behalf of 37signals, we’ll buy your meals. Just try to stay away from caviar and champagne at dinner (okay, maybe once if you have a great day to celebrate).
-
-Speaking of conferences — please limit your attendance at professional conferences to once a year. Don’t extend your hotel stay too far to either side of the conference schedule; you should be traveling specifically to attend the conf. Our conference budget guidelines mirror our mini meet-up budget guidelines; you can find those in [Basecamp](https://3.basecamp.com/2914079/buckets/22311406/documents/4347682694).
