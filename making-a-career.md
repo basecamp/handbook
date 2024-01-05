@@ -24,7 +24,7 @@ Within each of our job functions, we’ve mapped our trajectory of mastery to fi
 
 While this is how we recognize mastery, it’s by no means an expectation that everyone will start as a junior and end up as a principal. 37signals needs people and perspectives from all levels of skill. And for those who do end up progressing all the way through this path, it may well be a journey of many, many years, if not a decade+.
 
-You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md).
+You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [QA](https://github.com/basecamp/handbook/blob/master/titles-for-QA.md), and [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md).
 
 ## Pay & Promotions
 
