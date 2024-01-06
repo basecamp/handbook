@@ -8,7 +8,7 @@ This doesn’t mean you are being monitored or tracked! Kandji is a configuratio
 
 Knowing our devices are safe and secure allows us to entrust our work computers with access to sensitive systems like Queenbee, and our internal VPN and remote servers. This means installing the VPN, checking out 37signals code, and storing secrets must only be done on a managed work device, not a personal device.
 
-Please do not keep any personal data on your 37signals-issued laptop. You should maintain a separate, personally-owned machine if you need a home computer. The company reserves the right to and may be required to confiscate your laptop or its data at any point.  
+Please do not keep any personal data on your 37signals-issued laptop. You should maintain a separate, personally-owned machine if you need a home computer. The company reserves the right to and may be required to confiscate your laptop or its data at any point.
 
 ## Mobile devices, Windows and Linux
 

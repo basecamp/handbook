@@ -8,7 +8,7 @@ In your first 90 days, you’ll be getting aligned with your manager on approach
 
 When you start, you’ll receive an outline of expected performance metrics for your first 3 months. Those standards will be clear and attainable, and your manager will give you frequent, candid feedback. On occasion, despite our collective best efforts, it’s not a fit. We don’t do full-scale performance improvement plans during the first three months. So if during that time it starts looking like your long-term employment won’t work out, your manager will let you know early and why.
 
-We hope, and fully expect, that your first 90 days will confirm what we learned in the hiring phase — you’re well suited for this job,  and you’re invigorated by the work to be done. Just put in your best effort, make sure you reach out if things aren’t feeling right, embrace the feedback you get from your manager, and openly share your feedback with them!
+We hope, and fully expect, that your first 90 days will confirm what we learned in the hiring phase — you’re well suited for this job, and you’re invigorated by the work to be done. Just put in your best effort, make sure you reach out if things aren’t feeling right, embrace the feedback you get from your manager, and openly share your feedback with them!
 
 ## Mastery & Titles
 
@@ -28,7 +28,7 @@ You can see the specific titles and proficiencies expected for: [Designers](http
 
 ## Pay & Promotions
 
-37signals pays at the top 10% for our industry at San Francisco salary levels, regardless of where you live. The comparison data is provided by a company called Radford that polls compensation data from all the major companies in our industry and plenty of our smaller peers as well. 
+37signals pays at the top 10% for our industry at San Francisco salary levels, regardless of where you live. The comparison data is provided by a company called Radford that polls compensation data from all the major companies in our industry and plenty of our smaller peers as well.
 
 Some jobs at 37signals are *not* matched to Radford comparison data. Compensation for common technical roles like programming and design is reliably competitive in a market like San Francisco. For some non-technical roles, compensation is much lower, and much less competitive. To compensate for that industry disparity, we instituted a [$73,500 salary floor](https://m.signalvnoise.com/minimum-pay-at-basecamp-is-now-70000/) (floor adjusted for inflation since publishing).
 

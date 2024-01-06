@@ -33,7 +33,7 @@ If you’re outside of the US and pay out of pocket for private health insurance
 
 ### Short Term Disability Insurance
 
-37signals provides a MetLife short-term disability policy to all US employees, at no cost to the employee. The policy may replace up to 70% of your salary on a weekly basis, for up to 12 weeks and up to $3,000 per week. There is a 7-calendar-day waiting period when you become ill or injured. 
+37signals provides a MetLife short-term disability policy to all US employees, at no cost to the employee. The policy may replace up to 70% of your salary on a weekly basis, for up to 12 weeks and up to $3,000 per week. There is a 7-calendar-day waiting period when you become ill or injured.
 
 You’re eligible for coverage on your first day of employment, and the policy will be terminated on your final day of employment.
 
@@ -51,7 +51,7 @@ The FSA is an account where you can set aside pre-tax money for out-of-pocket me
 
 ## Paid Time Off
 
-37signals offers 20 days of vacation and personal days  plus [11 local holidays](https://3.basecamp.com/2914079/buckets/28168307/documents/5061131347) every year. We ask that you [track your time off](https://3.basecamp.com/2914079/projects/14971171). Your vacation time is prorated based on your start date during your first year at 37signals. Your vacation time rolls over year to year with a maximum bank of 27 days at any time. If you are terminated or resign from 37signals with vacation days in your bank, you’ll be paid the monetary equivalent for those unused days (prorated at the time of your departure). Unused holidays are not paid upon termination or resignation.
+37signals offers 20 days of vacation and personal days plus [11 local holidays](https://3.basecamp.com/2914079/buckets/28168307/documents/5061131347) every year. We ask that you [track your time off](https://3.basecamp.com/2914079/projects/14971171). Your vacation time is prorated based on your start date during your first year at 37signals. Your vacation time rolls over year to year with a maximum bank of 27 days at any time. If you are terminated or resign from 37signals with vacation days in your bank, you’ll be paid the monetary equivalent for those unused days (prorated at the time of your departure). Unused holidays are not paid upon termination or resignation.
 
 ### Sabbatical
 
@@ -59,11 +59,11 @@ In addition to annual PTO and holidays, every *three* years employees may take a
 
 ### Paid Sick Time
 
-We don’t offer a bank of sick days, nor do we ask you to track your sick days. When you’re sick, please notify your manager as soon as you know you’ll be out, and for how long you expect to be out. 
+We don’t offer a bank of sick days, nor do we ask you to track your sick days. When you’re sick, please notify your manager as soon as you know you’ll be out, and for how long you expect to be out.
 
-If you’ll be away from work due to illness or injury for more than 7 consecutive work days, you may be required to file a short-term disability claim.. 
+If you’ll be away from work due to illness or injury for more than 7 consecutive work days, you may be required to file a short-term disability claim.
 
-37signals does not pay out for unused sick time upon resignation or termination. 
+37signals does not pay out for unused sick time upon resignation or termination.
 
 Your manager will check in with you if you’re taking frequent unplanned sick days. Excessive use of sick time may result in disciplinary measures. If you have a medical condition that you know will take you away from work regularly, please work with your People Ops team and your manager.
 
