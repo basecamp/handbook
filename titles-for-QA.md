@@ -1,6 +1,6 @@
 # Titles for QA
 
-| Category | QA Tester L3 | QA Tester L4 |
+| Category | Senior QA Tester (L3) | Lead QA Tester (L4) |
 | ----- | ----- | ----- |
 | **Skill** |  |  |
 | *Mastery* | Demonstrates broad depth of knowledge of our products. Produces well-considered, high-quality QA reports beyond the happy path. Skilled in our entire testing toolset. | Intimate knowledge of our entire product suite. Acts as a subject matter expert on our QA approach, product features and shortcomings. Skilled in other testing disciplines such as accessibilty, security or advanced tools (e.g. Litmus, Browser Stack, Test Rail) |
