@@ -1,6 +1,6 @@
 # Titles for Designers
 
-| Category | Designer L2 | Designer L3 | Designer L4 | Designer L5 |
+| Category | Designer (L2) | Senior Designer (L3) | Lead Designer (L4) | Principal Designer (L5) |
 | ----- | ----- | ----- | ----- | ----- |
 | **Skill** |  |  |  |  |
 | *Technical* | Your design sensibilities align with the 37signals brand and guiding principles but occasionally need some correcting from more senior designers. | Your design sensibilities align with the 37signals brand and guiding principles. | Your design sensibilities align with the 37signals brand and guiding principles. You're an inventor of novel and unique designs, flows, and experiences. | Your design sensibilities align with the 37signals brand and guiding principles. You're able to make major contributions to the look and feel of products, invent brand new product designs, and extend and improve upon our brand and principles. |
