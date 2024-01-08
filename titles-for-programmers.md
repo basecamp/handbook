@@ -15,7 +15,7 @@ Our Mobile programming teams (iOS and Android) have 1 manager overseeing both te
 
 ## Individual Contributor Expectations
 
-| Category | Programmer L1 | Programmer L2 | Programmer L3 | Programmer L4 | Programmer L5 |
+| Category | Junior Programmer (L1) | Programmer (L2) | Senior Programmer (L3) | Lead Programmer (L4) | Principal Programmer (L5) |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Skill** |  |  |  |  |  |
 | *Mastery* | Proficient in basic language and framework features, but some advanced structures or features may still be unfamiliar. Occasional issues following patterns and approaches within existing code bases. | Follows established patterns and approaches within existing code bases with ease. Writes code that is considered high quality by colleagues. | Capable of introducing new patterns and conventions when needed. Produces pragmatic and high quality solutions to challenging or complicated problems. | Acts as a subject matter expert on multiple systems. Makes strategic decisions around major components. | Invents new concepts, creates new systems, pushes the whole organization or industry forward regularly. |
