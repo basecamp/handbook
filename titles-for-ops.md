@@ -1,6 +1,6 @@
 # Titles for Ops
 
-| Category | SRE L1 | SRE L2 | SRE L3 | SRE L4 | SRE L5 |
+| Category | Junior SRE (L1) | SRE (L2) | Senior SRE (L3) | Lead SRE (L4) | Principal SRE (L5) |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Skill** |  |  |  |  |  |
 | *Mastery* | Competent in 1-2 areas (e.g. networking, configuration management, containers, orchestration) and with common processes and procedures. | Proficient in one or more areas of expertise (e.g. networking, configuration management, containers, orchestration), and experienced with common processes and procedures. | Proficient in multiple areas of expertise (e.g. networking, configuration management, containers, orchestration), and fully understands common processes and procedures. | Expert in multiple areas. Leads the team and mentors others on common processes and procedures. | Has multiple, broad areas of expertise: configuration management, containers, continuous integration / development, debugging, orchestration, optimization, networking, performance, reliability, security. Makes what is new normal; what is old reliable; evangelize what is next. |
