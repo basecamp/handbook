@@ -16,9 +16,9 @@ Your training schedules and [onboarding expectations](https://github.com/basecam
 
 Your welcome project will also contain a list of people to meet over the course of your first few weeks.
 
-* your manager. You and your manager will meet on your first day to sort out a recurring 1:1 schedule and to review your specific onboarding expectations.
-* your team. Most teams have a weekly call which you’ll join your first week.
-* your 37signals buddy. Your buddy will be someone who’s not on your immediate team, who’s worked at 37signals for a while, and who can point you in the right direction when you have a question and don’t quite know where to turn. They’ll introduce themselves during your first week, to say hi and offer their help. They’ll check in with you periodically throughout your first couple months to see how you’re settling in.
+* Your manager. You and your manager will meet on your first day to sort out a recurring 1:1 schedule and to review your specific onboarding expectations.
+* Your team. Most teams have a weekly call which you’ll join your first week.
+* Your 37signals buddy. Your buddy will be someone who’s not on your immediate team, who’s worked at 37signals for a while, and who can point you in the right direction when you have a question and don’t quite know where to turn. They’ll introduce themselves during your first week, to say hi and offer their help. They’ll check in with you periodically throughout your first couple months to see how you’re settling in.
 * People Ops. You’ll meet with Andrea to review 37signals policies, benefits, and compensation.
 
 After your environment has been set up, expectations are clear, and you’ve met who you need to meet, you’ll get to work! You’ll begin working on real projects, with plenty of support and guidance, within your first week. Your responsibilities and impact will increase as you learn and gain confidence over the next few months, and most people are up to speed and feeling fully part of the team in about 3 months.
