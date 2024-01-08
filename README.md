@@ -18,7 +18,6 @@ Please reach out to the People Ops team or to your manager if you have any quest
 * [Managing Work Devices](https://github.com/basecamp/handbook/blob/master/managing-work-devices.md)
 * [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)
 * [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
-* [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
 * [Code of Conduct](https://github.com/basecamp/handbook/blob/master/code-of-conduct.md)
 * [State Leave Provisions](https://github.com/basecamp/handbook/blob/master/stateFMLA.md)
 * [Titles for Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md)
