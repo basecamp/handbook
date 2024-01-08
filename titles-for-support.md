@@ -1,6 +1,6 @@
 # Titles for Customer Support
 
-| Category | Customer Support L1 | Customer Support L2 | Customer Support L3 | Customer Support L4 | Customer Support L5 |
+| Category | Junior Customer Support Rep (L1) | Customer Support Rep (L2) | Senior Customer Support (L3) | Lead Customer Support (L4) | Principal Customer Support (L5) |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Skill** |  |  |  |  |  |
 | *Technical* | Communicates basic product knowledge to customers well and with enthusiasm. | Confident in product knowledge and well versed in one product. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. | Proficient in one or more products. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. | Proficient in multiple products. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. | Expert in multiple products. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. |
