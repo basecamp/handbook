@@ -115,7 +115,7 @@ We order a new MacBook for everyone hired at 37signals. You can choose the model
 
 ## Home Office Set-up
 
-During your first year at 37signals, you can expense up to $,3,000 on a new desk, new desk chair, computer accessories, or other office furniture.
+During your first year at 37signals, you can expense up to $3,000 on a new desk, new desk chair, computer accessories, or other office furniture.
 
 When your office furniture needs to be replaced, you can do so with approval from People Ops.
 
@@ -127,7 +127,7 @@ Everyone at 37signals has a subscription to [Deskpass](https://www.deskpass.com)
 
 ## Personal 37signals Accounts
 
-All employees can have a free personal Basecamp account and a free personal HEY account. We'll comp your existing accounts during your on-boarding process when you join the company. If you decide to sign up for either account later, you can comp the accounts in QueenBee so you won't be charged. Ping Andrea or Support if you need help with that.
+All employees can have a free personal Basecamp account and a free personal HEY account. We'll comp your existing accounts during your on-boarding process when you join the company. If you decide to sign up for either account later, you can comp the accounts in Queenbee so you won't be charged. Ping Andrea or Support if you need help with that.
 
 ## Expense Account
 
