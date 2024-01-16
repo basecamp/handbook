@@ -3,10 +3,10 @@
 37signals pledges to be a company with a calm and friendly work environment. What follows applies to all active 37signals employees and contractors.
 
 We expect all active 37signals employees and contractors to:
-* be respectful and empathetic, especially when it comes to differing viewpoints and experiences.
-* gracefully accept constructive criticism and direct feedback, and offer feedback in the same spirit.
-* assume good intentions. Approach work relationships defaulting to trust and positivity.
-* work "in the open" and be open to teaching and learning from others.
+*  assume good intentions. Approach work relationships defaulting to trust and positivity.
+*  work "in the open" and be open to teaching and learning from others.
+*  be respectful and empathetic, especially when it comes to differing viewpoints and experiences.
+*  gracefully accept constructive criticism and direct feedback, and offer feedback in the same spirit.
 
 We expect 37signals to be a healthy place for all staff. 37signals prohibits all forms of discrimination and harassment. 
 
