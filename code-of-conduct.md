@@ -3,12 +3,13 @@
 37signals pledges to be a company with a calm and friendly work environment. What follows applies to all active 37signals employees and contractors.
 
 We expect all active 37signals employees and contractors to:
-*  assume good intentions. Approach work relationships defaulting to trust and positivity.
-*  work "in the open" and be open to teaching and learning from others.
-*  be respectful and empathetic, especially when it comes to differing viewpoints and experiences.
-*  gracefully accept constructive criticism and direct feedback, and offer feedback in the same spirit.
 
-We expect 37signals to be a healthy place for all staff. 37signals prohibits all forms of discrimination and harassment. 
+* Assume good intentions. Approach work relationships defaulting to trust and positivity.
+* Work "in the open" and be open to teaching and learning from others.
+* Be respectful and empathetic, especially when it comes to differing viewpoints and experiences.
+* Gracefully accept constructive criticism and direct feedback, and offer feedback in the same spirit.
+
+We expect 37signals to be a healthy place for all staff. 37signals prohibits all forms of discrimination and harassment.
 
 If you experience or witness something that violates our Code of Conduct, please report it to your manager or to your People Ops team via email or chat. All reports will be reviewed and investigated, and your confidentiality will be as protected as possible during the investigation.
 
