@@ -1,14 +1,14 @@
 # 37signals Code of Conduct
 
-37signals pledges to be a company with a healthy and friendly work environment. What follows applies to all current 37signals staff.
+37signals pledges to be a company with a calm and friendly work environment. What follows applies to all active 37signals employees and contractors.
 
-Behavior that contributes to a healthy and friendly work environment:
-* Being respectful and empathetic, especially when it comes to differing viewpoints and experiences.
-* Gracefully accepting constructive criticism and direct feedback, as well as offering it in that spirit.
-* Assuming good intentions. Approaching work relationships defaulting to trust and positivity.
-* Working "in the open" and taking time to teach and learn from others.
+We expect all active 37signals employees and contractors to:
+* be respectful and empathetic, especially when it comes to differing viewpoints and experiences.
+* gracefully accept constructive criticism and direct feedback, and offer feedback in the same spirit.
+* assume good intentions. Approach work relationships defaulting to trust and positivity.
+* work "in the open" and be open to teaching and learning from others.
 
-37signals prohibits all forms of discrimination and harassment. 
+We expect 37signals to be a healthy place for all staff. 37signals prohibits all forms of discrimination and harassment. 
 
 If you experience or witness something that violates our Code of Conduct, please report it to your manager or to your People Ops team via email or chat. All reports will be reviewed and investigated, and your confidentiality will be as protected as possible during the investigation.
 
