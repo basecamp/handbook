@@ -1,7 +1,5 @@
 # 37signals Code of Conduct
 
-37signals pledges to be a company with a calm and friendly work environment. What follows applies to all active 37signals employees and contractors.
-
 We expect all active 37signals employees and contractors to:
 
 * Assume good intentions. Approach work relationships defaulting to trust and positivity.
