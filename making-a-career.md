@@ -4,7 +4,7 @@
 
 Congratulations! You’re part of the team!
 
-In your first 90 days, you’ll be getting aligned with your manager on approach and expectations. You’ll get up and running, doing real work.It’s your manager’s responsibility to give you proper opportunities to demonstrate your skills and fit for the job. This includes your technical expertise, your engagement with coworkers, and your ability to take feedback and adapt to the 37signals culture. Similarly, it’s on you to take advantage of those opportunities and to show that you’re capable of meeting the team standards.
+In your first 90 days, you’ll be getting aligned with your manager on approach and expectations. You’ll get up and running, doing real work. It’s your manager’s responsibility to give you proper opportunities to demonstrate your skills and fit for the job. This includes your technical expertise, your engagement with coworkers, and your ability to take feedback and adapt to the 37signals culture. Similarly, it’s on you to take advantage of those opportunities and to show that you’re capable of meeting the team standards.
 
 When you start, you’ll receive an outline of expected performance metrics for your first 3 months. Those standards will be clear and attainable, and your manager will give you frequent, candid feedback. On occasion, despite our collective best efforts, it’s not a fit. We don’t do full-scale performance improvement plans during the first three months. So if during that time it starts looking like your long-term employment won’t work out, your manager will let you know early and why.
 
