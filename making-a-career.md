@@ -1,30 +1,37 @@
 # Making a Career
 
-## Your First 90 Days
+## Your First Year
 
 Congratulations! You’re part of the team!
 
-In your first 90 days, you’ll be getting aligned with your manager on approach and expectations. You’ll get up and running, doing real work. It’s your manager’s responsibility to give you proper opportunities to demonstrate your skills and fit for the job. This includes your technical expertise, your engagement with coworkers, and your ability to take feedback and adapt to the 37signals culture. Similarly, it’s on you to take advantage of those opportunities and to show that you’re capable of meeting the team standards.
+In your first few weeks, you’ll get aligned with your manager and team on approach and expectations. You’ll get up and running, doing real work. It’s your manager’s responsibility to give you proper opportunities to demonstrate your skills and fit for the job. This includes your technical expertise, your engagement with coworkers, and your ability to take feedback and adapt to the 37signals culture. Similarly, it’s on you to take advantage of those opportunities and to show that you’re capable of meeting the team standards.
 
-When you start, you’ll receive an outline of expected performance metrics for your first 3 months. Those standards will be clear and attainable, and your manager will give you frequent, candid feedback. On occasion, despite our collective best efforts, it’s not a fit. We don’t do full-scale performance improvement plans during the first three months. So if during that time it starts looking like your long-term employment won’t work out, your manager will let you know early and why.
+When you start, you’ll receive an outline of expected performance metrics. Those standards will be clear and attainable, and your manager will give you frequent, candid feedback on how you're doing meeting them, as you go.
 
-We hope, and fully expect, that your first 90 days will confirm what we learned in the hiring phase — you’re well suited for this job, and you’re invigorated by the work to be done. Just put in your best effort, make sure you reach out if things aren’t feeling right, embrace the feedback you get from your manager, and openly share your feedback with them!
+You'll have formal performance reviews with your manager at the 3-, 6-, and 12-month marks. On occasion, despite our collective best efforts, it’s not a fit. We don’t do full-scale performance improvement plans during the first year. So if during that time it starts looking like your long-term employment won’t work out, your manager will let you know early and why.
+
+By the time you've reached your 1st anniversary with the company, we expect to be as excited about working with you as we were on day one. Likewise you should consider if you feel the same about having joined the team. When both of those answers are ["hell yeah!"](https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb), you'll move into a less frequent performance review cycle. Just once a year, around your anniversary of joining the company.
+
+Your first year with 37signals should confirm what we learned in the hiring phase — you’re well suited for this job, and you’re invigorated by the work to be done. Just put in your best effort, make sure you reach out if things aren’t feeling right, embrace the feedback you get from your manager, and openly share your feedback with them!
 
 ## Mastery & Titles
 
 Advancing your career at 37signals doesn’t mean giving up on your craft. No matter your role, you can become better at the work itself and level up that way. This is especially important since we’re a relatively small company with few layers of managerial cake.
 
-Within each of our job functions, we’ve mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different. Here’s an example of the titles for programming:
+Within each of our job functions, we’ve mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different. 
+* Junior (L1)
+* Mid-level (L2)
+* Senior (L3)
+* Lead (L4)
+* Principal (L5)
 
-* Junior Programmer
-* Programmer
-* Senior Programmer
-* Lead Programmer
-* Principal Programmer
+Mastery and internal leveling are assessed and determined during hiring.
 
-While this is how we recognize mastery, it’s by no means an expectation that everyone will start as a junior and end up as a principal. 37signals needs people and perspectives from all levels of skill. And for those who do end up progressing all the way through this path, it may well be a journey of many, many years, if not a decade+.
+If you're hired at a level below Senior, you should work towards developing Senior level skills. Juniors should achieve Senior in 4 years (2 to Mid-level, 2 to Senior), and Mid-level contributors should achieve Senior in 2 years. When everyone is able to follow that trajectory, we create healthy, high-performing teams where everyone can trust each other to run at similar speeds. When people aren't able to level up within the above timeframes, after ample opportunities to do so, we usually determine that to be a bad long-term fit and we'll decide to part ways.
 
-You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [QA](https://github.com/basecamp/handbook/blob/master/titles-for-QA.md), and [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md).
+Once you reach Senior, there is no expectation of further progression to Lead or Principal. In fact, most people will not achieve the Principal title! We see that level as reserved for people whose innovative work creates a resounding impact across the organization and even the industry. Those who do end up progressing all the way through our path usually have worked at 37signals for a decade or more.
+
+The proficiencies expected of all of our major teams by level are documented here: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [QA](https://github.com/basecamp/handbook/blob/master/titles-for-QA.md), and [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md).
 
 ## Pay & Promotions
 
@@ -47,5 +54,3 @@ Managers are expected to document performance review outcomes and any action ite
 ## Performance Improvement Plans
 
 If your work performance is not meeting expectations, you may be put on a Performance Improvement Plan (PIP). We only initiate PIPs if your manager’s concern is correctable in the short term. We do not initiate PIPs for fundamental performance issues that relate to your core job skills. If you’re a Programmer whose coding skills are not at the level they need to be, we’d forego a PIP. However, we may initiate a PIP to help you improve your performance in a coachable skill like project management.
-
-If you are terminated, you may be eligible for a severance package. If you've been with the company for less than 1 year, you'll be offered 4 weeks severance pay. After a year, you'll be offered an additional 2 weeks of severance pay for every 6 months of employment over 1 year, with a maximum of 6 months of severance pay. The package includes health insurance for you and your dependents if you’ve been on our policies for the same time periods, compensation for unused vacation time, and compensation for unused sabbatical time if applicable (1 year look back). Compensation for all pay categories is calculated using your hourly rate. In return, you’ll be asked for a general release of liabilities and other standard employment termination terms.
