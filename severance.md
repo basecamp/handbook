@@ -4,4 +4,4 @@ If your employment or contract with 37signals is terminated, you may be eligible
 
 The package will also include health insurance for you and your dependents if you’ve been on our policies for the same time periods, compensation for unused vacation time, and compensation for unused sabbatical time if applicable (1 year look back).
 
-Compensation for unused PTO is calculated using your hourly rate. In return, you’ll be asked for a general release of liabilities and other standard employment termination terms. If you're terminated for cause like misconduct, violation of company policies, insubordination or substance abuse while working, you will not be eligible for severance unless otherwise determined by management.
+Compensation for unused PTO is calculated using your hourly rate. In return, you’ll be asked for a general release of liabilities and other standard employment termination terms. If you're terminated for cause; such as misconduct, violation of company policies, insubordination or substance abuse while working, you will not be eligible for severance unless otherwise determined by management.
