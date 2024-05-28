@@ -20,6 +20,7 @@ Please reach out to the People Ops team or to your manager if you have any quest
 * [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
 * [Code of Conduct](https://github.com/basecamp/handbook/blob/master/code-of-conduct.md)
 * [State Leave Provisions](https://github.com/basecamp/handbook/blob/master/stateFMLA.md)
+* [Severance Packages](https://github.com/basecamp/handbook/blob/master/severance.md)
 * [Titles for Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md)
 * [Titles for Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md)
 * [Titles for Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
