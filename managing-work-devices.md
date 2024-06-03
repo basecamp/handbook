@@ -1,6 +1,6 @@
 # Managing work devices
 
-Everyone receives a new Mac [when they join 37signals](https://basecamp.com/handbook/08-getting-started#your-first-few-days). We centrally manage and secure these devices with [Kandji](https://kandji.io/) which reduces our exposure to security incidents. Kandji applies a standard configuration to every device (e.g. enable disk encryption, firewall, password rules), it installs essential apps (e.g. EncryptMe), and it will ensure the apps have the latest security updates applied. Kandji also allows us to remotely wipe devices should they be lost, or when an employee leaves the company.
+Everyone receives a new Mac [when they join 37signals](https://github.com/basecamp/handbook/blob/f094e5f8b778515d363d84c9ae139cc006b66f3b/getting-started.md#your-first-few-days). We centrally manage and secure these devices with [Kandji](https://kandji.io/) which reduces our exposure to security incidents. Kandji applies a standard configuration to every device (e.g. enable disk encryption, firewall, password rules), it installs essential apps (e.g. EncryptMe), and it will ensure the apps have the latest security updates applied. Kandji also allows us to remotely wipe devices should they be lost, or when an employee leaves the company.
 
 This doesn’t mean you are being monitored or tracked! Kandji is a configuration management system, not a panopticon.
 
