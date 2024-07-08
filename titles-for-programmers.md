@@ -2,7 +2,7 @@
 
 ## Programming Management
 
-On Web and SIP programming teams, Lead Programmers (L4) and Principal Programmers (L5) act as tech leads to Junior - Senior Programmers (L1-3). All Leads and Principals report directly to our CTO. Tech leads are responsible for:
+On Web and [SIP (Security, Infrastructure, and Performance)](https://dev.37signals.com/navigating-personal-information-with-care/) programming teams, Lead Programmers (L4) and Principal Programmers (L5) act as tech leads to Junior - Senior Programmers (L1-3). All Leads and Principals report directly to our CTO. Tech leads are responsible for:
 - Reviewing a report's substantial PRs before they're shipped.
 - Having a kick-off conversation with a report on every substantial project.
 - Reviewing a report's on-call work and handoff after every shift.
