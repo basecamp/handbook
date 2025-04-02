@@ -25,7 +25,7 @@ We respect everyone’s right to participate in political expression and activis
 
 ## Some Definitions & Resources
 
-* [Discrimination](https://www.eeoc.gov/discrimination-type)
+* [Discrimination](https://www.eeoc.gov/equal-employment-opportunity-laws)
 * [Harassment](https://www.eeoc.gov/harassment)
 * [Sexual Harassment](https://www.eeoc.gov/sexual-harassment)
 * [Retaliation](https://www.eeoc.gov/retaliation)
