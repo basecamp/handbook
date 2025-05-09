@@ -111,7 +111,7 @@ This Program does not have any set expiration date, but the company reserves the
 
 ## Laptop Policy
 
-We order a new MacBook for everyone hired at 37signals. You can choose the model and specs, within reason and considering the demands of your role. You can upgrade your laptop at any time – when yours breaks, gets too old, or if a more efficient model is released and replacing your machine would benefit your work. Please get approval from Finance before purchasing a new laptop.
+We order a new laptop for everyone hired at 37signals. You can choose the model and specs, within reason and considering the demands of your role. You can upgrade your laptop at any time – when yours breaks, gets too old, or if a more efficient model is released and replacing your machine would benefit your work. Please get approval from Finance before purchasing a new laptop.
 
 ## Home Office Set-up
 
