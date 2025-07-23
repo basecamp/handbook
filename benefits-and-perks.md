@@ -25,7 +25,7 @@ Vision insurance in the US is provided through MetLife. The company pays 100% of
 
 ### Health Insurance for Staff Outside the US
 
-If you’re outside of the US and pay out of pocket for private health insurance, you can request reimbursement for 75% of your insurance payments on your monthly invoice. Your monthly reimbursement is capped at the amount 37signals pays per employee per month on the US employee group plan. You may be asked to provide documentation to support your request for reimbursement.
+If you’re outside of the US and pay out of pocket for health insurance, you can request reimbursement for 75% of your insurance payments on your monthly invoice. Your monthly reimbursement is capped at the amount 37signals pays per employee per month on the US employee group plan. You may be asked to provide documentation to support your request for reimbursement.
 
 ### Life Insurance
 
