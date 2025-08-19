@@ -30,7 +30,7 @@ We track programming exceptions on Sentry. When a customer hits a “Oops, somet
 
 ## Kandji
 
-[Kandji](https://kandji.io) is how we make sure all work laptops are securely configured and running the latest software updates. It helps us reduce our exposure to security incidents. You can read more about this in [Managing work devices](https://github.com/basecamp/handbook/blob/master/managing-work-devices.md).
+[Kandji](https://kandji.io) is how we make sure all Mac laptops are securely configured and running the latest software updates. It helps us reduce our exposure to security incidents. You can read more about this in [Managing work devices](https://github.com/basecamp/handbook/blob/master/managing-work-devices.md).
 
 ## Shipshape
 
