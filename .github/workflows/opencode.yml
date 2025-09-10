@@ -19,9 +19,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Run opencode
-        uses: sst/opencode/github@0e0c5a9b6839e6df4c0583c756765e53be408b3b
+      - name: Checkout opencode action
+        uses: actions/checkout@v4
+        with:
+          repository: sst/opencode
+          ref: 0e0c5a9b6839e6df4c0583c756765e53be408b3b
+          path: .opencode-action
+
+      - name: Install opencode
+        run: curl -fsSL https://opencode.ai/install | bash
+
+      - name: Install bun
+        run: npm install -g bun
+
+      - name: Install dependencies
+        run: |
+          cd .opencode-action
+          bun install
+
+      - name: Run opencode action
+        run: bun .opencode-action/github/index.ts
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        with:
-          model: anthropic/claude-sonnet-4-20250514
+          MODEL: anthropic/claude-sonnet-4-20250514
