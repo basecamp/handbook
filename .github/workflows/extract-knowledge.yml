@@ -1,0 +1,143 @@
+name: Extract Handbook Knowledge
+
+on:
+  push:
+    paths: ['*.md']
+  pull_request:
+    paths: ['*.md']
+  workflow_dispatch:
+
+jobs:
+  extract-knowledge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Create extraction script
+        run: |
+          cat > extract-knowledge.js << 'EOF'
+          const fs = require('fs');
+          const path = require('path');
+
+          // Parse markdown files and extract structured data
+          function parseMarkdownFile(filePath) {
+            const content = fs.readFileSync(filePath, 'utf8');
+            const lines = content.split('\n');
+            
+            return {
+              path: filePath,
+              content: content,
+              lines: lines,
+              wordCount: content.split(/\s+/).length
+            };
+          }
+
+          // Extract role requirements from titles-for-*.md files
+          function extractRoleRequirements() {
+            const roles = {};
+            const titleFiles = fs.readdirSync('.')
+              .filter(file => file.startsWith('titles-for-') && file.endsWith('.md'));
+
+            titleFiles.forEach(file => {
+              const roleName = file.replace('titles-for-', '').replace('.md', '');
+              const content = fs.readFileSync(file, 'utf8');
+              
+              // Extract table data (basic parsing)
+              const tableLines = content.split('\n').filter(line => line.includes('|'));
+              
+              roles[roleName] = {
+                file: file,
+                levels: ['Junior', 'Mid-level', 'Senior', 'Lead', 'Principal'],
+                tableLines: tableLines.length,
+                content: content
+              };
+            });
+
+            return roles;
+          }
+
+          // Extract onboarding steps from getting-started.md
+          function extractOnboardingSteps() {
+            if (!fs.existsSync('getting-started.md')) return {};
+            
+            const content = fs.readFileSync('getting-started.md', 'utf8');
+            const lines = content.split('\n');
+            
+            const steps = [];
+            lines.forEach((line, index) => {
+              if (line.startsWith('*') || line.trim().startsWith('-')) {
+                steps.push({
+                  step: line.trim(),
+                  lineNumber: index + 1
+                });
+              }
+            });
+
+            return {
+              totalSteps: steps.length,
+              steps: steps,
+              sections: content.match(/^##\s+(.+)$/gm) || []
+            };
+          }
+
+          // Main extraction
+          const knowledge = {
+            timestamp: new Date().toISOString(),
+            files: {},
+            roles: extractRoleRequirements(),
+            onboarding: extractOnboardingSteps(),
+            summary: {
+              totalFiles: 0,
+              totalWords: 0,
+              roles: 0
+            }
+          };
+
+          // Process all markdown files
+          const mdFiles = fs.readdirSync('.').filter(file => file.endsWith('.md'));
+          mdFiles.forEach(file => {
+            const data = parseMarkdownFile(file);
+            knowledge.files[file] = data;
+            knowledge.summary.totalWords += data.wordCount;
+          });
+
+          knowledge.summary.totalFiles = mdFiles.length;
+          knowledge.summary.roles = Object.keys(knowledge.roles).length;
+
+          // Save knowledge base
+          fs.writeFileSync('knowledge-base.json', JSON.stringify(knowledge, null, 2));
+          
+          console.log('📚 Knowledge extraction complete!');
+          console.log(`- Processed ${knowledge.summary.totalFiles} files`);
+          console.log(`- Found ${knowledge.summary.roles} role definitions`);
+          console.log(`- Extracted ${knowledge.onboarding.totalSteps} onboarding steps`);
+          console.log(`- Total words: ${knowledge.summary.totalWords}`);
+          EOF
+
+      - name: Extract knowledge from handbook
+        run: node extract-knowledge.js
+
+      - name: Upload knowledge base as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: handbook-knowledge
+          path: knowledge-base.json
+
+      - name: Display extraction summary
+        run: |
+          echo "## 📚 Knowledge Extraction Results" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY  
+          echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Files Processed | $(jq '.summary.totalFiles' knowledge-base.json) |" >> $GITHUB_STEP_SUMMARY
+          echo "| Role Definitions | $(jq '.summary.roles' knowledge-base.json) |" >> $GITHUB_STEP_SUMMARY  
+          echo "| Onboarding Steps | $(jq '.onboarding.totalSteps' knowledge-base.json) |" >> $GITHUB_STEP_SUMMARY
+          echo "| Total Words | $(jq '.summary.totalWords' knowledge-base.json) |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🎯 Available Roles:" >> $GITHUB_STEP_SUMMARY
+          jq -r '.roles | keys[]' knowledge-base.json | sed 's/^/- /' >> $GITHUB_STEP_SUMMARY

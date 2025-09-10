@@ -1,0 +1,95 @@
+name: 📋 New Employee Onboarding
+description: Create a comprehensive onboarding plan for a new team member
+title: "📋 Onboard: [NAME] - [ROLE] - [START_DATE]"
+labels: ["onboarding-master", "needs-automation"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This will automatically create sub-issues for all onboarding tasks based on the employee's role and level.
+        
+  - type: input
+    id: employee_name
+    attributes:
+      label: Employee Name
+      description: Full name of the new employee
+      placeholder: "Alice Johnson"
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: role
+    attributes:
+      label: Role
+      description: What role is this person being hired for?
+      options:
+        - Designer
+        - Programmer  
+        - Ops
+        - QA
+        - Support
+        - Other
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: level
+    attributes:
+      label: Level
+      description: What level are they starting at?
+      options:
+        - L1 (Junior)
+        - L2 (Mid-level)
+        - L3 (Senior)
+        - L4 (Lead)
+        - L5 (Principal)
+    validations:
+      required: true
+      
+  - type: input
+    id: start_date
+    attributes:
+      label: Start Date
+      description: First day of work (YYYY-MM-DD format)
+      placeholder: "2025-02-01"
+    validations:
+      required: true
+      
+  - type: input
+    id: manager
+    attributes:
+      label: Manager
+      description: GitHub username of their direct manager (without @)
+      placeholder: "jane-manager"
+    validations:
+      required: true
+      
+  - type: input
+    id: buddy
+    attributes:
+      label: 37signals Buddy
+      description: GitHub username of their assigned buddy (without @)
+      placeholder: "senior-developer"
+    validations:
+      required: false
+      
+  - type: textarea
+    id: special_notes
+    attributes:
+      label: Special Notes
+      description: Any special requirements or notes for this onboarding
+      placeholder: "Remote from EU timezone, needs specific software access, etc."
+    validations:
+      required: false
+      
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      description: Please confirm you've reviewed the requirements
+      options:
+        - label: I have confirmed the employee details and role requirements
+          required: true
+        - label: Manager and buddy have been notified of the new hire
+          required: true

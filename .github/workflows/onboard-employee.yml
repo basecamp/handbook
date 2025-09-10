@@ -1,0 +1,258 @@
+name: Automated Employee Onboarding
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  create-onboarding-tasks:
+    if: contains(github.event.issue.labels.*.name, 'onboarding-master')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Parse issue data and create onboarding tasks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          cat > create-onboarding.js << 'EOF'
+          const { Octokit } = require('@octokit/rest');
+          const fs = require('fs');
+
+          const octokit = new Octokit({
+            auth: process.env.GITHUB_TOKEN,
+          });
+
+          const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
+          const issueNumber = process.env.ISSUE_NUMBER;
+          const issueBody = process.env.ISSUE_BODY;
+
+          // Parse the issue body to extract employee details
+          function parseEmployeeData(body) {
+            const lines = body.split('\n');
+            const data = {};
+            
+            // Extract form data (basic parsing - could be enhanced)
+            const nameMatch = body.match(/Employee Name[:\s]*([^\n\r]+)/i);
+            const roleMatch = body.match(/Role[:\s]*([^\n\r]+)/i);
+            const levelMatch = body.match(/Level[:\s]*([^\n\r]+)/i);
+            const startDateMatch = body.match(/Start Date[:\s]*([^\n\r]+)/i);
+            const managerMatch = body.match(/Manager[:\s]*([^\n\r]+)/i);
+            const buddyMatch = body.match(/37signals Buddy[:\s]*([^\n\r]+)/i);
+
+            return {
+              name: nameMatch ? nameMatch[1].trim() : 'New Employee',
+              role: roleMatch ? roleMatch[1].trim() : 'Unknown',
+              level: levelMatch ? levelMatch[1].trim() : 'L1',
+              startDate: startDateMatch ? startDateMatch[1].trim() : '2025-01-01',
+              manager: managerMatch ? managerMatch[1].trim() : '',
+              buddy: buddyMatch ? buddyMatch[1].trim() : ''
+            };
+          }
+
+          // Generate role-specific tasks based on handbook content
+          function generateRoleTasks(role, level) {
+            const tasks = [];
+            
+            // Base tasks for all roles
+            tasks.push({
+              title: `🖥️ IT Setup for ${employee.name}`,
+              body: `## IT Setup and Account Provisioning
+
+          **Employee:** ${employee.name}
+          **Role:** ${employee.role} 
+          **Start Date:** ${employee.startDate}
+
+          ### Equipment Setup
+          - [ ] Order laptop with requested specs
+          - [ ] Ship external keyboard, mouse, display if needed
+          - [ ] Install Kandji device management
+          - [ ] Set up Shipshape security tool
+
+          ### Account Creation
+          - [ ] Create Basecamp account
+          - [ ] Set up email account
+          - [ ] Provision necessary software licenses
+          - [ ] Grant access to internal systems per role requirements
+
+          **Due:** 1 week before start date
+          **Assigned to:** Ops team`,
+              labels: ['onboarding-task', 'it-setup'],
+              assignees: []
+            });
+
+            tasks.push({
+              title: `📚 Week 1 Onboarding - ${employee.name}`,
+              body: `## First Week Integration
+
+          **Employee:** ${employee.name}
+          **Manager:** ${employee.manager ? '@' + employee.manager : 'TBD'}
+          **Buddy:** ${employee.buddy ? '@' + employee.buddy : 'TBD'}
+
+          ### Day 1 Tasks
+          - [ ] Manager 1:1 - set recurring schedule and review expectations
+          - [ ] Create "Welcome, ${employee.name}!" Basecamp project
+          - [ ] Introduction to 37signals buddy
+          - [ ] Team introductions
+
+          ### Week 1 Tasks  
+          - [ ] Join weekly team call
+          - [ ] Review onboarding expectations document
+          - [ ] Complete environment setup with Ops buddy
+          - [ ] Begin real project work with support
+
+          **References:**
+          - [Getting Started Guide](getting-started.md)
+          - [How We Work](how-we-work.md)`,
+              labels: ['onboarding-task', 'week-1'],
+              assignees: employee.manager ? [employee.manager] : []
+            });
+
+            // Role-specific tasks
+            const roleLower = role.toLowerCase();
+            if (['designer', 'programmer', 'ops', 'qa', 'support'].includes(roleLower)) {
+              tasks.push({
+                title: `🎯 ${role} Skills Development - ${employee.name}`,
+                body: `## ${role} Role-Specific Development
+
+          **Employee:** ${employee.name}
+          **Level:** ${employee.level}
+          **Target:** ${level === 'L1 (Junior)' ? 'Achieve Senior (L3) in 4 years' : 'Excel at current level'}
+
+          ### Skills Focus
+          Based on [titles-for-${roleLower}.md](titles-for-${roleLower}.md):
+
+          - [ ] Review level-specific skill requirements
+          - [ ] Identify growth areas with manager
+          - [ ] Create development plan
+          - [ ] Set up regular skill check-ins
+
+          ### Performance Timeline
+          - Month 1: Initial skills assessment
+          - Month 3: First formal review
+          - Month 6: Mid-point review and goal adjustment
+          - Month 12: Annual review and promotion consideration
+
+          **Manager:** ${employee.manager ? '@' + employee.manager : 'TBD'}`,
+                labels: ['onboarding-task', 'skills-development'],
+                assignees: employee.manager ? [employee.manager] : []
+              });
+            }
+
+            // Milestone reviews
+            [3, 6, 12].forEach(months => {
+              tasks.push({
+                title: `📊 ${months}-Month Review - ${employee.name}`,
+                body: `## ${months}-Month Performance Review
+
+          **Employee:** ${employee.name}
+          **Review Date:** ${new Date(new Date(employee.startDate).getTime() + months * 30 * 24 * 60 * 60 * 1000).toISOString().split('T')[0]}
+
+          ### Review Preparation
+          - [ ] Employee self-assessment
+          - [ ] Manager preparation and feedback collection
+          - [ ] Performance metrics review
+          - [ ] Goal setting for next period
+
+          ### Review Outcomes
+          - [ ] Document review results
+          - [ ] Update development plan if needed
+          - [ ] Set action items and deadlines
+          ${months === 12 ? '- [ ] Consider promotion eligibility' : ''}
+
+          **Manager:** ${employee.manager ? '@' + employee.manager : 'TBD'}
+          **Reference:** [Making a Career](making-a-career.md)`,
+                labels: ['onboarding-task', `${months}month-review`],
+                assignees: employee.manager ? [employee.manager] : []
+              });
+            });
+
+            return tasks;
+          }
+
+          async function createIssues() {
+            const employee = parseEmployeeData(issueBody);
+            console.log('Creating onboarding tasks for:', employee);
+
+            const tasks = generateRoleTasks(employee.role, employee.level);
+            const createdIssues = [];
+
+            for (const task of tasks) {
+              try {
+                const issue = await octokit.rest.issues.create({
+                  owner,
+                  repo,
+                  title: task.title,
+                  body: task.body,
+                  labels: task.labels,
+                  assignees: task.assignees
+                });
+                
+                createdIssues.push(issue.data);
+                console.log(`✅ Created: ${task.title}`);
+              } catch (error) {
+                console.error(`❌ Failed to create: ${task.title}`, error.message);
+              }
+            }
+
+            // Update master issue with links to created sub-issues
+            const updateBody = `# 🎉 Onboarding Tasks Created!
+
+          **Employee:** ${employee.name}  
+          **Role:** ${employee.role} (${employee.level})
+          **Start Date:** ${employee.startDate}
+
+          ## 📋 Sub-Issues Created:
+          ${createdIssues.map(issue => `- #${issue.number} ${issue.title}`).join('\n')}
+
+          ## 👥 Team
+          - **Manager:** ${employee.manager ? '@' + employee.manager : 'TBD'}
+          - **Buddy:** ${employee.buddy ? '@' + employee.buddy : 'TBD'}
+
+          ---
+          *This onboarding plan was automatically generated from the 37signals Employee Handbook.*`;
+
+            await octokit.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number: issueNumber,
+              body: updateBody
+            });
+
+            // Remove the needs-automation label
+            await octokit.rest.issues.removeLabel({
+              owner,
+              repo,
+              issue_number: issueNumber,
+              name: 'needs-automation'
+            });
+
+            // Add completed label
+            await octokit.rest.issues.addLabels({
+              owner,
+              repo,
+              issue_number: issueNumber,
+              labels: ['automation-complete']
+            });
+
+            console.log(`🚀 Created ${createdIssues.length} onboarding tasks!`);
+          }
+
+          createIssues().catch(console.error);
+          EOF
+
+          npm init -y
+          npm install @octokit/rest
+          node create-onboarding.js

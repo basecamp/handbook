@@ -1,0 +1,97 @@
+{
+  "roles": {
+    "designer": {
+      "title": "Designer",
+      "levels": ["L1 (Junior)", "L2 (Mid-level)", "L3 (Senior)", "L4 (Lead)", "L5 (Principal)"],
+      "progression": {
+        "L1": "Achieve Senior (L3) in 4 years (2 to Mid-level, 2 to Senior)",
+        "L2": "Achieve Senior (L3) in 2 years", 
+        "L3": "No expectation of further progression"
+      },
+      "handbookFile": "titles-for-designers.md"
+    },
+    "programmer": {
+      "title": "Programmer", 
+      "levels": ["L1 (Junior)", "L2 (Mid-level)", "L3 (Senior)", "L4 (Lead)", "L5 (Principal)"],
+      "progression": {
+        "L1": "Achieve Senior (L3) in 4 years (2 to Mid-level, 2 to Senior)",
+        "L2": "Achieve Senior (L3) in 2 years",
+        "L3": "No expectation of further progression"
+      },
+      "handbookFile": "titles-for-programmers.md"
+    },
+    "ops": {
+      "title": "Ops",
+      "levels": ["L1 (Junior)", "L2 (Mid-level)", "L3 (Senior)", "L4 (Lead)", "L5 (Principal)"],
+      "progression": {
+        "L1": "Achieve Senior (L3) in 4 years",
+        "L2": "Achieve Senior (L3) in 2 years", 
+        "L3": "No expectation of further progression"
+      },
+      "handbookFile": "titles-for-ops.md"
+    },
+    "qa": {
+      "title": "QA",
+      "levels": ["L1 (Junior)", "L2 (Mid-level)", "L3 (Senior)", "L4 (Lead)", "L5 (Principal)"],
+      "progression": {
+        "L1": "Achieve Senior (L3) in 4 years",
+        "L2": "Achieve Senior (L3) in 2 years",
+        "L3": "No expectation of further progression" 
+      },
+      "handbookFile": "titles-for-QA.md"
+    },
+    "support": {
+      "title": "Support",
+      "levels": ["L1 (Junior)", "L2 (Mid-level)", "L3 (Senior)", "L4 (Lead)", "L5 (Principal)"],
+      "progression": {
+        "L1": "Achieve Senior (L3) in 4 years",
+        "L2": "Achieve Senior (L3) in 2 years",
+        "L3": "No expectation of further progression"
+      },
+      "handbookFile": "titles-for-support.md"
+    }
+  },
+  "milestones": [
+    {
+      "months": 3,
+      "title": "First Performance Review",
+      "description": "Initial skills assessment and performance review"
+    },
+    {
+      "months": 6, 
+      "title": "Mid-Point Review",
+      "description": "Progress evaluation and goal adjustment"
+    },
+    {
+      "months": 12,
+      "title": "Annual Review", 
+      "description": "Comprehensive review and promotion consideration"
+    }
+  ],
+  "defaultTasks": [
+    {
+      "title": "IT Setup",
+      "emoji": "🖥️",
+      "dueOffset": -7,
+      "assigneeType": "ops"
+    },
+    {
+      "title": "Week 1 Integration",
+      "emoji": "📚", 
+      "dueOffset": 0,
+      "assigneeType": "manager"
+    },
+    {
+      "title": "Skills Development",
+      "emoji": "🎯",
+      "dueOffset": 0, 
+      "assigneeType": "manager"
+    }
+  ],
+  "settings": {
+    "autoAssignBuddy": true,
+    "createBasecampProject": false,
+    "sendSlackNotifications": false,
+    "scheduleCalendarEvents": false
+  }
+}
