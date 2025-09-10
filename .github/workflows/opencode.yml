@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run opencode
-        uses: sst/opencode/github@v0.7.0
+        uses: sst/opencode/github@v0.6.9
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         with:
