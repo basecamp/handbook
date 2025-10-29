@@ -31,13 +31,13 @@ If you’re outside of the US and pay out of pocket for health insurance, you ca
 
 37signals offers a $400,000 life insurance/AD+D policy to all staff through MetLife. The company pays 100% of the premium. You’re eligible for coverage on your first day of employment, and it’s terminated automatically on your final day of employment. Open enrollment is in November every year, and participants are auto-enrolled at that time.
 
-### Short Term Disability Insurance
+### Disability Insurance
 
-37signals provides a MetLife short-term disability policy to all US employees, at no cost to the employee. The policy may replace up to 70% of your salary on a weekly basis, for up to 12 weeks and up to $3,000 per week. There is a 7-calendar-day waiting period when you become ill or injured.
+37signals provides MetLife Short Term and Long Term Disability policies to all US employees, at no cost to the employee. The Short Term policy may replace up to 70% of your salary, up to 12 weeks and up to $3,000 per week. There is a 7-calendar-day waiting period for Short Term Disability. The Long Term policy may replace up to 60% of your salary, up to $12,000 per month. There's a 90 day waiting period for Long Term Disability.
 
-You’re eligible for coverage on your first day of employment, and the policy will be terminated on your final day of employment.
+You’re eligible for coverage on your first day of employment, and the policies will terminate on your final day of employment.
 
-More information about the policy and filing claims can be found [in Basecamp](https://3.basecamp.com/2914079/buckets/28168307/vaults/6902906404).
+More information about the policies and filing claims can be found [in Basecamp](https://3.basecamp.com/2914079/buckets/28168307/vaults/6902906404).
 
 ## Retirement Plan
 
