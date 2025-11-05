@@ -109,9 +109,9 @@ Employees are eligible for shares in the liquidity pool after two years of worki
 
 This Program does not have any set expiration date, but the company reserves the right to amend it or cancel it at any time. You forfeit your shares in the liquidity pool if you resign or are terminated from 37signals before the distribution date.
 
-## Laptop Policy
+## Computer Policy
 
-We order a new laptop for everyone hired at 37signals. You can choose the model and specs, within reason and considering the demands of your role. You can upgrade your laptop at any time – when yours breaks, gets too old, or if a more efficient model is released and replacing your machine would benefit your work. Please get approval from Finance before purchasing a new laptop.
+We order a new computer for everyone hired at 37signals. You can choose the model and specs, within reason and considering the demands of your role. You can upgrade your computer at any time – when yours breaks, gets too old, or if a more efficient model is released and replacing your machine would benefit your work. Please get approval from Finance before purchasing a new computer.
 
 ## Home Office Set-up
 

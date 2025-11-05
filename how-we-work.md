@@ -22,13 +22,13 @@ In between each cycle, we spend two weeks cooling down. That’s when product te
 
 Since we work asynchronously and remotely, it’s important to [radiate information](https://dev.37signals.com/the-radiating-programmer/) about what we’re working on. We have 4 chief mechanisms for doing that.
 
-1. *What did you work on today?* You’ll be asked this question every afternoon, and you’re [required](https://3.basecamp.com/2914079/buckets/28168307/messages/6796789594) to answer at least twice a week. You should describe what you’re working on and give some context about why you’re working on it or why it’s important.
-2. *What will you be working on this week?* You’ll be asked this question every Monday morning, and you’re [required](https://3.basecamp.com/2914079/buckets/28168307/messages/6796789594) to answer every week.
+* *What did you work on today?* You’ll be asked this question every afternoon, and you’re [required](https://3.basecamp.com/2914079/buckets/28168307/messages/6796789594) to answer at least twice a week. You should describe what you’re working on and give some context about why you’re working on it or why it’s important.
+* *What will you be working on this week?* You’ll be asked this question every Monday morning, and you’re [required](https://3.basecamp.com/2914079/buckets/28168307/messages/6796789594) to answer every week.
 
 Daily and weekly check-ins are subdivided by department so you’re only subscribed to your team’s answers. You’re of course free to subscribe to other team check-ins, but you’re not obligated to do so if you find it too noisy.
 
-3. Every team submits a *Kickoff* for the upcoming cycle, and they’re due the second Friday of the cooldown period. Teams use their kickoff to summarize the work they have scheduled for the upcoming cycle.
-4. *Heartbeats* are required of every team, and they’re due on the first Friday of the cooldown period. Teams use their heartbeat to summarize and celebrate the work they completed during the previous cycle, and the work described in the cycle heartbeat should line up (more or less) with the work you scheduled in the cycle kickoff.
+* Every team submits a *Kickoff* for the upcoming cycle, and they’re due the second Friday of the cooldown period. Teams use their kickoff to summarize the work they have scheduled for the upcoming cycle.
+* *Heartbeats* are required of every team, and they’re due on the first Friday of the cooldown period. Teams use their heartbeat to summarize and celebrate the work they completed during the previous cycle, and the work described in the cycle heartbeat should line up (more or less) with the work you scheduled in the cycle kickoff.
 
 These 4 mechanisms work together to free individuals and teams to run their days and cycles with confidence and independence. We have six opportunities per year to make big decisions about what to work on, and the rest of the time should chiefly be spent carrying out those short-term plans. By having clear expectations for communication, it’s easier for everyone to build trust in where we’re going and why.
 

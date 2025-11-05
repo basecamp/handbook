@@ -18,7 +18,8 @@ Your first year with 37signals should confirm what we learned in the hiring phas
 
 Advancing your career at 37signals doesn’t mean giving up on your craft. No matter your role, you can become better at the work itself and level up that way. This is especially important since we’re a relatively small company with few layers of managerial cake.
 
-Within each of our job functions, we’ve mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different. 
+Within each of our job functions, we’ve mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different.
+
 * Junior (L1)
 * Mid-level (L2)
 * Senior (L3)
