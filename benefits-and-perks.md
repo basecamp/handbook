@@ -47,7 +47,7 @@ If you’re outside the US, 37signals will match what you contribute to a retire
 
 ## Flexible Spending Account (FSA)
 
-The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $3,200/year per person in your household. There is a separate type of FSA for dependent care, and the max for that plan is $5,000/year or $2,500/year if you split this with a partner. This is an entirely optional program. Open enrollment is in December every year, with new coverage beginning January 1. Both FSAs are with Paychex, our payroll provider.
+The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $3,300/year per person in your household. There is a separate type of FSA for dependent care, and the max for that plan is $7,500/year or $3,750/year if you split this with a partner. This is an entirely optional program. Open enrollment is in December every year, with new coverage beginning January 1. Both FSAs are with Paychex, our payroll provider.
 
 ## Paid Time Off
 
@@ -93,7 +93,7 @@ Everyone has the option to purchase pet insurance through Figo at a 10% discount
 
 ## Employee Profit Sharing
 
-37signals shares 10% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, usually around March (e.g. 2022 profits distributed in March 2023).
+37signals shares 10% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, usually around March (e.g. 2025 profits distributed in March 2026).
 
 You’re eligible to participate in profit sharing after two years of working at 37signals. You’ll accrue one share per month starting on your second anniversary at 37signals, and you’ll max out your shares at 10 years. We calculate shares based on months of tenure so there’s no unfair cliff between being hired in December vs January.
 
