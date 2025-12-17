@@ -1,6 +1,6 @@
 # State Paid Family Leave Provisions
 
-Below are states that offer state-sponsored Paid Family Leave and in which 37signals has employees. If you work in one of the following states and contribute to these programs, you may qualify for leave.
+Below are states that offer state-sponsored Paid Family Leave and in which 37signals has employees. If you work in one of the following states and contribute to these programs, you may qualify for leave. More detailed explanations of these benefits and their workplace posters can be [found in Basecamp](https://3.basecamp.com/2914079/buckets/28168307/vaults/5061106800).
 
 ## California Paid Family Leave
 
@@ -22,7 +22,7 @@ Below are states that offer state-sponsored Paid Family Leave and in which 37sig
 * [Paid Medical Leave](https://www.mass.gov/info-details/pfml-about-medical-leave-to-manage-your-own-serious-health-condition) to manage your own serious health condition, up to 20 weeks per benefit year.
 * [Paid Family Leave for Family Care](https://www.mass.gov/info-details/pfml-about-family-leave-to-care-for-a-family-member) to care for a family member with a serious health condition, up to 12 weeks per benefit year.
 * [Paid Family Leave for Bonding](https://www.mass.gov/info-details/pfml-about-family-leave-to-bond-with-a-child) to bond with a child during the first 12 months after the child’s birth, adoption, or foster care placement, up to 12 weeks.
-* [Paid Family Leave for Family Members of Covered Service Personnel](https://www.mass.gov/info-details/pfml-about-leave-for-family-members-of-covered-military-personnel) to manage needs that take place immediately after a family member who is covered service personnel is deployed or about to be deployed on active duty, up to 12 weeks, or to care for a family member who is service personnel with a serious health condition, up to 26 weeks.
+* [Paid Family Leave for Family Members of Covered Service Personnel](https://www.mass.gov/info-details/pfml-about-leave-for-family-members-of-covered-military-personnel) to manage needs that take place immediately after a family member who is covered service personnel is deployed or about to be deployed on active duty, up to 12 weeks per benefit year, *or* to care for a family member who is service personnel with a serious health condition, up to 26 weeks per benefit year.
 
 ## Oregon Paid Family Leave
 
