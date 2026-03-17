@@ -51,7 +51,3 @@ When you get a promotion, that is you move from one level to another, you’ll g
 You’ll meet with your manager for formal performance reviews. When you’re new to 37signals, you’ll meet at the 3-month, 6-month, and 1-year marks. Then you’ll meet once a year, around your anniversary with the company. Your manager will share performance expectations for your role when you start, and they’ll keep you apprised of any changes to expectations should they evolve.
 
 Managers are expected to document performance review outcomes and any action items or deadlines that come out of the meetings.
-
-## Performance Improvement Plans
-
-If your work performance is not meeting expectations, you may be put on a Performance Improvement Plan (PIP). We only initiate PIPs if your manager’s concern is correctable in the short term. We do not initiate PIPs for fundamental performance issues that relate to your core job skills. If you’re a Programmer whose coding skills are not at the level they need to be, we’d forego a PIP. However, we may initiate a PIP to help you improve your performance in a coachable skill like project management.
