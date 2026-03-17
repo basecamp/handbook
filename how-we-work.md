@@ -53,3 +53,10 @@ That means setting your own direction when one isn’t given; and determining wh
 We limit ourselves to a 40-hour (32-hour in the summer) work week. Keeping our hours at work limited forces us to prioritize the work that really matters. A healthy amount of sleep and a rich and rewarding life outside of work should not be squandered for a few more hours at work.
 
 There are occasions when teams or individuals need to work off-hours for on-call, maintenance, or emergencies. This time should not be in addition to your normal working hours. Use your discretion to take time off to make up for the additional hours you put in during the week.
+
+## Cooperatively
+Everyone at 37signals is expected to work together respectfully and from a starting place of trust, positivity, and cooperation. 
+
+Inform your manager or People Ops if you experience behavior that's inconsistent with our standards. They'll assess the situation, correct any behavior that's out of line, and ensure it does not happen again.
+
+To further encourage our cooperative working environment, we avoid having political debates on our internal communication systems. 37signals as a company does not weigh in on politics publicly, outside of topics directly related to our business. We respect everyone’s right to participate in political expression and personal activism, but you should be at peace with both of these stances while at work.
