@@ -47,7 +47,7 @@ If you’re outside the US, 37signals will match what you contribute to a retire
 
 ## Flexible Spending Account (FSA)
 
-The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $3,300/year per person in your household. There is a separate type of FSA for dependent care, and the max for that plan is $7,500/year or $3,750/year if you split this with a partner. This is an entirely optional program. Open enrollment is in December every year, with new coverage beginning January 1. Both FSAs are with Paychex, our payroll provider.
+The FSA is an account where you can set aside pre-tax money for out-of-pocket medical expenses, such as prescriptions, over-the-counter medicine, vision care, etc. You have to decide up front how much money you want to put in the account, and the max is $3,300/year per person in your household. There is a separate type of FSA for dependent care, and the max for that plan is $7,500/year or $3,750/year if you split this with a partner. This is an entirely optional program. Open enrollment is in December every year, with new coverage beginning January 1. Both FSAs are through FLEX, and detail can be found [in Basecamp](https://app.3.basecamp.com/2914079/buckets/28168307/vaults/7783033318).
 
 ## Paid Time Off
 
