@@ -1,10 +1,10 @@
 # Managing work devices
 
-Everyone receives a new Mac [when they join 37signals](https://github.com/basecamp/handbook/blob/f094e5f8b778515d363d84c9ae139cc006b66f3b/getting-started.md#your-first-few-days). We centrally manage and secure these devices with [Kandji](https://kandji.io/) which reduces our exposure to security incidents. Kandji applies a standard configuration to every device (e.g. enable disk encryption, firewall, password rules), it installs essential apps (e.g. EncryptMe), and it will ensure the apps have the latest security updates applied. Kandji also allows us to remotely wipe devices should they be lost, or when an employee leaves the company.
+Everyone receives a new Mac [when they join 37signals](https://github.com/basecamp/handbook/blob/f094e5f8b778515d363d84c9ae139cc006b66f3b/getting-started.md#your-first-few-days).
 
 We mainly use macOS and Linux at 37signals to develop and support our applications.
 
-With macOS, we centrally manage and secure these devices with [Kandji](https://kandji.io/). Kandji applies a standard configuration to every device (e.g. enable disk encryption, firewall, password rules), it installs essential apps, and it will ensure the apps have the latest security updates applied. Kandji also allows us to remotely wipe devices should they be lost, or when an employee leaves the company. (This doesn’t mean you are being monitored or tracked! Kandji is a configuration management system, not a panopticon.)
+With macOS, we centrally manage and secure these devices with [Kandji](https://kandji.io/). Kandji applies a standard configuration to every device (e.g. enable disk encryption, firewall, password rules), it installs essential apps (e.g. EncryptMe), and it will ensure the apps have the latest security updates applied. Kandji also allows us to remotely wipe devices should they be lost, or when an employee leaves the company. (This doesn’t mean you are being monitored or tracked! Kandji is a configuration management system, not a panopticon.)
 
 With Linux, we run [Omarchy](https://omarchy.org), which already comes with the standard configuration needed (full-disk encryption, firewall, etc). Here we lean on 1password to provide the employee onboarding/offboarding of access to credentials and our Tailscale VPN to control access to internal systems. We don't use a managed process like Kandji.
 
