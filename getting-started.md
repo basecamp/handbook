@@ -20,3 +20,5 @@ Your welcome project will also contain a list of people to meet over the course 
 * People Ops. You’ll meet with Andrea to review 37signals policies, benefits, and compensation.
 
 After your environment has been set up, expectations are clear, and you’ve met who you need to meet, you’ll get to work! You’ll begin working on real projects, with plenty of support and guidance, within your first week. Your responsibilities and impact will increase as you learn and gain confidence over the next few months, and most people are up to speed and feeling fully part of the team in about 3 months.
+
+[Continue to Benefits & Perks →](benefits-and-perks.md)

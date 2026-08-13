@@ -21,3 +21,5 @@ Devices running Android, iOS/iPadOS, and Windows are currently unmanaged. It’s
 ## FAQ
 
 There are many questions that arise from IT policies such as this, so we've written [an FAQ in BC4](https://3.basecamp.com/2914079/buckets/31986799/documents/6044843594) to help answer them.
+
+[Continue to Our Internal Systems →](our-internal-systems.md)

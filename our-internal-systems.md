@@ -41,3 +41,5 @@ Dash is the main hub for everything that has to do with logging (like finding wh
 Shipshape is the OG in-house tool for ensuring your work Mac laptop is safe and secure. We still run it, but it's gradually being superceded by Kandji. When you’re given access to the company’s GitHub account, you can run Shipshape to be sure you’re up to code. Shipshape will also test your machine periodically to let you know (and our SIP team know) if your machine springs a leak and needs bailing out.
 
 [github.com/basecamp/shipshape 🔒](https://github.com/basecamp/shipshape)
+
+[Continue to A Note About Moonlighting →](moonlighting.md)

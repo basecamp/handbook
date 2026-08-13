@@ -62,3 +62,5 @@ Inform your manager or People Ops if you experience behavior that's inconsistent
 To further encourage our cooperative working environment, we avoid having political debates on our internal communication systems. 37signals as a company does not weigh in on politics publicly, outside of topics directly related to our business. We respect everyone’s right to participate in political expression and personal activism, but you should be at peace with both of these stances while at work.
 
 Nothing in this policy limits US employees' rights to [file a complaint](https://www.eeoc.gov/how-file-charge-employment-discrimination) with the Equal Employment Opportunity Commission or any other regulatory agency.
+
+[Continue to Making a Career →](making-a-career.md)
