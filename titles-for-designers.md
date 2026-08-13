@@ -18,3 +18,5 @@
 | *Flexibility* | You have a point of view as a designer and you're demonstrated comfort expressing it. You're able to disagree and commit. | You have a point of view as a designer and you're demonstrated comfort expressing it. You're able to disagree and commit. | You have a strong point of view, but you've shown you're able to edit and be flexible. | You have a strong point of view, but you've shown you're able to edit and be flexible. |
 | **Coachability** |  |  |  |  |
 | *Feedback* | You observe and learn from the work and behavior of others. You receive constructive feedback with a growth mindset. | You receive constructive feedback with a growth mindset. You provide specific, thoughtful feedback within area of expertise when asked. | You can provide specific, material, constructive feedback on the work of more junior designers that deepens their knowledge across broad areas. | You define team standards and guidance. You're consistently sought by colleagues across the company for assistance with critical work or decisions. |
+
+[Continue to Titles for Ops →](titles-for-ops.md)

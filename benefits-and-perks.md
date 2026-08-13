@@ -134,3 +134,5 @@ All employees can have a free personal Basecamp account and a free personal HEY 
 All staff carry a 37signals Visa card that you can use for work expenses like the benefits described above, software, computer equipment, meet-up travel, or office supplies. Check with your manager or your People Ops team if you have any doubts about whether or not a purchase qualifies as a work expense.
 
 We use an expense management platform called [Airbase](https://www.airbase.com/). You’re responsible for the monthly categorizing of your expenses and uploading receipts for purchases over $75. Full instructions on how to log your expenses in Airbase can be found in [Basecamp](https://3.basecamp.com/2914079/buckets/28168307/documents/5508145768).
+
+[Continue to How We Work →](how-we-work.md)

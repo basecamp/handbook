@@ -32,3 +32,5 @@ Here are a few guiding principles about whether something could be a problem:
 In general, we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
 
 It’s hard to come up with one-size fits all rules. If you’re in doubt, please reach out to your manager.
+
+[Continue to State Leave Provisions →](stateFMLA.md)

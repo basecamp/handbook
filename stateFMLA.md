@@ -37,3 +37,5 @@ Below are states that have Paid Medical and Family Leave provisions and in which
 * Paid Family Leave for [caring for and bonding with a child](https://paidleave.oregon.gov/employees/applying-for-family-leave.html) within the first year of the birth of a new baby or the placement of an adopted or foster child, up to 14 weeks. Paid Leave Oregon provides job protection and monetary benefits.
 * [Paid Family Leave for Family Care](https://paidleave.oregon.gov/employees/applying-for-family-leave.html) to care for a seriously ill or injured family member, up to 12 weeks. Paid Leave Oregon provides job protection and monetary benefits.
 * [Paid Family Leave for Safe Leave](https://paidleave.oregon.gov/employees/applying-for-safe-leave.html) to care for yourself or your child after an incident of assault or domestic violence, up to 12 weeks. Paid Leave Oregon provides job protection and monetary benefits.
+
+[Continue to Severance Packages →](severance.md)

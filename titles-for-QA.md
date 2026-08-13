@@ -15,3 +15,5 @@
 | *Trust* | Work is reviewed with some back and forth and the occasional need for material direction or implementation changes. Trusted to run QA end-to-end for product features that requires little or no oversight or correction. Makes material contributions to documentation. | Consistently sought by colleagues for assistance with QA, feature scope or issue severity decisions. Capable of directing the QA team strategy for an entire cycle. Oversees the work of third-party firms (testing, accessibility), providing feedback and ensuring appropriate quality. |
 | **Coachability** |  |  |
 | *Feedback* | Receives constructive feedback with a growth mindset. Has self-awareness about core strengths and areas for development. Provides specific, well-considered feedback within area of expertise, when asked. Is able to disagree and commit. | Seeks constructive feedback on own work with a growth mindset. Has self-awareness about core strengths and areas for development. Provides developing oversight to senior, mid, and junior QA testers. Can disagree and commit. |
+
+[Continue to Titles for Support →](titles-for-support.md)
