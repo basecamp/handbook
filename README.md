@@ -16,6 +16,7 @@ Please reach out to the People Ops team or to your manager if you have any quest
 * [Making a Career](https://github.com/basecamp/handbook/blob/master/making-a-career.md)
 * [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md)
 * [Managing Work Devices](https://github.com/basecamp/handbook/blob/master/managing-work-devices.md)
+* [Customer Data & Privacy](https://github.com/basecamp/handbook/blob/master/customer-data-and-privacy.md)
 * [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)
 * [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
 * [State Leave Provisions](https://github.com/basecamp/handbook/blob/master/stateFMLA.md)
