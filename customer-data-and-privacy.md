@@ -12,7 +12,7 @@ Don’t access customer data unless the task in front of you requires it – a s
 
 ## Keep it inside our systems
 
-Customer data lives in our applications and internal tools, and nowhere else. Don’t copy it into outside tools or services, and don’t put it on personal devices – the same line drawn in [Managing work devices](https://github.com/basecamp/handbook/blob/master/managing-work-devices.md): work data stays on work machines. If you need a snippet to debug something or hand off a case, take the minimum and delete it when you’re done.
+Customer data lives in our applications and internal tools. Working with it there is fine – including through our BC4 and HEY apps on your phone, which [Managing work devices](https://github.com/basecamp/handbook/blob/master/managing-work-devices.md) allows. Taking it out is not: don’t copy customer data into outside tools or services, and don’t store it on personal or unmanaged devices – the same devices the device policy already bars from holding code and secrets. If you need a snippet to debug something or hand off a case, take the minimum and delete it when you’re done.
 
 ## If something goes wrong
 
